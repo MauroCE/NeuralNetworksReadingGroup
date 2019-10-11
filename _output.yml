@@ -1,3 +1,2 @@
 blogdown::html_page:
   toc: true
-  toc_float: true

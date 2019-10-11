@@ -1,0 +1,11 @@
+---
+title: Welcome to Neural Networks reading group website!
+author: Mauro Camara Escudero
+date: '2019-10-11'
+categories:
+  - Admin
+tags:
+  - websiteadmin
+slug: welcome
+---
+Hi everyone! I hope you are as excited as we are about this reading group. We thought we'd make it more engaging by having a simple website where we can share links to the papers, post summaries and ideas. This is still a work in progress and feeback and suggestions are very much appreciated. For now, you can send your feedback to m.camaraescudero@bristol.ac.uk.

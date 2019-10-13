@@ -14,9 +14,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "Location"
-    url = "/room/"
+    url = "/room/"  
 [[menu.main]]
-    name = "GitHub"
+    name = "Repository"
     url = "https://github.com/MauroCE/NeuralNetworksReadingGroup"
 
 [params]

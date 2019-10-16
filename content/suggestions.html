@@ -37,7 +37,10 @@ div {
   padding: 20px;
 }
 </style>
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSekMkhQWmY6Juj02DDGMXvvmu2J6-TkWzYFn4QJKoNefBw-MQ/formResponse" method="post">
+<script type="text/javascript">var submitted=false;</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='thankyou.html';}">
+</iframe>
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSekMkhQWmY6Juj02DDGMXvvmu2J6-TkWzYFn4QJKoNefBw-MQ/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
 <p><label>Name*</label>
 <input type="text" placeholder="Name*" name="entry.933962511" required></p>
 <p><label>Topic of Interest*</label>

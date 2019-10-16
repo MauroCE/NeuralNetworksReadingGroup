@@ -50,4 +50,8 @@
     <loc>/suggestions/</loc>
   </url>
   
+  <url>
+    <loc>/thankyou/</loc>
+  </url>
+  
 </urlset>

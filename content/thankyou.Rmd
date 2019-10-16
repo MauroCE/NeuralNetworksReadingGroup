@@ -1,0 +1,6 @@
+---
+title: "Thank you!"
+output: html_document
+---
+
+Your response has been submitted!

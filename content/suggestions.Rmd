@@ -1,13 +1,7 @@
 ---
-title: "suggestions"
+title: "Reading Suggestions"
 output: html_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Reading Suggestions
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSekMkhQWmY6Juj02DDGMXvvmu2J6-TkWzYFn4QJKoNefBw-MQ/formResponse" method="post">
       <label>Name*</label>

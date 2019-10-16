@@ -16,6 +16,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Location"
     url = "/room/"  
 [[menu.main]]
+    name = "Reading Suggestions"
+    url = "/suggestions/"
+[[menu.main]]
     name = "Repository"
     url = "https://github.com/MauroCE/NeuralNetworksReadingGroup"
 

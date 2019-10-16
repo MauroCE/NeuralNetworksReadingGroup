@@ -46,4 +46,8 @@
     <loc>/room/</loc>
   </url>
   
+  <url>
+    <loc>/suggestions/</loc>
+  </url>
+  
 </urlset>

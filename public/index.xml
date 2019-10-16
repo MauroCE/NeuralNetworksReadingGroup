@@ -38,5 +38,14 @@
       <description>We are currently talking to people regarding finding a permanent location where we could host our reading group. All updates will be posted here.</description>
     </item>
     
+    <item>
+      <title>suggestions</title>
+      <link>/suggestions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/suggestions/</guid>
+      <description>  Reading Suggestions   Reading Suggestions Name* Topic of Interest* Suggested Reading Material Send    </description>
+    </item>
+    
   </channel>
 </rss>

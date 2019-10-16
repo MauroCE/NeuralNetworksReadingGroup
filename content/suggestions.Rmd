@@ -1,0 +1,23 @@
+---
+title: "suggestions"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Reading Suggestions
+
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSekMkhQWmY6Juj02DDGMXvvmu2J6-TkWzYFn4QJKoNefBw-MQ/formResponse" method="post">
+      <label>Name*</label>
+      <input type="text" placeholder="Name*" name="entry.933962511" required>
+  
+      <label>Topic of Interest*</label>
+      <input type="email" placeholder="Topic of Interest*" name="entry.1219046093" required>
+    
+      <label>Suggested Reading Material</label>
+      <input type="text" placeholder="Suggested Reading Material*" name="entry.1309891765" required>
+     
+      <button type="submit">Send</button>
+</form>

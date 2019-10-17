@@ -38,7 +38,7 @@ div {
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
-onload="if(submitted) {window.location='content/thankyou.html';}"></iframe>
+onload="if(submitted) {window.location='../thankyou/';}"></iframe>
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSekMkhQWmY6Juj02DDGMXvvmu2J6-TkWzYFn4QJKoNefBw-MQ/formResponse" method="post"  target="hidden_iframe" onsubmit="submitted=true;">
       <label>Name*</label>

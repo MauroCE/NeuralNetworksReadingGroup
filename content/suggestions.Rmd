@@ -47,7 +47,7 @@ onload="if(submitted) {window.location='../thankyou/';}"></iframe>
       <label>Topic of Interest*</label>
       <input type="text" placeholder="Topic of Interest*" name="entry.1219046093" required>
     
-      <label>Suggested Reading Material</label>
+      <label>Suggested Reading Material*</label>
       <input type="text" placeholder="Suggested Reading Material*" name="entry.1309891765" required>
      
       <button type="submit">Send</button>

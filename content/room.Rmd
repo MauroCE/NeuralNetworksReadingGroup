@@ -4,4 +4,4 @@ date: "10/13/2019"
 output: html_document
 ---
 
-We are currently talking to people regarding finding a permanent location where we could host our reading group. All updates will be posted here.
+We meet every Tuesday from 15:00 to 16:00 in room 1.11 in the Fry Building.

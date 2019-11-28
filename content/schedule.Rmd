@@ -26,7 +26,7 @@ th, td {
   </tr>
   <tr>
     <td>10th December</td>
-    <td>Patrick Rubin-Delanchy</td>
+    <td>Christophe Andrieu</td>
   </tr>
   <tr>
     <td>17th December</td>
@@ -46,7 +46,7 @@ th, td {
   </tr>
   <tr>
     <td>4th February</td>
-    <td>Christophe Andrieu</td>
+    <td>Patrick Rubin-Delanchy</td>
   </tr>
   <tr>
     <td>11th February</td>

@@ -45,7 +45,7 @@
       
       <guid>/schedule/</guid>
       <description> The current schedule is
- table, th, td { border: 1px solid black; border-collapse: collapse; } th, td { padding: 15px; }     Date   Name     10th December   Patrick Rubin-Delanchy     17th December   Anthony Lee     14th January   Song Liu     21st January   Mark Beaumont     28th January   Mauro Camara Escudero     4th February   Christophe Andrieu     11th February   Andi Wang     18th February   Mathieu Gerber     25th February   Nick Whiteley    </description>
+ table, th, td { border: 1px solid black; border-collapse: collapse; } th, td { padding: 15px; }     Date   Name     10th December   Christophe Andrieu     17th December   Anthony Lee     14th January   Song Liu     21st January   Mark Beaumont     28th January   Mauro Camara Escudero     4th February   Patrick Rubin-Delanchy     11th February   Andi Wang     18th February   Mathieu Gerber     25th February   Nick Whiteley    </description>
     </item>
     
     <item>

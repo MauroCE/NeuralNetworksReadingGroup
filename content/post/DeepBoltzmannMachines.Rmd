@@ -1,0 +1,13 @@
+---
+title: Deep Boltzmann Machines
+author: Mauro Camara Escudero
+date: '2019-12-02'
+slug: deep-boltzmann-machines
+categories: [Meeting]
+tags:
+  - boltzmann machines
+  - markov random field
+  - hopfield networks
+---
+
+On Tuesday 3rd of December Pierre will present the [paper](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf) Deep Bolzmann Machines by Ruslan Salakhutdinov and Geoffrey Hinton.

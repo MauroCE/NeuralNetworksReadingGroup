@@ -6,10 +6,19 @@
     <description>Recent content on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Boltzmann Machines</title>
+      <link>/deep-boltzmann-machines/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/deep-boltzmann-machines/</guid>
+      <description>On Tuesday 3rd of December Pierre will present the paper Deep Bolzmann Machines by Ruslan Salakhutdinov and Geoffrey Hinton.</description>
+    </item>
     
     <item>
       <title>Welcome to Neural Networks reading group website!</title>

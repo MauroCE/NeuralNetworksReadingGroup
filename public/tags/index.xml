@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>boltzmann machines</title>
+      <link>/tags/boltzmann-machines/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/boltzmann-machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hopfield networks</title>
+      <link>/tags/hopfield-networks/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hopfield-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markov random field</title>
+      <link>/tags/markov-random-field/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/markov-random-field/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>websiteadmin</title>

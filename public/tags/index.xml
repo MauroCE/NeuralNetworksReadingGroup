@@ -6,10 +6,100 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>bristol</title>
+      <link>/tags/bristol/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bristol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>christophe-andrieu</title>
+      <link>/tags/christophe-andrieu/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/christophe-andrieu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>convolutional</title>
+      <link>/tags/convolutional/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/convolutional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>convolutional-neural-networks</title>
+      <link>/tags/convolutional-neural-networks/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/convolutional-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multiscale-models-for-image-classification-and-physics-with-deep-networks</title>
+      <link>/tags/multiscale-models-for-image-classification-and-physics-with-deep-networks/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multiscale-models-for-image-classification-and-physics-with-deep-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-networks</title>
+      <link>/tags/neural-networks/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading-group</title>
+      <link>/tags/reading-group/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reading-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stephane-mallat</title>
+      <link>/tags/stephane-mallat/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/stephane-mallat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>boltzmann machines</title>

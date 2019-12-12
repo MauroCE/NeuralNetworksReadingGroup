@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meeting on Neural Networks Reading Group UoB</title>
-    <link>/categories/meeting/</link>
-    <description>Recent content in Meeting on Neural Networks Reading Group UoB</description>
+    <title>convolutional-neural-networks on Neural Networks Reading Group UoB</title>
+    <link>/tags/convolutional-neural-networks/</link>
+    <description>Recent content in convolutional-neural-networks on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/meeting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/convolutional-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/deep-convolutional-networks/</guid>
       <description>On Tuesday 10th of December we watched the video “Multiscale Models for Image Classification and Physics with Deep Networks” by Stéphane Mallat.</description>
-    </item>
-    
-    <item>
-      <title>Deep Boltzmann Machines</title>
-      <link>/deep-boltzmann-machines/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/deep-boltzmann-machines/</guid>
-      <description>On Tuesday 3rd of December Pierre presented the paper Deep Bolzmann Machines by Ruslan Salakhutdinov and Geoffrey Hinton. The slides are available</description>
     </item>
     
   </channel>

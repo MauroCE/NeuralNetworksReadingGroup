@@ -1,0 +1,20 @@
+---
+title: Deep Convolutional Networks
+author: Mauro Camara Escudero
+date: '2019-12-12'
+slug: deep-convolutional-networks
+categories:
+  - Meeting
+tags:
+  - convolutional
+  - neural-networks
+  - deep-learning
+  - convolutional-neural-networks
+  - machine-learning
+  - bristol
+  - reading-group
+  - christophe-andrieu
+  - stephane-mallat
+  - multiscale-models-for-image-classification-and-physics-with-deep-networks
+---
+On Tuesday 10th of December we watched the [video](https://www.youtube.com/watch?v=R5hSqeLSQC0&app=desktop) "Multiscale Models for Image Classification and Physics with Deep Networks" by Stéphane Mallat.

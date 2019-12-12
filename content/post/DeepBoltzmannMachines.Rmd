@@ -10,4 +10,4 @@ tags:
   - hopfield networks
 ---
 
-On Tuesday 3rd of December Pierre presented the [paper](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf) Deep Bolzmann Machines by Ruslan Salakhutdinov and Geoffrey Hinton. The [slides](NNRG_Pierre_DBM.pdf) are available
+On Tuesday 3rd of December Pierre presented the [paper](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf) Deep Bolzmann Machines by Ruslan Salakhutdinov and Geoffrey Hinton. The [slides](https://neuralnetworksbristol.netlify.com/NNRG_Pierre_DBM.pdf) are available

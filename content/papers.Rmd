@@ -1,0 +1,44 @@
+---
+title: "Previous Papers"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here's a list of the papers that have previously been presented.
+
+
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+</style>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Presented By</th>
+    <th>Paper Title</th>
+  </tr>
+  <tr>
+    <td>3rd December</td>
+    <td>Pierre-Aurelien Gilliot</td>
+    <td><a href="http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf">Deep Boltzmann Machines - Ruslan Salakhutdinov</a></td>
+  </tr>
+  <tr>
+    <td>10th December</td>
+    <td>Christophe Andrieu</td>
+    <td><a href="https://www.youtube.com/watch?v=R5hSqeLSQC0&app=desktop">Multiscale Models for Image Classification and Physics with Deep Networks - Stéphane Mallat</a></td>
+  </tr>
+  <tr>
+    <td>17th December</td>
+    <td>Anthony Lee</td>
+    <td><a href="https://arxiv.org/abs/1708.06633">Nonparametric regression using deep neural networks with ReLU activation function - Johannes Schmidt-Hieber</a></td>
+  </tr>
+</table>

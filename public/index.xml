@@ -65,7 +65,7 @@ The abstract is given below.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/papers/</guid>
-      <description> Here’s a list of the papers that have previously been presented.
+      <description> Here’s a list of the papers/videos that have previously been presented.
  table, th, td { border: 1px solid black; border-collapse: collapse; } th, td { padding: 15px; }     Date   Presented By   Paper Title     3rd December   Pierre-Aurelien Gilliot   Deep Boltzmann Machines - Ruslan Salakhutdinov     10th December   Christophe Andrieu   Multiscale Models for Image Classification and Physics with Deep Networks - Stéphane Mallat     17th December   Anthony Lee   Nonparametric regression using deep neural networks with ReLU activation function - Johannes Schmidt-Hieber    </description>
     </item>
     

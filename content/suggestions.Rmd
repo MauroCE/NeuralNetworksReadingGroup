@@ -52,3 +52,6 @@ onload="if(submitted) {window.location='../thankyou/';}"></iframe>
      
       <button type="submit">Send</button>
 </form>
+
+
+The current reading suggestions are avaiable in this [Google Sheet](https://docs.google.com/spreadsheets/d/1z3FFbr7DucyT1_9BVL4wqAeG-eGGjG50WyQhqRHXzi4/edit?usp=sharing).

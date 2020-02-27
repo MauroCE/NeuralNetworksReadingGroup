@@ -39,6 +39,6 @@ th, td {
   <tr>
     <td>17th December</td>
     <td>Anthony Lee</td>
-    <td><a href="https://arxiv.org/abs/1708.06633 target="_blank"">Nonparametric regression using deep neural networks with ReLU activation function - Johannes Schmidt-Hieber</a></td>
+    <td><a href="https://arxiv.org/abs/1708.06633" target="_blank">Nonparametric regression using deep neural networks with ReLU activation function - Johannes Schmidt-Hieber</a></td>
   </tr>
 </table>

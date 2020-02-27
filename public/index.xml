@@ -73,7 +73,7 @@
       
       <guid>/schedule/</guid>
       <description> The current schedule is
- table, th, td { border: 1px solid black; border-collapse: collapse; } th, td { padding: 15px; }     Date   Name     17th December   Anthony Lee     14th January   Song Liu     21st January   Mark Beaumont     28th January   Mauro Camara Escudero     4th February   Patrick Rubin-Delanchy     11th February   Andi Wang     18th February   Mathieu Gerber     25th February   Nick Whiteley    </description>
+  Date Name Room    2020-03-10 Song Liu Fry Building 1.11  2020-03-17 Mark Beaumont Fry Building 1.11  2020-03-24 Mauro Camara Escudero Fry Building 1.11  2020-03-31 Mingxuan Yi Fry Building 1.11  2020-04-07 Andy Wang Fry Building 1.11  2020-04-14 Sam Tickle Fry Building 1.11    -- -- -- -- Date -- Name -- -- -- 17th December -- Anthony Lee -- -- -- 14th January -- Song Liu -- -- -- 21st January -- Mark Beaumont -- -- -- 28th January -- Mauro Camara Escudero -- -- -- 4th February -- Patrick Rubin-Delanchy -- -- -- 11th February -- Andi Wang -- -- -- 18th February -- Mathieu Gerber -- -- -- 25th February -- Nick Whiteley -- -- -- </description>
     </item>
     
     <item>

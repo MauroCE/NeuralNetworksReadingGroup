@@ -9,53 +9,68 @@ knitr::opts_chunk$set(echo = TRUE)
 
 The current schedule is
 
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 15px;
-}
-</style>
 
-<table>
-  <tr>
-    <th>Date</th>
-    <th>Name</th>
-  </tr>
-  <tr>
-    <td>17th December</td>
-    <td>Anthony Lee</td>
-  </tr>
-  <tr>
-    <td>14th January</td>
-    <td>Song Liu</td>
-  </tr>
-  <tr>
-    <td>21st January</td>
-    <td>Mark Beaumont</td>
-  </tr>
-  <tr>
-    <td>28th January</td>
-    <td>Mauro Camara Escudero</td>
-  </tr>
-  <tr>
-    <td>4th February</td>
-    <td>Patrick Rubin-Delanchy</td>
-  </tr>
-  <tr>
-    <td>11th February</td>
-    <td>Andi Wang</td>
-  </tr>
-  <tr>
-    <td>18th February</td>
-    <td>Mathieu Gerber</td>
-  </tr>
-  <tr>
-    <td>25th February</td>
-    <td>Nick Whiteley</td>
-  </tr>
-</table>
+```{r, echo=FALSE}
+dates    <- seq(as.Date("2020-03-10"), as.Date("2020-04-14"), by="weeks")
+names    <- c("Song Liu", "Mark Beaumont", "Mauro Camara Escudero", "Mingxuan Yi", "Andy Wang", "Sam Tickle")
+location <- rep("Fry Building 1.11", 6)
+schedule <- data.frame(
+  Date=dates,
+  Name=names,
+  Room=location
+)
+knitr::kable(schedule)
+```
+
+
+
+<!-- <style> -->
+<!-- table, th, td { -->
+<!--   border: 1px solid black; -->
+<!--   border-collapse: collapse; -->
+<!-- } -->
+<!-- th, td { -->
+<!--   padding: 15px; -->
+<!-- } -->
+<!-- </style> -->
+
+<!-- <table> -->
+<!--   <tr> -->
+<!--     <th>Date</th> -->
+<!--     <th>Name</th> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td>17th December</td> -->
+<!--     <td>Anthony Lee</td> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td>14th January</td> -->
+<!--     <td>Song Liu</td> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td>21st January</td> -->
+<!--     <td>Mark Beaumont</td> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td>28th January</td> -->
+<!--     <td>Mauro Camara Escudero</td> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td>4th February</td> -->
+<!--     <td>Patrick Rubin-Delanchy</td> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td>11th February</td> -->
+<!--     <td>Andi Wang</td> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td>18th February</td> -->
+<!--     <td>Mathieu Gerber</td> -->
+<!--   </tr> -->
+<!--   <tr> -->
+<!--     <td>25th February</td> -->
+<!--     <td>Nick Whiteley</td> -->
+<!--   </tr> -->
+<!-- </table> -->
 
 

@@ -77,7 +77,7 @@ The abstract is given below.
       
       <guid>/papers/</guid>
       <description> Here’s a list of the papers/videos that have previously been presented.
- table, th, td { border: 1px solid black; border-collapse: collapse; } th, td { padding: 15px; }     Date   Presented By   Paper Title     3rd December   Pierre-Aurelien Gilliot   Deep Boltzmann Machines - Ruslan Salakhutdinov     10th December   Christophe Andrieu   Multiscale Models for Image Classification and Physics with Deep Networks - Stéphane Mallat     17th December   Anthony Lee   Nonparametric regression using deep neural networks with ReLU activation function - Johannes Schmidt-Hieber    </description>
+ table, th, td { border: 1px solid black; border-collapse: collapse; } th, td { padding: 15px; }     Date   Presented By   Paper Title     3rd December   Pierre-Aurelien Gilliot   Deep Boltzmann Machines - Ruslan Salakhutdinov     10th December   Christophe Andrieu   Multiscale Models for Image Classification and Physics with Deep Networks - Stéphane Mallat     17th December   Anthony Lee   Nonparametric regression using deep neural networks with ReLU activation function - Johannes Schmidt-Hieber     10th March   Patrick Rubin-Delanchy   Uniform convergence may be unable to explain generalization in deep learning - Vaishnavh Nagarajan    </description>
     </item>
     
     <item>

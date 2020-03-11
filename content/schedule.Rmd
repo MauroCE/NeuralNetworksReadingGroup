@@ -11,9 +11,9 @@ The current schedule is
 
 
 ```{r, echo=FALSE}
-dates    <- seq(as.Date("2020-03-10"), as.Date("2020-04-21"), by="weeks")
-names    <- c("Patrick Rubin-Delanchy", "Song Liu", "Mark Beaumont", "Mauro Camara Escudero", "Mingxuan Yi", "Andy Wang", "Sam Tickle")
-location <- rep("Fry Building 1.11", 7)
+dates    <- seq(as.Date("2020-03-17"), as.Date("2020-04-21"), by="weeks")
+names    <- c("Song Liu", "Mark Beaumont", "Mauro Camara Escudero", "Mingxuan Yi", "Andy Wang", "Sam Tickle")
+location <- rep("Fry Building 1.11", 6)
 schedule <- data.frame(
   Date=dates,
   Name=names,

@@ -71,6 +71,16 @@ The abstract is given below.
     </item>
     
     <item>
+      <title>Members</title>
+      <link>/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/members/</guid>
+      <description> The current members of the Neural Network Reading Group are listed below.
+members &amp;lt;- data.frame( Members = c(&amp;quot;Andy Wang&amp;quot;, &amp;quot;Anthony Lee&amp;quot;, &amp;quot;Christophe Andrieu&amp;quot;, &amp;quot;Mark Beaumont&amp;quot;, &amp;quot;Mathieu Gerber&amp;quot;, &amp;quot;Mauro Camara Escudero&amp;quot;, &amp;quot;Mingxuan Yi&amp;quot;, &amp;quot;Nick Whitely&amp;quot;, &amp;quot;Patrick Rubin-Delanchy&amp;quot;, &amp;quot;Pierre-Aurelien Gilliot&amp;quot;, &amp;quot;Sam Tickle&amp;quot;, &amp;quot;Song Liu&amp;quot;) ) knitr::kable(members)   Members    Andy Wang  Anthony Lee  Christophe Andrieu  Mark Beaumont  Mathieu Gerber  Mauro Camara Escudero  Mingxuan Yi  Nick Whitely  Patrick Rubin-Delanchy  Pierre-Aurelien Gilliot  Sam Tickle  Song Liu    </description>
+    </item>
+    
+    <item>
       <title>Past Papers</title>
       <link>/papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

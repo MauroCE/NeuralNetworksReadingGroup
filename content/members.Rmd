@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 The current members of the Neural Network Reading Group are listed below.
-```{r}
+```{r, echo=FALSE}
 members <- data.frame(
   Members = c("Andy Wang", "Anthony Lee", "Christophe Andrieu", "Mark Beaumont", "Mathieu Gerber", 
             "Mauro Camara Escudero", "Mingxuan Yi", "Nick Whitely", "Patrick Rubin-Delanchy", 

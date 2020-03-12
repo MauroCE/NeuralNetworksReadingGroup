@@ -28,7 +28,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Past Papers"
     url = "/papers/"
 [[menu.main]]
-    name = "Repository"
+    name = "Repo"
     url = "https://github.com/MauroCE/NeuralNetworksReadingGroup"
 
 [params]

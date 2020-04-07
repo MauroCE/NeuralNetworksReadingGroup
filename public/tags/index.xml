@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>abc</title>
+      <link>/tags/abc/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/abc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>approximate-bayesian-computation</title>
+      <link>/tags/approximate-bayesian-computation/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/approximate-bayesian-computation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sufficient-statistics</title>
+      <link>/tags/sufficient-statistics/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sufficient-statistics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>neural-ode</title>
@@ -17,15 +53,6 @@
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/neural-ode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     

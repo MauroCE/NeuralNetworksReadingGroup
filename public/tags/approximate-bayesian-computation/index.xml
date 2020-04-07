@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>neural-networks on Neural Networks Reading Group UoB</title>
-    <link>/categories/neural-networks/</link>
-    <description>Recent content in neural-networks on Neural Networks Reading Group UoB</description>
+    <title>approximate-bayesian-computation on Neural Networks Reading Group UoB</title>
+    <link>/tags/approximate-bayesian-computation/</link>
+    <description>Recent content in approximate-bayesian-computation on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/approximate-bayesian-computation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</guid>
       <description>On Tuesday 7\(^{\text{th}}\) of April Mark Beaumont presented Partially Exchangeable Networks and Architectures for Learning Summary Statistics in Approximate Bayesian Computation. The abstract is given below.
  We present a novel family of deep neural architectures, named partially exchangeable networks (PENs) that leverage probabilistic symmetries. By design, PENs are invariant to block-switch transformations, which characterize the partial exchangeability properties of conditionally Markovian processes. Moreover, we show that any block-switch invariant function has a PEN-like representation.</description>
-    </item>
-    
-    <item>
-      <title>Uniform convergence may be unable to explain generalization in deep learning</title>
-      <link>/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</guid>
-      <description>On Tuesday 10\(^{\text{th}}\) of March Patrick Rubin-Delanchy presented the 2019 NeurIPS paper winner of the Outstanding New Directions Paper Award, titled “Uniform convergence may be unable to explain generalization in deep learning” by Vaishnavh Nagarajan and J. Zico Kolter.
-The abstract is given below.
- Aimed at explaining the surprisingly good generalization behavior of overparameterized deep networks, recent works have developed a variety of generalization bounds for deep learning, all based on the fundamental learning-theoretic technique of uniform convergence.</description>
     </item>
     
   </channel>

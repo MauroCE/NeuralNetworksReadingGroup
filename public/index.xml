@@ -96,8 +96,8 @@ The abstract is given below.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/papers/</guid>
-      <description> Here’s a list of the papers/videos that have previously been presented.
- table, th, td { border: 1px solid black; border-collapse: collapse; } th, td { padding: 15px; }     Date   Presented By   Paper Title     3rd December   Pierre-Aurelien Gilliot   Deep Boltzmann Machines - Ruslan Salakhutdinov     10th December   Christophe Andrieu   Multiscale Models for Image Classification and Physics with Deep Networks - Stéphane Mallat     17th December   Anthony Lee   Nonparametric regression using deep neural networks with ReLU activation function - Johannes Schmidt-Hieber     10th March   Patrick Rubin-Delanchy   Uniform convergence may be unable to explain generalization in deep learning - Vaishnavh Nagarajan    </description>
+      <description>Here’s a list of the papers/videos that have previously been presented.
+ table, th, td { border: 1px solid black; border-collapse: collapse; } th, td { padding: 15px; }     Date   Presented By   Paper Title     3rd December   Pierre-Aurelien Gilliot   Deep Boltzmann Machines - Ruslan Salakhutdinov     10th December   Christophe Andrieu   Multiscale Models for Image Classification and Physics with Deep Networks - Stéphane Mallat     17th December   Anthony Lee   Nonparametric regression using deep neural networks with ReLU activation function - Johannes Schmidt-Hieber     10th March   Patrick Rubin-Delanchy   Uniform convergence may be unable to explain generalization in deep learning - Vaishnavh Nagarajan     24th March   Song Liu   Neural Ordinary Differential Equations - Ricky T.</description>
     </item>
     
     <item>

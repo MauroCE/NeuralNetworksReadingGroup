@@ -51,4 +51,10 @@ th, td {
     <td>Song Liu</td>
     <td><a href="https://arxiv.org/pdf/1806.07366.pdf" target="_blank">Neural Ordinary Differential Equations - Ricky T. Q. Chen</a></td>
   </tr>
+    <tr>
+    <td>7th April</td>
+    <td>Mark Beaumont</td>
+    <td><a href="https://arxiv.org/pdf/1901.10230.pdf" target="_blank">Partially Exchangeable Networks and Architectures for Learning Summary
+Statistics in Approximate Bayesian Computation - Samuel Wiqvist</a></td>
+  </tr>
 </table>

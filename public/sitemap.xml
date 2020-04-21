@@ -78,22 +78,22 @@
   </url>
   
   <url>
-    <loc>/categories/abc/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/abc/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/approximate-bayesian-computation/</loc>
+    <loc>/categories/abc/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/approximate-bayesian-computation/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/approximate-bayesian-computation/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,12 +108,12 @@
   </url>
   
   <url>
-    <loc>/categories/sufficient-statistics/</loc>
+    <loc>/tags/sufficient-statistics/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/sufficient-statistics/</loc>
+    <loc>/categories/sufficient-statistics/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   

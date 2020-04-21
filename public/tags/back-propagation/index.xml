@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>deep-neural-network on Neural Networks Reading Group UoB</title>
-    <link>/categories/deep-neural-network/</link>
-    <description>Recent content in deep-neural-network on Neural Networks Reading Group UoB</description>
+    <title>back-propagation on Neural Networks Reading Group UoB</title>
+    <link>/tags/back-propagation/</link>
+    <description>Recent content in back-propagation on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/deep-neural-network/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/back-propagation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</guid>
       <description>On Tuesday \(14^{\text{th}}\) of April I presented Expectation Backpropagation:Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights. The abstract is given below.
  Multilayer Neural Networks (MNNs) are commonly trained using gradient descent-based methods, such as BackPropagation (BP). Inference in probabilistic graphical models is often done using variational Bayes methods, such as Expectation Propagation (EP). We show how an EP based approach can also be used to train deterministic MNNs.</description>
-    </item>
-    
-    <item>
-      <title>Neural Ordinary Differential Equations</title>
-      <link>/neural-ordinary-differential-equations/</link>
-      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/neural-ordinary-differential-equations/</guid>
-      <description>On Tuesday 24\(^{th}\) of March Song Liu presented Neural Ordinary Differential Equations. The abstract is given below.
- We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. The output of the network is computed using a blackbox differential equation solver. These continuous-depth models have constant memory cost, adapt their evaluation strategy to each input, and can explicitly trade numerical precision for speed.</description>
     </item>
     
   </channel>

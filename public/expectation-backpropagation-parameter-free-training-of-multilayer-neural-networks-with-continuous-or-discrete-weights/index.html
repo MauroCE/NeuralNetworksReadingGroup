@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.58.3" />
+
+
+<title>Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights - Neural Networks Reading Group UoB</title>
+<meta property="og:title" content="Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights - Neural Networks Reading Group UoB">
+
+
+  <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/about/">About</a></li>
+    
+    <li><a href="/room/">Location</a></li>
+    
+    <li><a href="/members/">Members</a></li>
+    
+    <li><a href="/papers/">Past Papers</a></li>
+    
+    <li><a href="/suggestions/">Reading Suggestions</a></li>
+    
+    <li><a href="/schedule/">Schedule</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">2 min read</span>
+    
+
+    <h1 class="article-title">Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights</h1>
+
+    
+    <span class="article-date">2020-04-14</span>
+    
+
+    <div class="article-content">
+      
+
+
+<p>On Tuesday <span class="math inline">\(14^{\text{th}}\)</span> of April I presented <a href="https://papers.nips.cc/paper/5269-expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights.pdf">Expectation Backpropagation:Parameter-Free
+Training of Multilayer Neural Networks with
+Continuous or Discrete Weights</a>. The abstract is given below.</p>
+<blockquote>
+<p>Multilayer Neural Networks (MNNs) are commonly trained using gradient
+descent-based methods, such as BackPropagation (BP). Inference in probabilistic
+graphical models is often done using variational Bayes methods, such as Expectation Propagation (EP). We show how an EP based approach can also be used
+to train deterministic MNNs. Specifically, we approximate the posterior of the
+weights given the data using a “mean-field” factorized distribution, in an online
+setting. Using online EP and the central limit theorem we find an analytical approximation to the Bayes update of this posterior, as well as the resulting Bayes
+estimates of the weights and outputs.
+Despite a different origin, the resulting algorithm, Expectation BackPropagation
+(EBP), is very similar to BP in form and efficiency. However, it has several additional advantages: (1) Training is parameter-free, given initial conditions (prior)
+and the MNN architecture. This is useful for large-scale problems, where parameter tuning is a major challenge. (2) The weights can be restricted to have discrete
+values. This is especially useful for implementing trained MNNs in precision limited hardware chips, thus improving their speed and energy efficiency by several
+orders of magnitude.
+We test the EBP algorithm numerically in eight binary text classification tasks.
+In all tasks, EBP outperforms: (1) standard BP with the optimal constant learning
+rate (2) previously reported state of the art. Interestingly, EBP-trained MNNs with
+binary weights usually perform better than MNNs with continuous (real) weights
+- if we average the MNN output using the inferred posterior.</p>
+</blockquote>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+    
+<script src="/js/math-code.js"></script>
+<script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-123451981-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+  </body>
+</html>
+

@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-neural-networks</title>
+      <link>/tags/deep-neural-networks/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information-bottleneck</title>
+      <link>/tags/information-bottleneck/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/information-bottleneck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information-theory</title>
+      <link>/tags/information-theory/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/information-theory/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>back-propagation</title>
@@ -35,15 +71,6 @@
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/backpropagation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     

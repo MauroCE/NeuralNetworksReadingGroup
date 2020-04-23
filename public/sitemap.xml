@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/deep-learning/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/deep-neural-networks/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-neural-networks/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/information-bottleneck/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/information-bottleneck/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/information-bottleneck/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/information-theory/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/information-theory/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/back-propagation/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
@@ -14,16 +79,6 @@
   
   <url>
     <loc>/tags/backpropagation/</loc>
-    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,27 +103,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/neural-networks/</loc>
-    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/neural-networks/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/tags/neural-networks/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,17 +128,12 @@
   </url>
   
   <url>
-    <loc>/categories/approximate-bayesian-computation/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/approximate-bayesian-computation/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/deep-learning/</loc>
+    <loc>/categories/approximate-bayesian-computation/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   

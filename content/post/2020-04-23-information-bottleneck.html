@@ -1,0 +1,61 @@
+---
+title: Information Bottleneck
+author: Mauro Camara Escudero
+date: '2020-04-23'
+slug: information-bottleneck
+categories:
+  - information-theory
+  - information-bottleneck
+  - deep-learning
+  - deep-neural-networks
+tags:
+  - information-theory
+  - information-bottleneck
+  - deep-learning
+  - deep-neural-networks
+---
+
+
+
+<p>On Tuesday <span class="math inline">\(21^{\text{st}}\)</span> of April Mingxuan Yi talked about the topic of information bottleneck. The main references used were <a href="https://arxiv.org/pdf/1703.00810.pdf">Opening the black box of Deep Neural Networks via Information</a> by Ravid Schwartz-Ziv and <a href="https://arxiv.org/pdf/1503.02406.pdf">Deep Learning and the Information Bottleneck Principle</a>. The abstracts are given below</p>
+<p><strong>Opening the black box of Deep Neural Networks via Information</strong></p>
+<blockquote>
+<p>Despite their great success, there is still no comprehensive theoretical understanding of learning
+with Deep Neural Networks (DNNs) or their inner organization. Previous work [Tishby and Zaslavsky (2015)] proposed to analyze DNNs in the Information Plane; i.e., the plane of the Mutual
+Information values that each layer preserves on the input and output variables. They suggested that
+the goal of the network is to optimize the Information Bottleneck (IB) tradeoff between compression and prediction, successively, for each layer.
+In this work we follow up on this idea and demonstrate the effectiveness of the InformationPlane visualization of DNNs. Our main results are: (i) most of the training epochs in standard
+DL are spent on compression of the input to efficient representation and not on fitting the training
+labels. (ii) The representation compression phase begins when the training errors becomes small
+and the Stochastic Gradient Decent (SGD) epochs change from a fast drift to smaller training error
+into a stochastic relaxation, or random diffusion, constrained by the training error value. (iii) The
+converged layers lie on or very close to the Information Bottleneck (IB) theoretical bound, and the
+maps from the input to any hidden layer and from this hidden layer to the output satisfy the IB
+self-consistent equations. This generalization through noise mechanism is unique to Deep Neural
+Networks and absent in one layer networks. (iv) The training time is dramatically reduced when
+adding more hidden layers. Thus the main advantage of the hidden layers is computational. This
+can be explained by the reduced relaxation time, as this it scales super-linearly (exponentially for
+simple diffusion) with the information compression from the previous layer. (v) As we expect
+critical slowing down of the stochastic relaxation near phase transitions on the IB curve, we expect
+the hidden layers to converge to such critical points</p>
+</blockquote>
+<p><strong>Deep Learning and the Information Bottleneck Principle</strong></p>
+<blockquote>
+<p>— Deep Neural Networks (DNNs) are analyzed via
+the theoretical framework of the information bottleneck (IB)
+principle. We first show that any DNN can be quantified by
+the mutual information between the layers and the input and
+output variables. Using this representation we can calculate
+the optimal information theoretic limits of the DNN and
+obtain finite sample generalization bounds. The advantage of
+getting closer to the theoretical limit is quantifiable both by
+the generalization bound and by the network’s simplicity. We
+argue that both the optimal architecture, number of layers and
+features/connections at each layer, are related to the bifurcation
+points of the information bottleneck tradeoff, namely, relevant
+compression of the input layer with respect to the output
+layer. The hierarchical representations at the layered network
+naturally correspond to the structural phase transitions along
+the information curve. We believe that this new insight can lead
+to new optimality bounds and deep learning algorithms.</p>
+</blockquote>

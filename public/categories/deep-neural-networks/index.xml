@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep-neural-networks on Neural Networks Reading Group UoB</title>
+    <link>/categories/deep-neural-networks/</link>
+    <description>Recent content in deep-neural-networks on Neural Networks Reading Group UoB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/deep-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Information Bottleneck</title>
+      <link>/information-bottleneck/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/information-bottleneck/</guid>
+      <description>On Tuesday \(21^{\text{st}}\) of April Mingxuan Yi talked about the topic of information bottleneck. The main references used were Opening the black box of Deep Neural Networks via Information by Ravid Schwartz-Ziv and Deep Learning and the Information Bottleneck Principle. The abstracts are given below
+Opening the black box of Deep Neural Networks via Information
+ Despite their great success, there is still no comprehensive theoretical understanding of learning with Deep Neural Networks (DNNs) or their inner organization.</description>
+    </item>
+    
+  </channel>
+</rss>

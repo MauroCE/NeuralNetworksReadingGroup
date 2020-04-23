@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.58.3" />
+
+
+<title>Information Bottleneck - Neural Networks Reading Group UoB</title>
+<meta property="og:title" content="Information Bottleneck - Neural Networks Reading Group UoB">
+
+
+  <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/about/">About</a></li>
+    
+    <li><a href="/room/">Location</a></li>
+    
+    <li><a href="/members/">Members</a></li>
+    
+    <li><a href="/papers/">Past Papers</a></li>
+    
+    <li><a href="/suggestions/">Reading Suggestions</a></li>
+    
+    <li><a href="/schedule/">Schedule</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">3 min read</span>
+    
+
+    <h1 class="article-title">Information Bottleneck</h1>
+
+    
+    <span class="article-date">2020-04-23</span>
+    
+
+    <div class="article-content">
+      
+
+
+<p>On Tuesday <span class="math inline">\(21^{\text{st}}\)</span> of April Mingxuan Yi talked about the topic of information bottleneck. The main references used were <a href="https://arxiv.org/pdf/1703.00810.pdf">Opening the black box of Deep Neural Networks via Information</a> by Ravid Schwartz-Ziv and <a href="https://arxiv.org/pdf/1503.02406.pdf">Deep Learning and the Information Bottleneck Principle</a>. The abstracts are given below</p>
+<p><strong>Opening the black box of Deep Neural Networks via Information</strong></p>
+<blockquote>
+<p>Despite their great success, there is still no comprehensive theoretical understanding of learning
+with Deep Neural Networks (DNNs) or their inner organization. Previous work [Tishby and Zaslavsky (2015)] proposed to analyze DNNs in the Information Plane; i.e., the plane of the Mutual
+Information values that each layer preserves on the input and output variables. They suggested that
+the goal of the network is to optimize the Information Bottleneck (IB) tradeoff between compression and prediction, successively, for each layer.
+In this work we follow up on this idea and demonstrate the effectiveness of the InformationPlane visualization of DNNs. Our main results are: (i) most of the training epochs in standard
+DL are spent on compression of the input to efficient representation and not on fitting the training
+labels. (ii) The representation compression phase begins when the training errors becomes small
+and the Stochastic Gradient Decent (SGD) epochs change from a fast drift to smaller training error
+into a stochastic relaxation, or random diffusion, constrained by the training error value. (iii) The
+converged layers lie on or very close to the Information Bottleneck (IB) theoretical bound, and the
+maps from the input to any hidden layer and from this hidden layer to the output satisfy the IB
+self-consistent equations. This generalization through noise mechanism is unique to Deep Neural
+Networks and absent in one layer networks. (iv) The training time is dramatically reduced when
+adding more hidden layers. Thus the main advantage of the hidden layers is computational. This
+can be explained by the reduced relaxation time, as this it scales super-linearly (exponentially for
+simple diffusion) with the information compression from the previous layer. (v) As we expect
+critical slowing down of the stochastic relaxation near phase transitions on the IB curve, we expect
+the hidden layers to converge to such critical points</p>
+</blockquote>
+<p><strong>Deep Learning and the Information Bottleneck Principle</strong></p>
+<blockquote>
+<p>— Deep Neural Networks (DNNs) are analyzed via
+the theoretical framework of the information bottleneck (IB)
+principle. We first show that any DNN can be quantified by
+the mutual information between the layers and the input and
+output variables. Using this representation we can calculate
+the optimal information theoretic limits of the DNN and
+obtain finite sample generalization bounds. The advantage of
+getting closer to the theoretical limit is quantifiable both by
+the generalization bound and by the network’s simplicity. We
+argue that both the optimal architecture, number of layers and
+features/connections at each layer, are related to the bifurcation
+points of the information bottleneck tradeoff, namely, relevant
+compression of the input layer with respect to the output
+layer. The hierarchical representations at the layered network
+naturally correspond to the structural phase transitions along
+the information curve. We believe that this new insight can lead
+to new optimality bounds and deep learning algorithms.</p>
+</blockquote>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+    
+<script src="/js/math-code.js"></script>
+<script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-123451981-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+  </body>
+</html>
+

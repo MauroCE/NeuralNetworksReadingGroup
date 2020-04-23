@@ -6,10 +6,46 @@
     <description>Recent content in Categories on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/categories/deep-learning/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-neural-networks</title>
+      <link>/categories/deep-neural-networks/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information-bottleneck</title>
+      <link>/categories/information-bottleneck/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/information-bottleneck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information-theory</title>
+      <link>/categories/information-theory/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/information-theory/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>deep-neural-network</title>
@@ -62,15 +98,6 @@
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/approximate-bayesian-computation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>/categories/deep-learning/</link>
-      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/deep-learning/</guid>
       <description></description>
     </item>
     

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>variational-inference on Neural Networks Reading Group UoB</title>
-    <link>/categories/variational-inference/</link>
+    <link>/tags/variational-inference/</link>
     <description>Recent content in variational-inference on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/variational-inference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/variational-inference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/markov-chain-monte-carlo-and-variational-inference-bridging-the-gap/</guid>
       <description>On Tuesday \(28^{\text{th}}\) of April Andi Wang presented Markov Chain Monte Carlo and Variational Inference: Bridging the Gap - Tim Salimans. His slides are available here and the abstract is given below.
  Recent advances in stochastic gradient variational inference have made it possible to perform variational Bayesian inference with posterior approximations containing auxiliary random variables. This enables us to explore a new synthesis of variational inference and Monte Carlo methods where we incorporate one or more steps of MCMC into our variational approximation.</description>
-    </item>
-    
-    <item>
-      <title>Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights</title>
-      <link>/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</link>
-      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</guid>
-      <description>On Tuesday \(14^{\text{th}}\) of April I presented Expectation Backpropagation:Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights. The abstract is given below.
- Multilayer Neural Networks (MNNs) are commonly trained using gradient descent-based methods, such as BackPropagation (BP). Inference in probabilistic graphical models is often done using variational Bayes methods, such as Expectation Propagation (EP). We show how an EP based approach can also be used to train deterministic MNNs.</description>
     </item>
     
   </channel>

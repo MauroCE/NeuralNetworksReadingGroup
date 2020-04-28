@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Markov Chain Monte Carlo and Variational Inference: Bridging the Gap</title>
+      <link>/markov-chain-monte-carlo-and-variational-inference-bridging-the-gap/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/markov-chain-monte-carlo-and-variational-inference-bridging-the-gap/</guid>
+      <description>On Tuesday \(28^{\text{th}}\) of April Andi Wang presented Markov Chain Monte Carlo and Variational Inference: Bridging the Gap - Tim Salimans. His slides are available here and the abstract is given below.
+ Recent advances in stochastic gradient variational inference have made it possible to perform variational Bayesian inference with posterior approximations containing auxiliary random variables. This enables us to explore a new synthesis of variational inference and Monte Carlo methods where we incorporate one or more steps of MCMC into our variational approximation.</description>
+    </item>
     
     <item>
       <title>Information Bottleneck</title>

@@ -1,0 +1,30 @@
+---
+title: Deep Learning for Multi-Scale Changepoint Detection in Multivariate Time Series
+author: Mauro Camara Escudero
+date: '2020-05-05'
+slug: deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series
+categories:
+  - deep-learning
+  - change point
+  - time series
+  - neural-networks
+tags:
+  - deep-learning
+  - time series
+  - changepoint
+  - change point detection
+---
+
+On Tuesday's 5th of May Sam Tickle has presented [Deep Learning for Multi-Scale Changepoint
+Detection in Multivariate Time Series](https://arxiv.org/pdf/1905.06913.pdf). The abstract is given below.
+
+> Many real-world time series, such as in health, have changepoints where the
+system’s structure or parameters change. Since changepoints can indicate critical
+events such as onset of illness, it is highly important to detect them. However, existing methods for changepoint detection (CPD) often require user-specified models and cannot recognize changes that occur gradually or at multiple time-scales.
+To address both, we show how CPD can be treated as a supervised learning problem, and propose a new deep neural network architecture to efficiently identify
+both abrupt and gradual changes at multiple timescales from multivariate data.
+Our proposed pyramid recurrent neural network (PRN) provides scale-invariance
+using wavelets and pyramid analysis techniques from multi-scale signal processing. Through experiments on synthetic and real-world datasets, we show that PRN
+can detect abrupt and gradual changes with higher accuracy than the state of the
+art and can extrapolate to detect changepoints at novel scales not seen in training
+

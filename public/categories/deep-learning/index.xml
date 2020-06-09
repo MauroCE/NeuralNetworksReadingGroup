@@ -6,10 +6,30 @@
     <description>Recent content in deep-learning on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>From optimal transport to generative modeling: the VEGAN cookbook</title>
+      <link>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</guid>
+      <description>On Tuesday 9th of June Anthony Lee presented From optimal transport to generative modeling: the VEGAN cookbook. The abstract is given below:
+ We study unsupervised generative modeling in terms of the optimal transport (OT) problem between true (but unknown) data distribution PX and the latent variable model distribution PG. We show that the OT problem can be equivalently written in terms of probabilistic encoders, which are constrained to match the posterior and prior distributions over the latent space.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Multi-Scale Changepoint Detection in Multivariate Time Series</title>
+      <link>/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</guid>
+      <description>On Tuesday’s 5th of May Sam Tickle has presented Deep Learning for Multi-Scale Changepoint Detection in Multivariate Time Series. The abstract is given below.
+ Many real-world time series, such as in health, have changepoints where the system’s structure or parameters change. Since changepoints can indicate critical events such as onset of illness, it is highly important to detect them. However, existing methods for changepoint detection (CPD) often require user-specified models and cannot recognize changes that occur gradually or at multiple time-scales.</description>
+    </item>
     
     <item>
       <title>Markov Chain Monte Carlo and Variational Inference: Bridging the Gap</title>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gan on Neural Networks Reading Group UoB</title>
+    <link>/tags/gan/</link>
+    <description>Recent content in gan on Neural Networks Reading Group UoB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/gan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>From optimal transport to generative modeling: the VEGAN cookbook</title>
+      <link>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</guid>
+      <description>On Tuesday 9th of June Anthony Lee presented From optimal transport to generative modeling: the VEGAN cookbook. The abstract is given below:
+ We study unsupervised generative modeling in terms of the optimal transport (OT) problem between true (but unknown) data distribution PX and the latent variable model distribution PG. We show that the OT problem can be equivalently written in terms of probabilistic encoders, which are constrained to match the posterior and prior distributions over the latent space.</description>
+    </item>
+    
+  </channel>
+</rss>

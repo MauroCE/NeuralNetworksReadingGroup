@@ -1,0 +1,30 @@
+---
+title: Preventing Posterior Collapse with delta-VAEs
+author: Mauro Camara Escudero
+date: '2020-05-26'
+slug: preventing-posterior-collapse-with-delta-vaes
+categories:
+  - vae
+  - variational-inference
+  - variational autoencoder
+tags:
+  - variational auto encoder
+  - variaitonal inference
+---
+
+
+
+<p>On Tuesday 26th of May Pierre Aurelien Gilliot presented <a href="https://arxiv.org/abs/1901.03416">Preventing Posterior Collapse with delta-VAEs</a>. The main reference paper was the original <a href="https://arxiv.org/abs/1312.6114">VAE paper</a>. The abstract is given below.</p>
+<blockquote>
+<p>Due to the phenomenon of “posterior collapse,” current latent variable generative
+models pose a challenging design choice that either weakens the capacity of the
+decoder or requires augmenting the objective so it does not only maximize the
+likelihood of the data. In this paper, we propose an alternative that utilizes the
+most powerful generative models as decoders, whilst optimising the variational
+lower bound all while ensuring that the latent variables preserve and encode useful information. Our proposed δ-VAEs achieve this by constraining the variational
+family for the posterior to have a minimum distance to the prior. For sequential
+latent variable models, our approach resembles the classic representation learning
+approach of slow feature analysis. We demonstrate the efficacy of our approach at
+modeling text on LM1B and modeling images: learning representations, improving sample quality, and achieving state of the art log-likelihood on CIFAR-<span class="math inline">\(10\)</span> and
+ImageNet <span class="math inline">\(32 \times 32\)</span>.</p>
+</blockquote>

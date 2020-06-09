@@ -1,0 +1,24 @@
+---
+title: 'MetFlow: A New Efficient Method for Bridging the Gap between Markov Chain
+  Monte Carlo and Variational Inference'
+author: Mauro Camara Escudero
+date: '2020-06-02'
+slug: metflow-a-new-efficient-method-for-bridging-the-gap-between-markov-chain-monte-carlo-and-variational-inference
+categories:
+  - mcmc
+  - variational-inference
+  - bridging the gap
+  - metflow
+tags:
+  - mcmc
+  - variational-inference
+  - bridging the gap
+  - metflow
+---
+
+On Tuesday 2nd of June Christophe Andrieu presented [MetFlow: A New Efficient Method for Bridging the Gap between Markov Chain Monte Carlo and Variational Inference](https://arxiv.org/abs/2002.12253). A related presentation was given by Andy Wang on [Markov Chain Monte Carlo and Variational Inference:
+Bridging the Gap](https://arxiv.org/pdf/1410.6460.pdf). The abstract is given below:
+
+> In this contribution, we propose a new computationally efficient method to combine Variational Inference (VI) with Markov Chain Monte Carlo (MCMC). This approach can be used with generic MCMC kernels, but is especially well suited to \textit{MetFlow}, a novel family of MCMC algorithms we introduce, in which proposals are obtained using Normalizing Flows. The marginal distribution produced by such MCMC algorithms is a mixture of flow-based distributions, thus drastically increasing the expressivity of the variational family. Unlike previous methods following this direction, our approach is amenable to the reparametrization trick and does not rely on computationally expensive reverse kernels. Extensive numerical experiments show clear computational and performance improvements over state-of-the-art methods.
+
+

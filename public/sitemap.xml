@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/adaptive-approximation-and-estimation-of-deep-neural-network-to-intrinsic-dimensionality/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/deep-neural-network/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/deep-neural-networks/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-neural-networks/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/aae/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
@@ -13,7 +53,7 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/categories/deep-learning/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,17 +63,7 @@
   </url>
   
   <url>
-    <loc>/categories/deep-learning/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/gan/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +73,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/tags/gan/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,12 +88,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>/categories/vae/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,17 +98,12 @@
   </url>
   
   <url>
-    <loc>/categories/vae/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bridging-the-gap/</loc>
+    <loc>/categories/bridging-the-gap/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/bridging-the-gap/</loc>
+    <loc>/tags/bridging-the-gap/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,12 +118,12 @@
   </url>
   
   <url>
-    <loc>/tags/metflow/</loc>
+    <loc>/categories/metflow/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/metflow/</loc>
+    <loc>/tags/metflow/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,12 +133,12 @@
   </url>
   
   <url>
-    <loc>/categories/variational-inference/</loc>
+    <loc>/tags/variational-inference/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/variational-inference/</loc>
+    <loc>/categories/variational-inference/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,12 +203,12 @@
   </url>
   
   <url>
-    <loc>/tags/hmc/</loc>
+    <loc>/categories/hmc/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/hmc/</loc>
+    <loc>/tags/hmc/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -200,16 +220,6 @@
   <url>
     <loc>/categories/markov-chain-monte-carlo/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/deep-neural-networks/</loc>
-    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-neural-networks/</loc>
-    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -253,11 +263,6 @@
   </url>
   
   <url>
-    <loc>/categories/deep-neural-network/</loc>
-    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/expectaiton-propagation/</loc>
     <lastmod>2020-04-14T00:00:00+00:00</lastmod>
   </url>
@@ -278,17 +283,12 @@
   </url>
   
   <url>
-    <loc>/tags/abc/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/abc/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/approximate-bayesian-computation/</loc>
+    <loc>/tags/abc/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -298,17 +298,22 @@
   </url>
   
   <url>
+    <loc>/tags/approximate-bayesian-computation/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/sufficient-statistics/</loc>
+    <loc>/categories/sufficient-statistics/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/sufficient-statistics/</loc>
+    <loc>/tags/sufficient-statistics/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -333,12 +338,12 @@
   </url>
   
   <url>
-    <loc>/tags/generalization-error/</loc>
+    <loc>/categories/generalization-error/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/generalization-error/</loc>
+    <loc>/tags/generalization-error/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   

@@ -6,10 +6,30 @@
     <description>Recent content in deep-neural-networks on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/deep-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adaptive approximation and estimation of deep neural network to intrinsic dimensionality</title>
+      <link>/adaptive-approximation-and-estimation-of-deep-neural-network-to-intrinsic-dimensionality/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/adaptive-approximation-and-estimation-of-deep-neural-network-to-intrinsic-dimensionality/</guid>
+      <description>On Tuesday \(16^{\text{th}}\) of June Patrick Rubin-Delanchy presented Adaptive approximation and estimation of deep neural network to intrinsic dimensionality. The abstract is given below.
+ We prove that the performance of deep neural networks (DNNs) is mainly determined by an intrinsic low-dimensionality of covariates. DNNs have been providing an outstanding performance empirically, hence, the theoretical properties of DNNs are actively investigated to understand their mechanism. In particular, the behavior of DNNs with respect to high-dimensional data is one of the most important concerns.</description>
+    </item>
+    
+    <item>
+      <title>Adaptive approximation and estimation of deep neural network to intrinsic dimensionality</title>
+      <link>/adaptive-approximation-and-estimation-of-deep-neural-network-to-intrinsic-dimensionality/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/adaptive-approximation-and-estimation-of-deep-neural-network-to-intrinsic-dimensionality/</guid>
+      <description>On Tuesday \(16^{\text{th}}\) of June Patrick Rubin-Delanchy presented Adaptive approximation and estimation of deep neural network to intrinsic dimensionality. The abstract is given below.
+ We prove that the performance of deep neural networks (DNNs) is mainly determined by an intrinsic low-dimensionality of covariates. DNNs have been providing an outstanding performance empirically, hence, the theoretical properties of DNNs are actively investigated to understand their mechanism. In particular, the behavior of DNNs with respect to high-dimensional data is one of the most important concerns.</description>
+    </item>
     
     <item>
       <title>Information Bottleneck</title>

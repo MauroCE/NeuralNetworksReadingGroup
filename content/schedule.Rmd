@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-The current schedule is
+The current schedule for the Neural Network reading group is
 
 
 ```{r, echo=FALSE}

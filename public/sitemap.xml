@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>/categories/deep-neural-networks/</loc>
+    <loc>/tags/deep-neural-networks/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-neural-networks/</loc>
+    <loc>/categories/deep-neural-networks/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,17 +43,12 @@
   </url>
   
   <url>
-    <loc>/tags/aae/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/aae/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/deep-learning/</loc>
+    <loc>/tags/aae/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,12 +58,12 @@
   </url>
   
   <url>
-    <loc>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</loc>
+    <loc>/categories/deep-learning/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/gan/</loc>
+    <loc>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,7 +73,7 @@
   </url>
   
   <url>
-    <loc>/categories/optimal-transport/</loc>
+    <loc>/categories/gan/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,12 +83,17 @@
   </url>
   
   <url>
-    <loc>/categories/vae/</loc>
+    <loc>/categories/optimal-transport/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/vae/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/vae/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -477,19 +477,19 @@
   </url>
   
   <url>
-    <loc>/papers/</loc>
-  </url>
-  
-  <url>
     <loc>/room/</loc>
   </url>
   
   <url>
-    <loc>/schedule/</loc>
+    <loc>/suggestions/</loc>
   </url>
   
   <url>
-    <loc>/suggestions/</loc>
+    <loc>/papers/</loc>
+  </url>
+  
+  <url>
+    <loc>/schedule/</loc>
   </url>
   
   <url>

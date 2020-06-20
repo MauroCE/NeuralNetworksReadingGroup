@@ -1,5 +1,5 @@
 ---
-title: "Members"
+title: "Members of the Neural Network reading group"
 author: "Mauro Camara Escudero"
 date: "3/12/2020"
 output: html_document

@@ -172,13 +172,31 @@ The abstract is given below.
     </item>
     
     <item>
-      <title>Members</title>
+      <title>Members of the Neural Network reading group</title>
       <link>/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/members/</guid>
       <description> The current members of the Neural Network Reading Group are listed below.
   Members    Andy Wang  Anthony Lee  Christophe Andrieu  Mark Beaumont  Mathieu Gerber  Mauro Camara Escudero  Mingxuan Yi  Nick Whitely  Patrick Rubin-Delanchy  Pierre-Aurelien Gilliot  Sam Tickle  Song Liu    </description>
+    </item>
+    
+    <item>
+      <title>Neural Network Reading Group Location</title>
+      <link>/room/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/room/</guid>
+      <description>The Neural Network reading group meets every Tuesday from 10:30 to 11:30 in room 1.11 in the Fry Building (due to COVID we now meet on ZOOM).</description>
+    </item>
+    
+    <item>
+      <title>Neural Network Reading Suggestions</title>
+      <link>/suggestions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/suggestions/</guid>
+      <description>input[type=text], select { width: 100%; padding: 12px 20px; margin: 8px 0; display: inline-block; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; } input[type=submit] { width: 100%; background-color: #4CAF50; color: white; padding: 14px 20px; margin: 8px 0; border: none; border-radius: 4px; cursor: pointer; } input[type=submit]:hover { background-color: #45a049; } div { border-radius: 5px; background-color: #f2f2f2; padding: 20px; }  var submitted=false;  Name* Topic of Interest* Suggested Reading Material* Send   The current reading suggestions for the Neural Network reading group are avaiable in this Google Sheet.</description>
     </item>
     
     <item>
@@ -192,31 +210,13 @@ The abstract is given below.
     </item>
     
     <item>
-      <title>Reading Group Location</title>
-      <link>/room/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/room/</guid>
-      <description>We meet every Tuesday from 10:30 to 11:30 in room 1.11 in the Fry Building.</description>
-    </item>
-    
-    <item>
       <title>Reading Group Schedule</title>
       <link>/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/schedule/</guid>
-      <description> The current schedule is
+      <description> The current schedule for the Neural Network reading group is
   Date Name Room    2020-06-16 Patrick Rubin-Delancy Fry Building 1.11  2020-06-23 Song Liu Fry Building 1.11  2020-06-30 Mark Beaumont Fry Building 1.11  2020-07-07 Mauro Camara Escudero Fry Building 1.11  2020-07-14 Mingxuan Yi Fry Building 1.11  2020-07-21 Andy Wang Fry Building 1.11  2020-07-28 Sam Tickle Fry Building 1.11    -- -- -- -- Date -- Name -- -- -- 17th December -- Anthony Lee -- -- -- 14th January -- Song Liu -- -- -- 21st January -- Mark Beaumont -- -- -- 28th January -- Mauro Camara Escudero -- -- -- 4th February -- Patrick Rubin-Delanchy -- -- -- 11th February -- Andi Wang -- -- -- 18th February -- Mathieu Gerber -- -- -- 25th February -- Nick Whiteley -- -- -- </description>
-    </item>
-    
-    <item>
-      <title>Reading Suggestions</title>
-      <link>/suggestions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/suggestions/</guid>
-      <description>input[type=text], select { width: 100%; padding: 12px 20px; margin: 8px 0; display: inline-block; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; } input[type=submit] { width: 100%; background-color: #4CAF50; color: white; padding: 14px 20px; margin: 8px 0; border: none; border-radius: 4px; cursor: pointer; } input[type=submit]:hover { background-color: #45a049; } div { border-radius: 5px; background-color: #f2f2f2; padding: 20px; }  var submitted=false;  Name* Topic of Interest* Suggested Reading Material* Send   The current reading suggestions are avaiable in this Google Sheet.</description>
     </item>
     
     <item>

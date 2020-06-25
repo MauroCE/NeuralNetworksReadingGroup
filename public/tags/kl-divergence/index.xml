@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>variaitonal inference on Neural Networks Reading Group UoB</title>
-    <link>/tags/variaitonal-inference/</link>
-    <description>Recent content in variaitonal inference on Neural Networks Reading Group UoB</description>
+    <title>kl-divergence on Neural Networks Reading Group UoB</title>
+    <link>/tags/kl-divergence/</link>
+    <description>Recent content in kl-divergence on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/variaitonal-inference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/kl-divergence/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/stein-variational-gradient-descent-as-gradient-flow/</guid>
       <description>On Thursday \(25^{\text{th}}\) of June Song Liu presented Stein Variational Gradient Descent as Gradient Flow. The abstract is given below.
  Stein variational gradient descent (SVGD) is a deterministic sampling algorithm that iteratively transports a set of particles to approximate given distributions, based on a gradient-based update that guarantees to optimally decrease the KL divergence within a function space. This paper develops the first theoretical analysis on SVGD. We establish that the empirical measures of the SVGD samples weakly converge to the target distribution, and show that the asymptotic behavior of SVGD is characterized by a nonlinear Fokker-Planck equation known as Vlasov equation in physics.</description>
-    </item>
-    
-    <item>
-      <title>Preventing Posterior Collapse with delta-VAEs</title>
-      <link>/preventing-posterior-collapse-with-delta-vaes/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/preventing-posterior-collapse-with-delta-vaes/</guid>
-      <description>On Tuesday 26th of May Pierre Aurelien Gilliot presented Preventing Posterior Collapse with delta-VAEs. The main reference paper was the original VAE paper. The abstract is given below.
- Due to the phenomenon of “posterior collapse,” current latent variable generative models pose a challenging design choice that either weakens the capacity of the decoder or requires augmenting the objective so it does not only maximize the likelihood of the data.</description>
     </item>
     
   </channel>

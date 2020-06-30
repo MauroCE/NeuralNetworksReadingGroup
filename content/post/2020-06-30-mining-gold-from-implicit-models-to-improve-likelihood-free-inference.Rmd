@@ -1,0 +1,26 @@
+---
+title: Mining gold from implicit models to improve likelihood-free inference
+author: Mauro Camara Escudero
+date: '2020-06-30'
+slug: mining-gold-from-implicit-models-to-improve-likelihood-free-inference
+categories:
+  - abc
+  - neural-networks
+  - implicit-models
+tags:
+  - abc
+  - neural-networks
+  - implicit-models
+---
+
+On Tuesday $30^{\text{th}}$ of June Mark Beaumont presented [Mining gold from implicit models to improve likelihood-free inference](https://www.pnas.org/content/117/10/5242) by Johann Brehmer et al. The abstract is given below:
+
+> Simulators often provide the best description of real-world phenomena. However, the probability density that they implicitly
+define is often intractable, leading to challenging inverse problems for inference. Recently, a number of techniques have been
+introduced in which a surrogate for the intractable density is
+learned, including normalizing flows and density ratio estimators.
+We show that additional information that characterizes the latent
+process can often be extracted from simulators and used to augment the training data for these surrogate models. We introduce
+several loss functions that leverage these augmented data and
+demonstrate that these techniques can improve sample efficiency
+and quality of inference.

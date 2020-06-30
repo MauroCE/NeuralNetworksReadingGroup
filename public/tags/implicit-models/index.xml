@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>implicit-models on Neural Networks Reading Group UoB</title>
+    <link>/tags/implicit-models/</link>
+    <description>Recent content in implicit-models on Neural Networks Reading Group UoB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/implicit-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mining gold from implicit models to improve likelihood-free inference</title>
+      <link>/mining-gold-from-implicit-models-to-improve-likelihood-free-inference/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/mining-gold-from-implicit-models-to-improve-likelihood-free-inference/</guid>
+      <description>On Tuesday \(30^{\text{th}}\) of June Mark Beaumont presented Mining gold from implicit models to improve likelihood-free inference by Johann Brehmer et al. The abstract is given below:
+ Simulators often provide the best description of real-world phenomena. However, the probability density that they implicitly define is often intractable, leading to challenging inverse problems for inference. Recently, a number of techniques have been introduced in which a surrogate for the intractable density is learned, including normalizing flows and density ratio estimators.</description>
+    </item>
+    
+  </channel>
+</rss>

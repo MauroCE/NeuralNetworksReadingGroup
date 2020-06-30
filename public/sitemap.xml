@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/abc/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/abc/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/implicit-models/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/implicit-models/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mining-gold-from-implicit-models-to-improve-likelihood-free-inference/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/neural-networks/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/neural-networks/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/bayesian-inference/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
@@ -13,17 +68,12 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/tags/gradient-descent/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/gradient-descent/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/gradient-descent/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,22 +88,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/stein-variational-gradient-descent-as-gradient-flow/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,22 +123,22 @@
   </url>
   
   <url>
-    <loc>/categories/aae/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/aae/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>/categories/aae/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/deep-learning/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,12 +158,12 @@
   </url>
   
   <url>
-    <loc>/tags/optimal-transport/</loc>
+    <loc>/categories/optimal-transport/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/optimal-transport/</loc>
+    <loc>/tags/optimal-transport/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,12 +178,12 @@
   </url>
   
   <url>
-    <loc>/categories/bridging-the-gap/</loc>
+    <loc>/tags/bridging-the-gap/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bridging-the-gap/</loc>
+    <loc>/categories/bridging-the-gap/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,12 +198,12 @@
   </url>
   
   <url>
-    <loc>/categories/metflow/</loc>
+    <loc>/tags/metflow/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/metflow/</loc>
+    <loc>/categories/metflow/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -214,11 +249,6 @@
   
   <url>
     <loc>/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/neural-networks/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -273,12 +303,12 @@
   </url>
   
   <url>
-    <loc>/tags/information-theory/</loc>
+    <loc>/categories/information-theory/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/information-theory/</loc>
+    <loc>/tags/information-theory/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -313,21 +343,6 @@
   </url>
   
   <url>
-    <loc>/tags/neural-networks/</loc>
-    <lastmod>2020-04-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/abc/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/abc/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/approximate-bayesian-computation/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -343,12 +358,12 @@
   </url>
   
   <url>
-    <loc>/tags/sufficient-statistics/</loc>
+    <loc>/categories/sufficient-statistics/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/sufficient-statistics/</loc>
+    <loc>/tags/sufficient-statistics/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -373,12 +388,12 @@
   </url>
   
   <url>
-    <loc>/tags/generalization-error/</loc>
+    <loc>/categories/generalization-error/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/generalization-error/</loc>
+    <loc>/tags/generalization-error/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   

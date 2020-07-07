@@ -110,4 +110,9 @@ the VEGAN cookbook - Olivier Bousquet</a></td>
     <td><a href="https://www.pnas.org/content/117/10/5242" target="_blank">Mining gold from implicit models to improve
 likelihood-free inference - Johann Brehmer et al.</a></td>
   </tr>
+  <tr>
+    <td>7th July</td>
+    <td>Mauro Camara Escudero</td>
+    <td><a href="https://arxiv.org/pdf/1312.6114.pdf" target="_blank">Auto-Encoding Variational Bayes - Diederik P. Kingma</a></td>
+  </tr>
 </table>

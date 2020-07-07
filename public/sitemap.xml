@@ -78,12 +78,12 @@
   </url>
   
   <url>
-    <loc>/categories/abc/</loc>
+    <loc>/tags/abc/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/abc/</loc>
+    <loc>/categories/abc/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,12 +103,12 @@
   </url>
   
   <url>
-    <loc>/tags/bayesian-inference/</loc>
+    <loc>/categories/bayesian-inference/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/bayesian-inference/</loc>
+    <loc>/tags/bayesian-inference/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,12 +123,12 @@
   </url>
   
   <url>
-    <loc>/categories/kl-divergence/</loc>
+    <loc>/tags/kl-divergence/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/kl-divergence/</loc>
+    <loc>/categories/kl-divergence/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,12 +143,12 @@
   </url>
   
   <url>
-    <loc>/categories/deep-neural-networks/</loc>
+    <loc>/tags/deep-neural-networks/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-neural-networks/</loc>
+    <loc>/categories/deep-neural-networks/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,12 +163,12 @@
   </url>
   
   <url>
-    <loc>/categories/deep-learning/</loc>
+    <loc>/tags/deep-learning/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>/categories/deep-learning/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,22 +208,22 @@
   </url>
   
   <url>
-    <loc>/tags/mcmc/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/mcmc/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/metflow/</loc>
+    <loc>/tags/mcmc/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/metflow/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/metflow/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -263,12 +263,12 @@
   </url>
   
   <url>
-    <loc>/tags/time-series/</loc>
+    <loc>/categories/time-series/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/time-series/</loc>
+    <loc>/tags/time-series/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   

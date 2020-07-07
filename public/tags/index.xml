@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>deep-neaural-networks</title>
+      <link>/tags/deep-neaural-networks/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-neaural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-networks</title>
+      <link>/tags/neural-networks/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vae</title>
+      <link>/tags/vae/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variaitonal inference</title>
+      <link>/tags/variaitonal-inference/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/variaitonal-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational auto encoder</title>
+      <link>/tags/variational-auto-encoder/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/variational-auto-encoder/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>abc</title>
@@ -26,15 +71,6 @@
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/implicit-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural-networks</title>
-      <link>/tags/neural-networks/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/neural-networks/</guid>
       <description></description>
     </item>
     
@@ -62,15 +98,6 @@
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/kl-divergence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variaitonal inference</title>
-      <link>/tags/variaitonal-inference/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/variaitonal-inference/</guid>
       <description></description>
     </item>
     
@@ -120,15 +147,6 @@
     </item>
     
     <item>
-      <title>vae</title>
-      <link>/tags/vae/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/vae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bridging the gap</title>
       <link>/tags/bridging-the-gap/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
@@ -161,15 +179,6 @@
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/variational-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational auto encoder</title>
-      <link>/tags/variational-auto-encoder/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/variational-auto-encoder/</guid>
       <description></description>
     </item>
     
@@ -287,15 +296,6 @@
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/neural-ode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-neaural-networks</title>
-      <link>/tags/deep-neaural-networks/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deep-neaural-networks/</guid>
       <description></description>
     </item>
     

@@ -6,8 +6,8 @@
 <meta name="generator" content="Hugo 0.58.3" />
 
 
-<title>vae - Neural Networks Reading Group UoB</title>
-<meta property="og:title" content="vae - Neural Networks Reading Group UoB">
+<title>Auto-Encoding Variational Bayes - Neural Networks Reading Group UoB</title>
+<meta property="og:title" content="Auto-Encoding Variational Bayes - Neural Networks Reading Group UoB">
 
 
   <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
@@ -19,8 +19,6 @@
 
 
 
-
-<link href="/categories/vae/index.xml" rel="alternate" type="application/rss+xml" title="Neural Networks Reading Group UoB" />
 
 
 
@@ -63,36 +61,38 @@
 
 <main class="content" role="main">
 
+  <article class="article">
+    
+    <span class="article-duration">1 min read</span>
+    
+
+    <h1 class="article-title">Auto-Encoding Variational Bayes</h1>
+
+    
+    <span class="article-date">2020-07-07</span>
+    
+
+    <div class="article-content">
+      
+
+
+<p>On Tuesday <span class="math inline">\(7^{\text{th}}\)</span> of July, Mauro Camara Escudero presented <a href="https://arxiv.org/pdf/1312.6114.pdf">Auto-Encoding Variational Bayes</a>. Slides can be found <a href="https://neuralnetworksbristol.netlify.com/VAE_Mauro.pdf">here</a>. The abstract is given below.</p>
+<blockquote>
+<p>How can we perform efficient inference and learning in directed probabilistic
+models, in the presence of continuous latent variables with intractable posterior
+distributions, and large datasets? We introduce a stochastic variational inference
+and learning algorithm that scales to large datasets and, under some mild differentiability conditions, even works in the intractable case. Our contributions is
+two-fold. First, we show that a reparameterization of the variational lower bound
+yields a lower bound estimator that can be straightforwardly optimized using standard stochastic gradient methods. Second, we show that for i.i.d. datasets with
+continuous latent variables per datapoint, posterior inference can be made especially efficient by fitting an approximate inference model (also called a recognition model) to the intractable posterior using the proposed lower bound estimator.
+Theoretical advantages are reflected in experimental results.</p>
+</blockquote>
+
+    </div>
+  </article>
+
   
-  <div class="archive">
-    
-    
-    
-    <h2 class="archive-title">2020</h2>
-    
-    <article class="archive-item">
-      <a href="/auto-encoding-variational-bayes/" class="archive-item-link">Auto-Encoding Variational Bayes</a>
-      <span class="archive-item-date">
-        2020-07-07
-      </span>
-    </article>
-    
-    <article class="archive-item">
-      <a href="/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/" class="archive-item-link">From optimal transport to generative modeling: the VEGAN cookbook</a>
-      <span class="archive-item-date">
-        2020-06-09
-      </span>
-    </article>
-    
-    <article class="archive-item">
-      <a href="/preventing-posterior-collapse-with-delta-vaes/" class="archive-item-link">Preventing Posterior Collapse with delta-VAEs</a>
-      <span class="archive-item-date">
-        2020-05-26
-      </span>
-    </article>
-    
-    
-  </div>
+
 
 </main>
 
@@ -111,6 +111,9 @@
     
 
     
+<script src="/js/math-code.js"></script>
+<script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 
     
 <script type="application/javascript">

@@ -41,11 +41,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
-    favicon = "NeuralNetworkReadingGroupFavicon.ico"
+    favicon = "favicon.ico"
 
     [params.logo]
-    url = "NeuralNetworkReadingGroupLogo.png"
+    url = "logo.png"
     width = 50
     height = 50
-    alt = "Neural Network Reading Group"
+    alt = "Logo"
 

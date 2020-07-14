@@ -6,10 +6,55 @@
     <description>Recent content in Categories on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>deep-neural-networks</title>
+      <link>/categories/deep-neural-networks/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/deep-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaussian-processes</title>
+      <link>/categories/gaussian-processes/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gaussian-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-networks</title>
+      <link>/categories/neural-networks/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational autoencoder</title>
+      <link>/categories/variational-autoencoder/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/variational-autoencoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational-inference</title>
+      <link>/categories/variational-inference/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/variational-inference/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>deep-neural-network</title>
@@ -21,38 +66,11 @@
     </item>
     
     <item>
-      <title>neural-networks</title>
-      <link>/categories/neural-networks/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>vae</title>
       <link>/categories/vae/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/vae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational autoencoder</title>
-      <link>/categories/variational-autoencoder/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/variational-autoencoder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational-inference</title>
-      <link>/categories/variational-inference/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/variational-inference/</guid>
       <description></description>
     </item>
     
@@ -98,15 +116,6 @@
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/kl-divergence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-neural-networks</title>
-      <link>/categories/deep-neural-networks/</link>
-      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/deep-neural-networks/</guid>
       <description></description>
     </item>
     

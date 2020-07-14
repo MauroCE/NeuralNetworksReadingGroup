@@ -1,0 +1,59 @@
+---
+title: Neural Processes
+author: Mauro Camara Escudero
+date: '2020-07-14'
+slug: neural-processes
+categories:
+  - neural-networks
+  - deep-neural-networks
+  - variational autoencoder
+  - gaussian-processes
+  - variational-inference
+tags:
+  - neural-networks
+  - deep-neural-networks
+  - variational auto encoder
+  - gaussian-processes
+---
+
+On Tuesday $14^{\text{th}}$ of July, Mingxuan presented [Neural Processes](https://arxiv.org/pdf/1807.01622.pdf) and [Conditional Neural Processes](https://arxiv.org/pdf/1807.01613.pdf) by Marta Garnelo et al. 
+
+Abstract for Neural Processes:
+
+> A neural network (NN) is a parameterised function that can be tuned via gradient descent to approximate a labelled collection of data with high
+precision. A Gaussian process (GP), on the other
+hand, is a probabilistic model that defines a distribution over possible functions, and is updated
+in light of data via the rules of probabilistic inference. GPs are probabilistic, data-efficient and
+flexible, however they are also computationally intensive and thus limited in their applicability. We
+introduce a class of neural latent variable models
+which we call Neural Processes (NPs), combining the best of both worlds. Like GPs, NPs define
+distributions over functions, are capable of rapid
+adaptation to new observations, and can estimate
+the uncertainty in their predictions. Like NNs,
+NPs are computationally efficient during training
+and evaluation but also learn to adapt their priors
+to data. We demonstrate the performance of NPs
+on a range of learning tasks, including regression
+and optimisation, and compare and contrast with
+related models in the literature.
+
+Abstract for Conditional Neural Processes
+
+> Deep neural networks excel at function approximation, yet they are typically trained from scratch
+for each new function. On the other hand,
+Bayesian methods, such as Gaussian Processes
+(GPs), exploit prior knowledge to quickly infer
+the shape of a new function at test time. Yet GPs
+are computationally expensive, and it can be hard
+to design appropriate priors. In this paper we
+propose a family of neural models, Conditional
+Neural Processes (CNPs), that combine the benefits of both. CNPs are inspired by the flexibility
+of stochastic processes such as GPs, but are structured as neural networks and trained via gradient
+descent. CNPs make accurate predictions after
+observing only a handful of training data points,
+yet scale to complex functions and large datasets.
+We demonstrate the performance and versatility
+of the approach on a range of canonical machine
+learning tasks, including regression, classification
+and image completion.
+

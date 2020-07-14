@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gaussian-processes on Neural Networks Reading Group UoB</title>
+    <link>/tags/gaussian-processes/</link>
+    <description>Recent content in gaussian-processes on Neural Networks Reading Group UoB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/gaussian-processes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neural Processes</title>
+      <link>/neural-processes/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/neural-processes/</guid>
+      <description>On Tuesday \(14^{\text{th}}\) of July, Mingxuan presented Neural Processes and Conditional Neural Processes by Marta Garnelo et al.
+Abstract for Neural Processes:
+ A neural network (NN) is a parameterised function that can be tuned via gradient descent to approximate a labelled collection of data with high precision. A Gaussian process (GP), on the other hand, is a probabilistic model that defines a distribution over possible functions, and is updated in light of data via the rules of probabilistic inference.</description>
+    </item>
+    
+  </channel>
+</rss>

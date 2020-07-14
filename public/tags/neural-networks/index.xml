@@ -72,5 +72,14 @@ The abstract is given below.
       <description>On Tuesday 10th of December we watched the video “Multiscale Models for Image Classification and Physics with Deep Networks” by Stéphane Mallat.</description>
     </item>
     
+    <item>
+      <title>Welcome to Neural Networks reading group website!</title>
+      <link>/welcome/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/welcome/</guid>
+      <description>Hi everyone! I hope you are as excited as we are about the Neural Network reading group. We thought we’d make it more engaging by having a simple website where we can share links to the papers, post summaries and ideas. This is still a work in progress and feeback and suggestions are very much appreciated. For now, you can send your feedback to m.camaraescudero@bristol.ac.uk or to ys18223@bristol.ac.uk.</description>
+    </item>
+    
   </channel>
 </rss>

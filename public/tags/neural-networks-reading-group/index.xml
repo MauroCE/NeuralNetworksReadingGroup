@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Admin on Neural Networks Reading Group UoB</title>
-    <link>/categories/admin/</link>
-    <description>Recent content in Admin on Neural Networks Reading Group UoB</description>
+    <title>neural-networks-reading-group on Neural Networks Reading Group UoB</title>
+    <link>/tags/neural-networks-reading-group/</link>
+    <description>Recent content in neural-networks-reading-group on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/neural-networks-reading-group/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

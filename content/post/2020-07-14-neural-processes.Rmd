@@ -16,7 +16,7 @@ tags:
   - gaussian-processes
 ---
 
-On Tuesday $14^{\text{th}}$ of July, Mingxuan presented [Neural Processes](https://arxiv.org/pdf/1807.01622.pdf) and [Conditional Neural Processes](https://arxiv.org/pdf/1807.01613.pdf) by Marta Garnelo et al. 
+On Tuesday $14^{\text{th}}$ of July, Mingxuan presented [Neural Processes](https://arxiv.org/pdf/1807.01622.pdf) and [Conditional Neural Processes](https://arxiv.org/pdf/1807.01613.pdf) by Marta Garnelo et al. You can find the notes [here](https://neuralnetworksbristol.netlify.com/NPs.pdf).
 
 Abstract for Neural Processes:
 

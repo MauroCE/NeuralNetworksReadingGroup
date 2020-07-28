@@ -1,0 +1,33 @@
+---
+title: 'Variational Inference with Normalizing Flows '
+author: Mauro Camara Escudero
+date: '2020-07-28'
+slug: variational-inference-with-normalizing-flows
+categories:
+  - normalizing flows
+  - variational-inference
+  - vae
+  - variational autoencoder
+tags:
+  - normalizing flows
+  - variational-inference
+  - variational auto encoder
+---
+
+On Tuesday $28^{\text{th}}$ of July, Mauro presented [Variational Inference with Normalizing Flows](https://arxiv.org/pdf/1505.05770.pdf) by Rezende and Mohamed. Two good review papers are [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/pdf/1912.02762.pdf), which is more Tutorial in nature, and [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/pdf/1908.09257.pdf), which is a bit more technical. Slides for the talk are available [here](https://neuralnetworksbristol.netlify.com/Normalizing_Flows_Mauro.pdf).
+
+The abstract is given below:
+
+> The choice of approximate posterior distribution
+is one of the core problems in variational inference. Most applications of variational inference
+employ simple families of posterior approximations in order to allow for efficient inference, focusing on mean-field or other simple structured
+approximations. This restriction has a significant impact on the quality of inferences made
+using variational methods. We introduce a new
+approach for specifying flexible, arbitrarily complex and scalable approximate posterior distributions. Our approximations are distributions constructed through a normalizing flow, whereby a
+simple initial density is transformed into a more
+complex one by applying a sequence of invertible
+transformations until a desired level of complexity is attained. We use this view of normalizing
+flows to develop categories of finite and infinitesimal flows and provide a unified view of approaches for constructing rich posterior approximations. We demonstrate that the theoretical advantages of having posteriors that better match
+the true posterior, combined with the scalability
+of amortized variational approaches, provides a
+clear improvement in performance and applicability of variational inference

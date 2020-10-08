@@ -18,7 +18,7 @@ members <- c(
   "Andi Wang", 
   "Anthony Lee", 
   "Chang Zhang", 
-  "Christophe Andrieu", 
+  "Christophe Andrieu",
   "Henry Reeve", 
   "Mark Beaumont", 
   "Mathieu Gerber", 

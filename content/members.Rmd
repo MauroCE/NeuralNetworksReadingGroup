@@ -16,10 +16,13 @@ members <- data.frame(
   Members = c(
 "Alexander Modell",
 "Andi Wang",
+"Andrea Becsek",
 "Anthony Lee",
 "Chang Zhang",
 "Christophe Andrieu",
+"Hamza Alawiye",
 "Henry Reeve",
+"Jennifer Chakravarty",
 "Mark Beaumont",
 "Mathieu Gerber",
 "Mauro Camara Escudero",
@@ -29,7 +32,10 @@ members <- data.frame(
 "Pierre-Aurelien Gilliot",
 "Robert Allison",
 "Sam Tickle",
-"Song Liu")
+"Song Liu"),
+  Presenting = c(TRUE, TRUE, TRUE, TRUE, TRUE, TRUE,
+                 TRUE, FALSE, FALSE, TRUE, TRUE, TRUE, 
+                 TRUE, FALSE, TRUE, TRUE, TRUE, TRUE, TRUE)
 )
 knitr::kable(members)
 ```

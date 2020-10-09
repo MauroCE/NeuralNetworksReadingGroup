@@ -4,4 +4,4 @@ date: "10/13/2019"
 output: html_document
 ---
 
-The Neural Network reading group meets every Tuesday from 10:30 to 11:30 in room 1.11 in the Fry Building (due to COVID we now meet on ZOOM).
+The Neural Network reading group meets every Monday from 16:00 (UK time) on ZOOM, link will be sent via email to all members.

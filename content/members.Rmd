@@ -14,28 +14,16 @@ The current members of the Neural Network Reading Group are listed below.
 
 members <- data.frame(
   Members = c(
-"Alexander Modell",
-"Andi Wang",
-"Andrea Becsek",
-"Anthony Lee",
-"Chang Zhang",
-"Christophe Andrieu",
-"Hamza Alawiye",
-"Henry Reeve",
-"Jennifer Chakravarty",
-"Mark Beaumont",
-"Mathieu Gerber",
-"Mauro Camara Escudero",
-"Mingxuan Yi",
-"Nick Whiteley",
-"Patrick Rubin-Delanchy",
-"Pierre-Aurelien Gilliot",
-"Robert Allison",
-"Sam Tickle",
-"Song Liu"),
-  Presenting = c(TRUE, TRUE, TRUE, TRUE, TRUE, TRUE,
-                 TRUE, FALSE, FALSE, TRUE, TRUE, TRUE, 
-                 TRUE, FALSE, TRUE, TRUE, TRUE, TRUE, TRUE)
+"Alexander Modell","Andi Wang","Andrea Becsek","Andrew Jones","Anthony Lee",
+"Chang Zhang","Christophe Andrieu","Hamza Alawiye","Henry Reeve", "Ian Gallagher", 
+"Jennifer Chakravarty","Mark Beaumont","Mathieu Gerber","Mauro Camara Escudero","Mingxuan Yi",
+"Nick Whiteley","Patrick Rubin-Delanchy","Pierre-Aurelien Gilliot","Robert Allison","Sam Tickle",
+"Song Liu","Tjun Yee Hoh"),
+  Status =     c("PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", "PRESENTER", 
+                 "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR", "SPECTATOR",
+                 "SPECTATOR", "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", 
+                 "SPECTATOR", "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", 
+                 "PRESENTER", "SPECTATOR")
 )
 knitr::kable(members)
 ```

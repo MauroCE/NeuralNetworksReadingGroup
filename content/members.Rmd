@@ -27,8 +27,8 @@ members <- data.frame(
                  "PRESENTER", "SPECTATOR")
 )
 knitr::kable(members) %>% 
-  kable_styling() %>% 
-  row_spec(which(members$Status == "PRESENTER"), bold=T, color="white", background="#0066ff") %>% 
-  row_spec(which(members$Status == "SPECTATOR"), bold=T, color="white", background="#A8A8A8")
+  kable_styling(bootstrap_options = c("hover", "responsive")) %>% 
+  row_spec(which(members$Status == "PRESENTER"), bold=F, color="white", background="#0066ff") %>% 
+  row_spec(which(members$Status == "SPECTATOR"), bold=F, color="white", background="#A8A8A8")
 ```
 

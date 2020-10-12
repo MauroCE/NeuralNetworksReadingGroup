@@ -7,6 +7,7 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(kableExtra)
 ```
 
 The current members of the Neural Network Reading Group are listed below.
@@ -25,6 +26,9 @@ members <- data.frame(
                  "SPECTATOR", "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", 
                  "PRESENTER", "SPECTATOR")
 )
-knitr::kable(members)
+knitr::kable(members) %>% 
+  kable_styling() %>% 
+  row_spec(which(members$Status == "PRESENTER"), bold=T, color="white", background="#0066ff") %>% 
+  row_spec(which(members$Status == "SPECTATOR"), bold=T, color="white", background="#A8A8A8")
 ```
 

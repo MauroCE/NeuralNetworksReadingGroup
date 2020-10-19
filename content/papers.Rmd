@@ -128,6 +128,6 @@ likelihood-free inference - Johann Brehmer et al.</a></td>
   <tr>
     <td>19th October</td>
     <td>Chang Zhang</td>
-    <td><a href="https://arxiv.org/pdf/1610.03483.pdf" target="_blank">Learning in Implicit Generative Models - Mohamed et al.</a></td>
+    <td><a href="https://arxiv.org/pdf/1610.03483.pdf" target="_blank">Learning in Implicit Generative Models - Mohamed et al</a></td>
   </tr>
 </table>

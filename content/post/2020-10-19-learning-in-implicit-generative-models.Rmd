@@ -1,0 +1,46 @@
+---
+title: Learning in Implicit Generative Models
+author: Mauro Camara Escudero
+date: '2020-10-19'
+slug: learning-in-implicit-generative-models
+categories:
+  - implicit-models
+  - lfi
+  - likelihood-free
+  - generative-models
+  - gan
+  - generative-adversarial-networks
+tags:
+  - generative-adversarial-networks
+  - gans
+  - implicit-models
+  - likelihood-free
+  - generative-models
+---
+On Monday the 19th of October 2020 Chang Zhang presented [Learning in Implicit Generative Models](https://arxiv.org/pdf/1610.03483.pdf) by Shakir Mohamed and Balaji Lakshminarayanan. The abstract is given below.
+
+> Generative adversarial networks (GANs) provide
+an algorithmic framework for constructing generative models with several appealing properties: they do not require a likelihood function
+to be specified, only a generating procedure; they
+provide samples that are sharp and compelling;
+and they allow us to harness our knowledge of
+building highly accurate neural network classifiers. Here, we develop our understanding of
+GANs with the aim of forming a rich view of
+this growing area of machine learning—to build
+connections to the diverse set of statistical thinking on this topic, of which much can be gained
+by a mutual exchange of ideas. We frame GANs
+within the wider landscape of algorithms for learning in implicit generative models—models that
+only specify a stochastic procedure with which
+to generate data—and relate these ideas to modelling problems in related fields, such as econometrics and approximate Bayesian computation.
+We develop likelihood-free inference methods
+and highlight hypothesis testing as a principle
+for learning in implicit generative models, using
+which we are able to derive the objective function used by GANs, and many other related objectives. The testing viewpoint directs our focus to the general problem of density-ratio and
+density-difference estimation. There are four approaches for density comparison, one of which
+is a solution using classifiers to distinguish real
+from generated data. Other approaches such as
+divergence minimisation and moment matching
+have also been explored, and we synthesise these
+views to form an understanding in terms of the relationships between them and the wider literature,
+highlighting avenues for future exploration and
+cross-pollination.

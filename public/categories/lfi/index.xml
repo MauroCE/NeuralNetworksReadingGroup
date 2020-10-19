@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gan on Neural Networks Reading Group UoB</title>
-    <link>/categories/gan/</link>
-    <description>Recent content in gan on Neural Networks Reading Group UoB</description>
+    <title>lfi on Neural Networks Reading Group UoB</title>
+    <link>/categories/lfi/</link>
+    <description>Recent content in lfi on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/gan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/lfi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/learning-in-implicit-generative-models/</guid>
       <description>On Monday the 19th of October 2020 Chang Zhang presented Learning in Implicit Generative Models by Shakir Mohamed and Balaji Lakshminarayanan. The abstract is given below.
  Generative adversarial networks (GANs) provide an algorithmic framework for constructing generative models with several appealing properties: they do not require a likelihood function to be specified, only a generating procedure; they provide samples that are sharp and compelling; and they allow us to harness our knowledge of building highly accurate neural network classifiers.</description>
-    </item>
-    
-    <item>
-      <title>From optimal transport to generative modeling: the VEGAN cookbook</title>
-      <link>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</guid>
-      <description>On Tuesday 9th of June Anthony Lee presented From optimal transport to generative modeling: the VEGAN cookbook. The abstract is given below:
- We study unsupervised generative modeling in terms of the optimal transport (OT) problem between true (but unknown) data distribution PX and the latent variable model distribution PG. We show that the OT problem can be equivalently written in terms of probabilistic encoders, which are constrained to match the posterior and prior distributions over the latent space.</description>
     </item>
     
   </channel>

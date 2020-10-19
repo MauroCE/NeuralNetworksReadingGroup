@@ -17,14 +17,14 @@ members <- data.frame(
   Members = c(
 "Alexander Modell","Andi Wang","Andrea Becsek","Andrew Jones","Anthony Lee",
 "Chang Zhang","Christophe Andrieu","Hamza Alawiye","Henry Reeve", "Ian Gallagher", 
-"Jennifer Chakravarty","Mark Beaumont","Mathieu Gerber","Mauro Camara Escudero","Mingxuan Yi",
-"Nick Whiteley","Patrick Rubin-Delanchy","Pierre-Aurelien Gilliot","Robert Allison","Sam Tickle",
-"Song Liu","Tjun Yee Hoh"),
+"Jennifer Chakravarty","Mark Beaumont","Mauro Camara Escudero","Mingxuan Yi","Nick Whiteley",
+"Patrick Rubin-Delanchy","Pierre-Aurelien Gilliot","Robert Allison","Sam Tickle","Song Liu",
+"Tjun Yee Hoh"),
   Status =     c("PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", "PRESENTER", 
                  "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR", "SPECTATOR",
-                 "SPECTATOR", "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", 
-                 "SPECTATOR", "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", 
-                 "PRESENTER", "SPECTATOR")
+                 "SPECTATOR", "PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", 
+                 "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", 
+                 "SPECTATOR")
 )
 knitr::kable(members) %>% 
   kable_styling(bootstrap_options = c("hover", "responsive")) %>% 

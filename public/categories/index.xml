@@ -6,10 +6,64 @@
     <description>Recent content in Categories on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>gan</title>
+      <link>/categories/gan/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generative-adversarial-networks</title>
+      <link>/categories/generative-adversarial-networks/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/generative-adversarial-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generative-models</title>
+      <link>/categories/generative-models/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>implicit-models</title>
+      <link>/categories/implicit-models/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/implicit-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lfi</title>
+      <link>/categories/lfi/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/lfi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>likelihood-free</title>
+      <link>/categories/likelihood-free/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/likelihood-free/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>normalizing flows</title>
@@ -93,15 +147,6 @@
     </item>
     
     <item>
-      <title>implicit-models</title>
-      <link>/categories/implicit-models/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/implicit-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bayesian-inference</title>
       <link>/categories/bayesian-inference/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
@@ -143,15 +188,6 @@
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gan</title>
-      <link>/categories/gan/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/gan/</guid>
       <description></description>
     </item>
     

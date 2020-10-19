@@ -6,10 +6,20 @@
     <description>Recent content in implicit-models on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/implicit-models/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning in Implicit Generative Models</title>
+      <link>/learning-in-implicit-generative-models/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/learning-in-implicit-generative-models/</guid>
+      <description>On Monday the 19th of October 2020 Chang Zhang presented Learning in Implicit Generative Models by Shakir Mohamed and Balaji Lakshminarayanan. The abstract is given below.
+ Generative adversarial networks (GANs) provide an algorithmic framework for constructing generative models with several appealing properties: they do not require a likelihood function to be specified, only a generating procedure; they provide samples that are sharp and compelling; and they allow us to harness our knowledge of building highly accurate neural network classifiers.</description>
+    </item>
     
     <item>
       <title>Mining gold from implicit models to improve likelihood-free inference</title>

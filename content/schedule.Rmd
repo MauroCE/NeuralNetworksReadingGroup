@@ -37,22 +37,22 @@ members = c(
 "Alexander Modell","Andi Wang","Andrea Becsek","Andrew Jones","Anthony Lee",
 "Chang Zhang","Christophe Andrieu","Hamza Alawiye","Henry Reeve", "Ian Gallagher", 
 "Jennifer Chakravarty","Mark Beaumont","Mauro Camara Escudero","Mingxuan Yi","Nick Whiteley",
-"Patrick Rubin-Delanchy","Pierre-Aurelien Gilliot","Robert Allison","Sam Tickle","Song Liu",
-"Tjun Yee Hoh")
+"Patrick Rubin-Delanchy","Pierre-Aurelien Gilliot","Robert Allison","Sam Power", "Sam Tickle",
+"Song Liu", "Tjun Yee Hoh")
 status =     c("PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", "PRESENTER", 
                "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR", "SPECTATOR",
                "SPECTATOR", "PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", 
                "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", 
-               "SPECTATOR")
+               "PRESENTER", "SPECTATOR")
 presenting_members <- members[ifelse(status == "PRESENTER", T, F)]
 # Date of Presentation
 dates_tb1 <- seq(as.Date("2020-10-19"), as.Date("2020-12-14"), by="weeks")
-dates_tb2 <- seq(as.Date("2021-02-01"), as.Date("2021-03-01"), by="weeks")
+dates_tb2 <- seq(as.Date("2021-02-01"), as.Date("2021-03-08"), by="weeks")
 dates     <- c(dates_tb1, dates_tb2)
 # Order of Presentations
-index     <- c(5, 8, 14, 11, 7, 
-               9, 6, 2, 4, 13, 
-               10, 3, 1, 12)
+index     <- c(5, 8, 15, 11, 7, 
+               9, 6, 2, 4, 14, 
+               10, 3, 1, 12, 13)
 names <- presenting_members[index]
 # ZOOM during COVID
 location <- rep("ZOOM", length(names))

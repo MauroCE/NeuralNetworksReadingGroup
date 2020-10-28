@@ -6,24 +6,33 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>gans</title>
-      <link>/tags/gans/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <title>deep generative models</title>
+      <link>/tags/deep-generative-models/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/gans/</guid>
+      <guid>/tags/deep-generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gan</title>
+      <link>/tags/gan/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>generative-adversarial-networks</title>
       <link>/tags/generative-adversarial-networks/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/generative-adversarial-networks/</guid>
       <description></description>
@@ -32,9 +41,45 @@
     <item>
       <title>generative-models</title>
       <link>/tags/generative-models/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vae</title>
+      <link>/tags/vae/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational auto encoder</title>
+      <link>/tags/variational-auto-encoder/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/variational-auto-encoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational autoencoder</title>
+      <link>/tags/variational-autoencoder/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/variational-autoencoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gans</title>
+      <link>/tags/gans/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gans/</guid>
       <description></description>
     </item>
     
@@ -62,15 +107,6 @@
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/normalizing-flows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational auto encoder</title>
-      <link>/tags/variational-auto-encoder/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/variational-auto-encoder/</guid>
       <description></description>
     </item>
     
@@ -116,15 +152,6 @@
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/deep-neaural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vae</title>
-      <link>/tags/vae/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/vae/</guid>
       <description></description>
     </item>
     
@@ -188,15 +215,6 @@
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gan</title>
-      <link>/tags/gan/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gan/</guid>
       <description></description>
     </item>
     

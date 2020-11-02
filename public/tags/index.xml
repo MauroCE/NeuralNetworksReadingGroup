@@ -6,10 +6,64 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>amortized-inference</title>
+      <link>/tags/amortized-inference/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/amortized-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contrastive-learning</title>
+      <link>/tags/contrastive-learning/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/contrastive-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>implicit-models</title>
+      <link>/tags/implicit-models/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/implicit-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>likelihood-free</title>
+      <link>/tags/likelihood-free/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/likelihood-free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mcmc</title>
+      <link>/tags/mcmc/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mcmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulator-models</title>
+      <link>/tags/simulator-models/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/simulator-models/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>deep generative models</title>
@@ -80,24 +134,6 @@
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/gans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>implicit-models</title>
-      <link>/tags/implicit-models/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/implicit-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>likelihood-free</title>
-      <link>/tags/likelihood-free/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/likelihood-free/</guid>
       <description></description>
     </item>
     
@@ -233,15 +269,6 @@
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/bridging-the-gap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mcmc</title>
-      <link>/tags/mcmc/</link>
-      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mcmc/</guid>
       <description></description>
     </item>
     

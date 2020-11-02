@@ -3,12 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/adversarial-variational-bayes/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
+    <loc>/categories/amortized-inference/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/amortized-inference/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/contrastive-learning/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/contrastive-learning/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/implicit-models/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/implicit-models/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/likelihood-free/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/likelihood-free/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/likelihood-free-mcmc-with-amortized-approximate-ratio-estimators/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/mcmc/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mcmc/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/simulator-models/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/simulator-models/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/adversarial-variational-bayes/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,12 +113,12 @@
   </url>
   
   <url>
-    <loc>/categories/generative-adversarial-networks/</loc>
+    <loc>/tags/generative-adversarial-networks/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/generative-adversarial-networks/</loc>
+    <loc>/categories/generative-adversarial-networks/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,22 +133,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/neural-networks/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,12 +158,12 @@
   </url>
   
   <url>
-    <loc>/tags/variational-autoencoder/</loc>
+    <loc>/categories/variational-autoencoder/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/variational-autoencoder/</loc>
+    <loc>/tags/variational-autoencoder/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,16 +178,6 @@
   </url>
   
   <url>
-    <loc>/categories/implicit-models/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/implicit-models/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/learning-in-implicit-generative-models/</loc>
     <lastmod>2020-10-19T00:00:00+00:00</lastmod>
   </url>
@@ -133,22 +188,12 @@
   </url>
   
   <url>
-    <loc>/categories/likelihood-free/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/likelihood-free/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/normalizing-flows/</loc>
+    <loc>/tags/normalizing-flows/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/normalizing-flows/</loc>
+    <loc>/categories/normalizing-flows/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,12 +208,12 @@
   </url>
   
   <url>
-    <loc>/tags/deep-neural-networks/</loc>
+    <loc>/categories/deep-neural-networks/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/deep-neural-networks/</loc>
+    <loc>/tags/deep-neural-networks/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -228,12 +273,12 @@
   </url>
   
   <url>
-    <loc>/tags/bayesian-inference/</loc>
+    <loc>/categories/bayesian-inference/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/bayesian-inference/</loc>
+    <loc>/tags/bayesian-inference/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -303,22 +348,12 @@
   </url>
   
   <url>
-    <loc>/tags/bridging-the-gap/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/bridging-the-gap/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/mcmc/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/mcmc/</loc>
+    <loc>/tags/bridging-the-gap/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -413,12 +448,12 @@
   </url>
   
   <url>
-    <loc>/tags/information-theory/</loc>
+    <loc>/categories/information-theory/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/information-theory/</loc>
+    <loc>/tags/information-theory/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -493,12 +528,12 @@
   </url>
   
   <url>
-    <loc>/tags/generalization-error/</loc>
+    <loc>/categories/generalization-error/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/generalization-error/</loc>
+    <loc>/tags/generalization-error/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   

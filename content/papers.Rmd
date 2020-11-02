@@ -135,4 +135,9 @@ likelihood-free inference - Johann Brehmer et al.</a></td>
     <td>Mauro Camara Escudero</td>
     <td><a href="https://arxiv.org/pdf/1701.04722.pdf" target="_blank">Adversarial Variational Bayes - Mescheder et al.</a></td>
   </tr>
+  <tr>
+    <td>2nd November</td>
+    <td>Song Liu</td>
+    <td><a href="https://arxiv.org/pdf/1903.04057.pdf" target="_blank">Likelihood-free MCMC with Amortized Approximate Ratio Estimators - Hermans et al.</a></td>
+  </tr>
 </table>

@@ -6,10 +6,64 @@
     <description>Recent content in Categories on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/categories/deep-learning/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generative-models</title>
+      <link>/categories/generative-models/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mnist</title>
+      <link>/categories/mnist/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mnist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vae</title>
+      <link>/categories/vae/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational autoencoder</title>
+      <link>/categories/variational-autoencoder/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/variational-autoencoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational-inference</title>
+      <link>/categories/variational-inference/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/variational-inference/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>amortized-inference</title>
@@ -93,15 +147,6 @@
     </item>
     
     <item>
-      <title>generative-models</title>
-      <link>/categories/generative-models/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/generative-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>neural-networks</title>
       <link>/categories/neural-networks/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
@@ -111,38 +156,11 @@
     </item>
     
     <item>
-      <title>vae</title>
-      <link>/categories/vae/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/vae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>variational</title>
       <link>/categories/variational/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/variational/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational autoencoder</title>
-      <link>/categories/variational-autoencoder/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/variational-autoencoder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational-inference</title>
-      <link>/categories/variational-inference/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/variational-inference/</guid>
       <description></description>
     </item>
     
@@ -233,15 +251,6 @@
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/aae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>/categories/deep-learning/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/deep-learning/</guid>
       <description></description>
     </item>
     

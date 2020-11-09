@@ -6,10 +6,20 @@
     <description>Recent content in vae on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/vae/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning Latent Subspaces in Variational Autoencoders</title>
+      <link>/learning-latent-subspaces-in-variational-autoencoders/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/learning-latent-subspaces-in-variational-autoencoders/</guid>
+      <description>On Monday \(9^{\text{th}}\) of November Pierre presented Learning Latent Subspaces in Variational Autoencoders by Klys et al. The slides are available here and the abstract is given below:
+ Variational autoencoders (VAEs) [10, 20] are widely used deep generative models capable of learning unsupervised latent representations of data. Such representations are often difficult to interpret or control. We consider the problem of unsupervised learning of features correlated to specific labels in a dataset.</description>
+    </item>
     
     <item>
       <title>Adversarial Variational Bayes</title>

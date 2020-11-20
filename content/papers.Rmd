@@ -146,4 +146,10 @@ likelihood-free inference - Johann Brehmer et al.</a></td>
     <td><a href="https://arxiv.org/pdf/1812.06190.pdf" target="_blank">Learning Latent Subspaces in
 Variational Autoencoders - Klys et al.</a></td>
   </tr>
+  <tr>
+    <td>16th November</td>
+    <td>Mark Beaumont</td>
+    <td><a href="https://arxiv.org/pdf/1808.04730.pdf" target="_blank">Analyzing Inverse Problems with
+Invertible Neural Networks - Ardizzone et al.</a></td>
+  </tr>
 </table>

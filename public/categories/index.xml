@@ -6,10 +6,37 @@
     <description>Recent content in Categories on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>inverse problems</title>
+      <link>/categories/inverse-problems/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/inverse-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-networks</title>
+      <link>/categories/neural-networks/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>normalizing flows</title>
+      <link>/categories/normalizing-flows/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/normalizing-flows/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>deep-learning</title>
@@ -147,15 +174,6 @@
     </item>
     
     <item>
-      <title>neural-networks</title>
-      <link>/categories/neural-networks/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>variational</title>
       <link>/categories/variational/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
@@ -170,15 +188,6 @@
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/lfi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>normalizing flows</title>
-      <link>/categories/normalizing-flows/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/normalizing-flows/</guid>
       <description></description>
     </item>
     

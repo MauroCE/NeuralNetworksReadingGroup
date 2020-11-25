@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kernel methods on Neural Networks Reading Group UoB</title>
+    <link>/categories/kernel-methods/</link>
+    <description>Recent content in kernel methods on Neural Networks Reading Group UoB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/kernel-methods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neural Tangent Kernel: Convergence and Generalization in Neural Networks</title>
+      <link>/neural-tangent-kernel-convergence-and-generalization-in-neural-networks/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/neural-tangent-kernel-convergence-and-generalization-in-neural-networks/</guid>
+      <description>On Monday \(23^{\text{rd}}\) of November Mingxuan presented Neural Tangent Kernel: Convergence and Generalization in Neural Networks. You can find the abstract below:
+ At initialization, artificial neural networks (ANNs) are equivalent to Gaussian processes in the infinite-width limit (16; 4; 7; 13; 6), thus connecting them to kernel methods. We prove that the evolution of an ANN during training can also be described by a kernel: during gradient descent on the parameters of an ANN, the network function fθ (which maps input vectors to output vectors) follows the kernel gradient of the functional cost (which is convex, in contrast to the parameter cost) w.</description>
+    </item>
+    
+  </channel>
+</rss>

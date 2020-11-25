@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>kernel methods</title>
+      <link>/tags/kernel-methods/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/kernel-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-networks</title>
+      <link>/tags/neural-networks/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neural-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>inverse problems</title>
@@ -17,15 +35,6 @@
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/inverse-problems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural-networks</title>
-      <link>/tags/neural-networks/</link>
-      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/neural-networks/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,12 @@
+---
+title: Estimation under invariant distributions
+author: Mauro Camara Escudero
+date: '2020-11-30'
+slug: estimation-under-invariant-distributions
+categories: []
+tags:
+  - invariant distributions
+---
+On Monday the $30^{\text{th}}$ of Novembre, Christophe presented [Estimation under invariant distributions](https://www.sciencedirect.com/science/article/pii/0378375889900645) by Yamato et al. The abstract is given below:
+
+> If a distribution is invariant under a finite group of transformations, an estimator of a parameter associated with the distribution is improved by making it invariant. The resulting invariant estimator is characterized as the projection of the original estimator. If the estimator is the uniformly minimum variance unbiased estimator of its expectation for continuous distributions, then the invariant estimator is the uniformly minimum variance unbiased estimator for invariant and continuous distributions. A typical example is U-statistics and invariant U-statistics.

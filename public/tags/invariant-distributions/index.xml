@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>invariant distributions on Neural Networks Reading Group UoB</title>
+    <link>/tags/invariant-distributions/</link>
+    <description>Recent content in invariant distributions on Neural Networks Reading Group UoB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/invariant-distributions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimation under invariant distributions</title>
+      <link>/estimation-under-invariant-distributions/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/estimation-under-invariant-distributions/</guid>
+      <description>On Monday the \(30^{\text{th}}\) of Novembre, Christophe presented Estimation under invariant distributions by Yamato et al. The abstract is given below:
+ If a distribution is invariant under a finite group of transformations, an estimator of a parameter associated with the distribution is improved by making it invariant. The resulting invariant estimator is characterized as the projection of the original estimator. If the estimator is the uniformly minimum variance unbiased estimator of its expectation for continuous distributions, then the invariant estimator is the uniformly minimum variance unbiased estimator for invariant and continuous distributions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,20 @@
     <description>Recent content in deep-learning on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Toward a theory of optimization for over-parameterized systems of non-linear equations: the lessons of deep learning</title>
+      <link>/toward-a-theory-of-optimization-for-over-parameterized-systems-of-non-linear-equations-the-lessons-of-deep-learning/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/toward-a-theory-of-optimization-for-over-parameterized-systems-of-non-linear-equations-the-lessons-of-deep-learning/</guid>
+      <description>On Monday \(7^{\text{th}}\) of December Andi presented Toward a theory of optimization for over-parameterized systems of non-linear equations: the lessons of deep learning. The abstract is given below:
+ The success of deep learning is due, to a great extent, to the remarkable effectiveness of gradient-based optimization methods applied to large neural networks. In this work we isolate some general mathematical structures allowing for efficient optimization in over-parameterized systems of non-linear equations, a setting that includes deep neural networks.</description>
+    </item>
     
     <item>
       <title>Learning Latent Subspaces in Variational Autoencoders</title>

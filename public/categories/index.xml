@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>normalizing flows</title>
+      <link>/categories/normalizing-flows/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/normalizing-flows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stochastic normalizing flows</title>
+      <link>/categories/stochastic-normalizing-flows/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/stochastic-normalizing-flows/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>deep-learning</title>
@@ -48,15 +66,6 @@
     </item>
     
     <item>
-      <title>normalizing flows</title>
-      <link>/categories/normalizing-flows/</link>
-      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/normalizing-flows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>generative-models</title>
       <link>/categories/generative-models/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
@@ -84,7 +93,7 @@
     </item>
     
     <item>
-      <title>variational-autoencoder</title>
+      <title>variational autoencoder</title>
       <link>/categories/variational-autoencoder/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       

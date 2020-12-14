@@ -13,37 +13,18 @@ The current schedule for the Neural Network reading group is
 
 
 ```{r, echo=FALSE}
-# All available members
-# members <- c(
-#   "Mauro Camara Escudero", 
-#   "Alexander Modell", 
-#   "Andi Wang", 
-#   "Anthony Lee", 
-#   "Chang Zhang", 
-#   "Christophe Andrieu",
-#   "Henry Reeve", 
-#   "Mark Beaumont", 
-#   "Mathieu Gerber", 
-#   "Mingxuan Yi", 
-#   "Nick Whiteley", 
-#   "Patrick Rubin-Delanchy", 
-#   "Pierre-Aurelien Gilliot", 
-#   "Robert Allison",
-#   "Sam Tickle", 
-#   "Song Liu"
-# )
 # Members
 members = c(
-"Alexander Modell","Andi Wang","Andrea Becsek","Andrew Jones","Anthony Lee",
-"Chang Zhang","Christophe Andrieu","Hamza Alawiye","Henry Reeve", "Ian Gallagher", 
-"Jennifer Chakravarty","Mark Beaumont","Mauro Camara Escudero","Mingxuan Yi","Nick Whiteley",
-"Patrick Rubin-Delanchy","Pierre-Aurelien Gilliot","Robert Allison","Sam Power", "Sam Tickle",
-"Song Liu", "Tjun Yee Hoh")
-status =     c("PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", "PRESENTER", 
-               "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR", "SPECTATOR",
-               "SPECTATOR", "PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", 
-               "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", 
-               "PRESENTER", "SPECTATOR")
+"Alessio Zakaria", "Alexander Modell","Andi Wang","Andrea Becsek","Andrew Jones",
+"Anthony Lee", "Chang Zhang","Christophe Andrieu","Hamza Alawiye","Henry Reeve", 
+"Ian Gallagher", "Jennifer Chakravarty","Mark Beaumont","Mauro Camara Escudero","Mingxuan Yi",
+"Nick Whiteley", "Patrick Rubin-Delanchy","Pierre-Aurelien Gilliot","Robert Allison","Sam Power", 
+"Sam Tickle", "Song Liu", "Tjun Yee Hoh", "Vladislav Tadic")
+status = c("SPECTATOR", "PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", 
+           "PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR", 
+           "SPECTATOR", "SPECTATOR", "PRESENTER", "PRESENTER", "PRESENTER", 
+           "SPECTATOR", "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", 
+           "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR")
 presenting_members <- members[ifelse(status == "PRESENTER", T, F)]
 # Date of Presentation
 dates_tb1 <- seq(as.Date("2020-10-19"), as.Date("2020-12-14"), by="weeks")
@@ -58,7 +39,7 @@ names <- presenting_members[index]
 location <- rep("ZOOM", length(names))
 schedule <- data.frame(Date=dates,Name=names, Room=location)
 # upcoming WEEK
-monday = "2020-12-14"
+monday = "2021-02-01"
 knitr::kable(schedule) %>% 
     kable_styling(bootstrap_options = c("hover", "responsive")) %>% 
     row_spec(which(schedule$Date == monday), bold=F, color="white", background="#0066ff")

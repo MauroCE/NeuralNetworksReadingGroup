@@ -6,10 +6,20 @@
     <description>Recent content on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stochastic Normalizing Flows</title>
+      <link>/stochastic-normalizing-flows/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/stochastic-normalizing-flows/</guid>
+      <description>On Monday \(14^{\text{th}}\) of December Anthony presented Stochastic Normalizing Flows. The abstract is given below:
+ The sampling of probability distributions specified up to a normalization constant is an important problem in both machine learning and statistical mechanics. While classical stochastic sampling methods such as Markov Chain Monte Carlo (MCMC) or Langevin Dynamics (LD) can suffer from slow mixing times there is a growing interest in using normalizing flows in order to learn the transformation of a simple prior distribution to the given target distribution.</description>
+    </item>
     
     <item>
       <title>Toward a theory of optimization for over-parameterized systems of non-linear equations: the lessons of deep learning</title>
@@ -309,7 +319,7 @@ The abstract is given below.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/members/</guid>
-      <description>  The current members of the Neural Network Reading Group are listed below.   Members  Status      Alexander Modell  PRESENTER    Andi Wang  PRESENTER    Andrea Becsek  PRESENTER    Andrew Jones  SPECTATOR    Anthony Lee  PRESENTER    Chang Zhang  PRESENTER    Christophe Andrieu  PRESENTER    Hamza Alawiye  SPECTATOR    Henry Reeve  SPECTATOR    Ian Gallagher  SPECTATOR    Jennifer Chakravarty  SPECTATOR    Mark Beaumont  PRESENTER    Mauro Camara Escudero  PRESENTER    Mingxuan Yi  PRESENTER    Nick Whiteley  SPECTATOR    Patrick Rubin-Delanchy  PRESENTER    Pierre-Aurelien Gilliot  PRESENTER    Robert Allison  PRESENTER    Sam Power  PRESENTER    Sam Tickle  PRESENTER    Song Liu  PRESENTER    Tjun Yee Hoh  SPECTATOR     </description>
+      <description>  The current members of the Neural Network Reading Group are listed below.   Members  Status      Alessio Zakaria  SPECTATOR    Alexander Modell  PRESENTER    Andi Wang  PRESENTER    Andrea Becsek  PRESENTER    Andrew Jones  SPECTATOR    Anthony Lee  PRESENTER    Chang Zhang  PRESENTER    Christophe Andrieu  PRESENTER    Hamza Alawiye  SPECTATOR    Henry Reeve  SPECTATOR    Ian Gallagher  SPECTATOR    Jennifer Chakravarty  SPECTATOR    Mark Beaumont  PRESENTER    Mauro Camara Escudero  PRESENTER    Mingxuan Yi  PRESENTER    Nick Whiteley  SPECTATOR    Patrick Rubin-Delanchy  PRESENTER    Pierre-Aurelien Gilliot  PRESENTER    Robert Allison  PRESENTER    Sam Power  PRESENTER    Sam Tickle  PRESENTER    Song Liu  PRESENTER    Tjun Yee Hoh  SPECTATOR    Vladislav Tadic  SPECTATOR     </description>
     </item>
     
     <item>

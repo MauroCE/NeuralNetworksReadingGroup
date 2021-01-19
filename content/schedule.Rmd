@@ -17,14 +17,16 @@ The current schedule for the Neural Network reading group is
 members = c(
 "Alessio Zakaria", "Alexander Modell","Andi Wang","Andrea Becsek","Andrew Jones",
 "Anthony Lee", "Chang Zhang","Christophe Andrieu","Daniel Williams", "Hamza Alawiye",
-"Henry Reeve", "Ian Gallagher", "Jennifer Chakravarty","Mark Beaumont","Mauro Camara Escudero",
-"Mingxuan Yi", "Nick Whiteley", "Patrick Rubin-Delanchy","Pierre-Aurelien Gilliot","Robert Allison",
-"Sam Power", "Sam Tickle", "Song Liu", "Tjun Yee Hoh", "Vladislav Tadic")
-status = c("SPECTATOR", "SPECTATOR", "PRESENTER", "SPECTATOR", "SPECTATOR", 
-           "PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR", 
-           "PRESENTER", "SPECTATOR", "SPECTATOR", "PRESENTER", "PRESENTER", 
-           "PRESENTER", "SPECTATOR", "PRESENTER", "PRESENTER", "PRESENTER", 
-           "PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR")
+"Henry Reeve", "Ian Gallagher", "Jack Simons", "Jennifer Chakravarty","Mark Beaumont",
+"Mauro Camara Escudero","Mingxuan Yi", "Nick Whiteley", "Patrick Rubin-Delanchy","Pierre-Aurelien Gilliot",
+"Robert Allison","Sam Power", "Sam Tickle", "Song Liu", "Tjun Yee Hoh", 
+"Vladislav Tadic")
+status =  c("SPECTATOR", "SPECTATOR", "PRESENTER", "SPECTATOR", "SPECTATOR", 
+            "PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR", 
+            "PRESENTER", "SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", 
+            "PRESENTER", "PRESENTER", "SPECTATOR", "PRESENTER", "PRESENTER", 
+            "PRESENTER", "PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", 
+            "SPECTATOR")
 presenting_members <- members[ifelse(status == "PRESENTER", T, F)]
 # Date of Presentation
 dates_tb1 <- seq(as.Date("2020-10-19"), as.Date("2020-12-14"), by="weeks")

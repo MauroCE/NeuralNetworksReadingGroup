@@ -1,0 +1,32 @@
+---
+title: Deep learning of contagion dynamics on complex networks
+author: Mauro Camara Escudero
+date: '2021-02-03'
+slug: deep-learning-of-contagion-dynamics-on-complex-networks
+categories:
+  - graph neural networks
+  - deep-learning
+  - neural-networks
+  - attention
+  - outbreaks
+tags:
+  - graph neural networks
+  - deep-learning
+  - neural-networks
+  - attention
+  - outbreaks
+  - deep neural networks
+---
+
+On Wednesday $3^{\text{th}}$ of February Sam Tickle presented [Deep learning of contagion dynamics on complex networks](https://arxiv.org/pdf/2006.05410.pdf). The slides are available [here](/GNN_SamTickle.pdf) and the abstract is given below.
+
+> Forecasting the evolution of contagion dynamics is still an open problem to which mechanistic models only
+offer a partial answer. To remain mathematically or computationally tractable, these models must rely on simplifying assumptions, thereby limiting the quantitative accuracy of their predictions and the complexity of the
+dynamics they can model. Here, we propose a complementary approach based on deep learning where the
+effective local mechanisms governing a dynamic are learned from time series data. Our graph neural network
+architecture makes very few assumptions about the dynamics, and we demonstrate its accuracy using different
+contagion dynamics of increasing complexity. By allowing simulations on arbitrary network structures, our
+approach makes it possible to explore the properties of the learned dynamics beyond the training data. Finally,
+we illustrate the applicability of our approach using real data of the COVID-19 outbreak in Spain from January
+to October 2020. Our results demonstrate how deep learning offers a new and complementary perspective to
+build effective models of contagion dynamics on networks.

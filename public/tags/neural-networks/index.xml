@@ -6,10 +6,20 @@
     <description>Recent content in neural-networks on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep learning of contagion dynamics on complex networks</title>
+      <link>/deep-learning-of-contagion-dynamics-on-complex-networks/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/deep-learning-of-contagion-dynamics-on-complex-networks/</guid>
+      <description>On Wednesday \(3^{\text{th}}\) of February Sam Tickle presented Deep learning of contagion dynamics on complex networks. The slides are available here and the abstract is given below.
+ Forecasting the evolution of contagion dynamics is still an open problem to which mechanistic models only offer a partial answer. To remain mathematically or computationally tractable, these models must rely on simplifying assumptions, thereby limiting the quantitative accuracy of their predictions and the complexity of the dynamics they can model.</description>
+    </item>
     
     <item>
       <title>Stochastic Normalizing Flows</title>

@@ -6,10 +6,55 @@
     <description>Recent content in Categories on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>attention</title>
+      <link>/categories/attention/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>/categories/deep-learning/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph neural networks</title>
+      <link>/categories/graph-neural-networks/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-networks</title>
+      <link>/categories/neural-networks/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outbreaks</title>
+      <link>/categories/outbreaks/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/outbreaks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>normalizing flows</title>
@@ -30,29 +75,11 @@
     </item>
     
     <item>
-      <title>deep-learning</title>
-      <link>/categories/deep-learning/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>kernel methods</title>
       <link>/categories/kernel-methods/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/kernel-methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural-networks</title>
-      <link>/categories/neural-networks/</link>
-      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/neural-networks/</guid>
       <description></description>
     </item>
     
@@ -93,7 +120,7 @@
     </item>
     
     <item>
-      <title>variational-autoencoder</title>
+      <title>variational autoencoder</title>
       <link>/categories/variational-autoencoder/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       

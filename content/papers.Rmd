@@ -178,4 +178,10 @@ Convergence and Generalization in Neural Networks - Jacot et al.</a></td>
     <td>Sam Tickle</td>
     <td><a href="https://arxiv.org/pdf/2006.05410.pdf" target="_blank">Deep learning of contagion dynamics on complex networks - Murphy et al.</a></td>
   </tr>
+  <tr>
+    <td>10rd February</td>
+    <td>Patrick Rubin-Delanchy</td>
+    <td><a href="https://papers.nips.cc/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf" target="_blank">Neural Word Embedding
+as Implicit Matrix Factorization - Levy et al.</a></td>
+  </tr>
 </table>

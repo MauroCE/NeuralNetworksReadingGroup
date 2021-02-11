@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.58.3" />
+
+
+<title>Neural Word Embedding as Implicit Matrix Factorization - Neural Networks Reading Group UoB</title>
+<meta property="og:title" content="Neural Word Embedding as Implicit Matrix Factorization - Neural Networks Reading Group UoB">
+
+
+  <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/about/">About</a></li>
+    
+    <li><a href="/room/">Location</a></li>
+    
+    <li><a href="/members/">Members</a></li>
+    
+    <li><a href="/papers/">Past Papers</a></li>
+    
+    <li><a href="/suggestions/">Reading Suggestions</a></li>
+    
+    <li><a href="/schedule/">Schedule</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">1 min read</span>
+    
+
+    <h1 class="article-title">Neural Word Embedding as Implicit Matrix Factorization</h1>
+
+    
+    <span class="article-date">2021-02-10</span>
+    
+
+    <div class="article-content">
+      
+
+
+<p>On Wednesday the <span class="math inline">\(10^{\text{th}}\)</span> of February Patrick presented <a href="https://papers.nips.cc/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf">Neural Word Embedding
+as Implicit Matrix Factorization</a> by Levy and Goldberg. You can find some hand-written notes <a href="/NWE_Patrick.pdf">here</a>. The abstract is given below.</p>
+<blockquote>
+<p>We analyze skip-gram with negative-sampling (SGNS), a word embedding
+method introduced by Mikolov et al., and show that it is implicitly factorizing
+a word-context matrix, whose cells are the pointwise mutual information (PMI) of
+the respective word and context pairs, shifted by a global constant. We find that
+another embedding method, NCE, is implicitly factorizing a similar matrix, where
+each cell is the (shifted) log conditional probability of a word given its context.
+We show that using a sparse Shifted Positive PMI word-context matrix to represent
+words improves results on two word similarity tasks and one of two analogy tasks.
+When dense low-dimensional vectors are preferred, exact factorization with SVD
+can achieve solutions that are at least as good as SGNS’s solutions for word similarity tasks. On analogy questions SGNS remains superior to SVD. We conjecture
+that this stems from the weighted nature of SGNS’s factorization.</p>
+</blockquote>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+    
+<script src="/js/math-code.js"></script>
+<script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-123451981-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+  </body>
+</html>
+

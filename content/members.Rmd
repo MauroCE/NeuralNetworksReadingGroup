@@ -16,19 +16,19 @@ The current members of the Neural Network Reading Group are listed below.
 members <- data.frame(
   Members = c(
 "Alessio Zakaria", "Alexander Modell","Andi Wang","Andrea Becsek","Andrew Jones",
-"Anthony Lee", "Chang Zhang","Christophe Andrieu", "Cindy Lim", "Conor Newton",
-"Daniel Lawson", "Daniel Williams", "Hamza Alawiye", "Henry Reeve", "Ian Gallagher", 
-"Jack Simons", "Jennifer Chakravarty","Mark Beaumont", "Mauro Camara Escudero", "Maximilian Werner", 
-"Mingxuan Yi", "Nick Whiteley", "Patrick Rubin-Delanchy", "Pierre-Aurelien Gilliot", "Raphael Clifford",
-"Robert Allison", "Sacha Lapins", "Sam Power", "Sam Stockman", "Sam Tickle", 
-"Song Liu", "Tjun Yee Hoh", "Vladislav Tadic"),
+"Anthony Lee", "Ayalvadi Ganesh", "Chang Zhang","Christophe Andrieu", "Cindy Lim", 
+"Conor Newton", "Daniel Lawson", "Daniel Williams", "Hamza Alawiye", "Henry Reeve", 
+"Ian Gallagher", "Jack Simons", "Jennifer Chakravarty","Mark Beaumont", "Mauro Camara Escudero", 
+"Maximilian Werner", "Mingxuan Yi", "Nick Whiteley", "Patrick Rubin-Delanchy", "Pierre-Aurelien Gilliot", 
+"Raphael Clifford","Robert Allison", "Sacha Lapins", "Sam Power", "Sam Stockman", 
+"Sam Tickle", "Song Liu", "Tjun Yee Hoh", "Vladislav Tadic"),
   Status =     c("SPECTATOR", "SPECTATOR", "PRESENTER", "SPECTATOR", "SPECTATOR", 
-                 "PRESENTER", "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR",
-                 "SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", "SPECTATOR", 
-                 "SPECTATOR", "SPECTATOR", "PRESENTER", "PRESENTER", "SPECTATOR", 
                  "PRESENTER", "SPECTATOR", "PRESENTER", "PRESENTER", "SPECTATOR", 
-                 "PRESENTER", "SPECTATOR", "PRESENTER", "SPECTATOR", "PRESENTER",
-                 "PRESENTER", "SPECTATOR", "SPECTATOR")
+                 "SPECTATOR", "SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", 
+                 "SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", "PRESENTER", 
+                 "SPECTATOR", "PRESENTER", "SPECTATOR", "PRESENTER", "PRESENTER",
+                 "SPECTATOR", "PRESENTER", "SPECTATOR", "PRESENTER", "SPECTATOR", 
+                 "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR")
 )
 knitr::kable(members) %>% 
   kable_styling(bootstrap_options = c("hover", "responsive")) %>% 

@@ -184,4 +184,9 @@ Convergence and Generalization in Neural Networks - Jacot et al.</a></td>
     <td><a href="https://papers.nips.cc/paper/2014/file/feab05aa91085b7a8012516bc3533958-Paper.pdf" target="_blank">Neural Word Embedding
 as Implicit Matrix Factorization - Levy et al.</a></td>
   </tr>
+  <tr>
+    <td>24th February</td>
+    <td>Sam Power</td>
+    <td><a href="https://arxiv.org/abs/2101.03288" target="_blank">How to Train Your Energy-Based Models - Song et al.</a></td>
+  </tr>
 </table>

@@ -4,7 +4,67 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/energy-based-models/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/energy-based-models/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/how-to-train-your-energy-based-models/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/machine-learning/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/neural-networks/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/neural-networks/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/train/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/train/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,17 +78,12 @@
   </url>
   
   <url>
-    <loc>/tags/matrix-factorization/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/matrix-factorization/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/tags/matrix-factorization/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,27 +93,7 @@
   </url>
   
   <url>
-    <loc>/categories/neural-networks/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/neural-networks/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/nlp/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,12 +108,12 @@
   </url>
   
   <url>
-    <loc>/categories/attention/</loc>
+    <loc>/tags/attention/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/attention/</loc>
+    <loc>/categories/attention/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,12 +123,12 @@
   </url>
   
   <url>
-    <loc>/tags/deep-neural-networks/</loc>
+    <loc>/categories/deep-learning/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/deep-learning/</loc>
+    <loc>/tags/deep-neural-networks/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,12 +143,12 @@
   </url>
   
   <url>
-    <loc>/tags/outbreaks/</loc>
+    <loc>/categories/outbreaks/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/outbreaks/</loc>
+    <loc>/tags/outbreaks/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,12 +158,12 @@
   </url>
   
   <url>
-    <loc>/tags/normalizing-flows/</loc>
+    <loc>/categories/normalizing-flows/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/normalizing-flows/</loc>
+    <loc>/tags/normalizing-flows/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,12 +218,12 @@
   </url>
   
   <url>
-    <loc>/tags/inverse-problems/</loc>
+    <loc>/categories/inverse-problems/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/inverse-problems/</loc>
+    <loc>/tags/inverse-problems/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,12 +243,12 @@
   </url>
   
   <url>
-    <loc>/categories/mnist/</loc>
+    <loc>/tags/mnist/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/mnist/</loc>
+    <loc>/categories/mnist/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -268,12 +303,12 @@
   </url>
   
   <url>
-    <loc>/categories/implicit-models/</loc>
+    <loc>/tags/implicit-models/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/implicit-models/</loc>
+    <loc>/categories/implicit-models/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -293,22 +328,22 @@
   </url>
   
   <url>
-    <loc>/categories/mcmc/</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/mcmc/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/simulator-models/</loc>
+    <loc>/categories/mcmc/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/simulator-models/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/simulator-models/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -418,12 +453,12 @@
   </url>
   
   <url>
-    <loc>/tags/abc/</loc>
+    <loc>/categories/abc/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/abc/</loc>
+    <loc>/tags/abc/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -433,12 +468,12 @@
   </url>
   
   <url>
-    <loc>/categories/bayesian-inference/</loc>
+    <loc>/tags/bayesian-inference/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bayesian-inference/</loc>
+    <loc>/categories/bayesian-inference/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -508,12 +543,12 @@
   </url>
   
   <url>
-    <loc>/tags/metflow/</loc>
+    <loc>/categories/metflow/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/metflow/</loc>
+    <loc>/tags/metflow/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -588,12 +623,12 @@
   </url>
   
   <url>
-    <loc>/tags/information-bottleneck/</loc>
+    <loc>/categories/information-bottleneck/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/information-bottleneck/</loc>
+    <loc>/tags/information-bottleneck/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -638,12 +673,12 @@
   </url>
   
   <url>
-    <loc>/tags/approximate-bayesian-computation/</loc>
+    <loc>/categories/approximate-bayesian-computation/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/approximate-bayesian-computation/</loc>
+    <loc>/tags/approximate-bayesian-computation/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -653,12 +688,12 @@
   </url>
   
   <url>
-    <loc>/tags/sufficient-statistics/</loc>
+    <loc>/categories/sufficient-statistics/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/sufficient-statistics/</loc>
+    <loc>/tags/sufficient-statistics/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -678,12 +713,12 @@
   </url>
   
   <url>
-    <loc>/categories/generalization-error/</loc>
+    <loc>/tags/generalization-error/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/generalization-error/</loc>
+    <loc>/categories/generalization-error/</loc>
     <lastmod>2020-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -749,11 +784,6 @@
   
   <url>
     <loc>/deep-convolutional-networks/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/machine-learning/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
   </url>
   

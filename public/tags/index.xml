@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>energy-based models</title>
+      <link>/tags/energy-based-models/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/energy-based-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-networks</title>
+      <link>/tags/neural-networks/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>train</title>
+      <link>/tags/train/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/train/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>deep-learning</title>
@@ -35,15 +71,6 @@
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/matrix-factorization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural-networks</title>
-      <link>/tags/neural-networks/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/neural-networks/</guid>
       <description></description>
     </item>
     
@@ -75,7 +102,7 @@
     </item>
     
     <item>
-      <title>deep neural networks</title>
+      <title>deep-neural-networks</title>
       <link>/tags/deep-neural-networks/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -602,15 +629,6 @@
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/convolutional-neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine-learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     

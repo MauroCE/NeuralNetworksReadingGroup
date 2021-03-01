@@ -1,0 +1,19 @@
+---
+title: 'How to Train your Energy-Based Models '
+author: Mauro Camara Escudero
+date: '2021-02-24'
+slug: how-to-train-your-energy-based-models
+categories:
+  - energy-based models
+  - train
+  - neural-networks
+  - machine learning
+tags:
+  - energy-based models
+  - train
+  - neural-networks
+  - machine-learning
+---
+On Wednesday teh $24^{\text{th}}$ of February Sam presented [How to train your energy-based models](https://arxiv.org/abs/2101.03288) by Yang Song and Diederik P. Kingma. You can find his presentation [here](/Estimation in Unnormalised Models.pdf) and the abstract below.
+
+> Energy-Based Models (EBMs), also known as non-normalized probabilistic models, specify probability density or mass functions up to an unknown normalizing constant. Unlike most other probabilistic models, EBMs do not place a restriction on the tractability of the normalizing constant, thus are more flexible to parameterize and can model a more expressive family of probability distributions. However, the unknown normalizing constant of EBMs makes training particularly difficult. Our goal is to provide a friendly introduction to modern approaches for EBM training. We start by explaining maximum likelihood training with Markov chain Monte Carlo (MCMC), and proceed to elaborate on MCMC-free approaches, including Score Matching (SM) and Noise Constrastive Estimation (NCE). We highlight theoretical connections among these three approaches, and end with a brief survey on alternative training methods, which are still under active research. Our tutorial is targeted at an audience with basic understanding of generative models who want to apply EBMs or start a research project in this direction.

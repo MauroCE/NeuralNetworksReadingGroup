@@ -6,10 +6,20 @@
     <description>Recent content on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Train your Energy-Based Models </title>
+      <link>/how-to-train-your-energy-based-models/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-train-your-energy-based-models/</guid>
+      <description>On Wednesday teh \(24^{\text{th}}\) of February Sam presented How to train your energy-based models by Yang Song and Diederik P. Kingma. You can find his presentation here and the abstract below.
+ Energy-Based Models (EBMs), also known as non-normalized probabilistic models, specify probability density or mass functions up to an unknown normalizing constant. Unlike most other probabilistic models, EBMs do not place a restriction on the tractability of the normalizing constant, thus are more flexible to parameterize and can model a more expressive family of probability distributions.</description>
+    </item>
     
     <item>
       <title>Neural Word Embedding as Implicit Matrix Factorization</title>
@@ -339,7 +349,7 @@ The abstract is given below.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/members/</guid>
-      <description>  The current members of the Neural Network Reading Group are listed below.   Members  Status      Alessio Zakaria  SPECTATOR    Alexander Modell  SPECTATOR    Andi Wang  PRESENTER    Andrea Becsek  SPECTATOR    Andrew Jones  SPECTATOR    Anthony Lee  PRESENTER    Ayalvadi Ganesh  SPECTATOR    Chang Zhang  PRESENTER    Christophe Andrieu  PRESENTER    Cindy Lim  SPECTATOR    Conor Newton  SPECTATOR    Daniel Lawson  SPECTATOR    Daniel Williams  SPECTATOR    Hamza Alawiye  SPECTATOR    Henry Reeve  PRESENTER    Ian Gallagher  SPECTATOR    Jack Simons  SPECTATOR    Jennifer Chakravarty  SPECTATOR    Mark Beaumont  PRESENTER    Mauro Camara Escudero  PRESENTER    Maximilian Werner  SPECTATOR    Mingxuan Yi  PRESENTER    Nick Whiteley  SPECTATOR    Patrick Rubin-Delanchy  PRESENTER    Pierre-Aurelien Gilliot  PRESENTER    Raphael Clifford  SPECTATOR    Robert Allison  PRESENTER    Sacha Lapins  SPECTATOR    Sam Power  PRESENTER    Sam Stockman  SPECTATOR    Sam Tickle  PRESENTER    Song Liu  PRESENTER    Tjun Yee Hoh  SPECTATOR    Vladislav Tadic  SPECTATOR     </description>
+      <description>  The current members of the Neural Network Reading Group are listed below.   Members  Status      Adam Yang  SPECTATOR    Alessio Zakaria  SPECTATOR    Alexander Modell  SPECTATOR    Andi Wang  PRESENTER    Andrea Becsek  SPECTATOR    Andrew Jones  SPECTATOR    Annie Gray  SPECTATOR    Anthony Lee  PRESENTER    Ayalvadi Ganesh  SPECTATOR    Benjamin Barrett  SPECTATOR    Chang Zhang  PRESENTER    Christophe Andrieu  PRESENTER    Cindy Lim  SPECTATOR    Conor Newton  SPECTATOR    Daniel Lawson  SPECTATOR    Daniel Williams  SPECTATOR    Ed Davis  SPECTATOR    Hamza Alawiye  SPECTATOR    Henry Reeve  PRESENTER    Ian Gallagher  SPECTATOR    Jack Simons  SPECTATOR    Jennifer Chakravarty  SPECTATOR    Mark Beaumont  PRESENTER    Mauro Camara Escudero  PRESENTER    Maximilian Werner  SPECTATOR    Mingxuan Yi  PRESENTER    Nick Whiteley  SPECTATOR    Patrick Rubin-Delanchy  PRESENTER    Pierre-Aurelien Gilliot  PRESENTER    Raphael Clifford  SPECTATOR    Robert Allison  PRESENTER    Sacha Lapins  SPECTATOR    Sam Power  PRESENTER    Sam Stockman  SPECTATOR    Sam Tickle  PRESENTER    Song Liu  PRESENTER    Tjun Yee Hoh  SPECTATOR    Vladislav Tadic  SPECTATOR     </description>
     </item>
     
     <item>
@@ -348,7 +358,7 @@ The abstract is given below.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/room/</guid>
-      <description>The Neural Network reading group meets every Monday from 16:00 (UK time) on ZOOM, link will be sent via email to all members.</description>
+      <description>The Neural Network reading group meets every Wednesday from 14:00 (UK time) on ZOOM, link will be sent via email to all members.</description>
     </item>
     
     <item>

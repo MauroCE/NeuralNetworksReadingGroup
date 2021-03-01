@@ -15,20 +15,22 @@ The current schedule for the Neural Network reading group is
 ```{r, echo=FALSE}
 # Members
 members = c(
-"Alessio Zakaria", "Alexander Modell","Andi Wang","Andrea Becsek","Andrew Jones",
-"Anthony Lee", "Ayalvadi Ganesh", "Chang Zhang","Christophe Andrieu", "Cindy Lim", 
-"Conor Newton", "Daniel Lawson", "Daniel Williams", "Hamza Alawiye", "Henry Reeve", 
-"Ian Gallagher", "Jack Simons", "Jennifer Chakravarty","Mark Beaumont", "Mauro Camara Escudero", 
-"Maximilian Werner", "Mingxuan Yi", "Nick Whiteley", "Patrick Rubin-Delanchy", "Pierre-Aurelien Gilliot", 
-"Raphael Clifford","Robert Allison", "Sacha Lapins", "Sam Power", "Sam Stockman", 
-"Sam Tickle", "Song Liu", "Tjun Yee Hoh", "Vladislav Tadic")
-status = c("SPECTATOR", "SPECTATOR", "PRESENTER", "SPECTATOR", "SPECTATOR", 
+"Adam Yang", "Alessio Zakaria", "Alexander Modell","Andi Wang","Andrea Becsek",
+"Andrew Jones", "Annie Gray", "Anthony Lee", "Ayalvadi Ganesh", "Benjamin Barrett", 
+"Chang Zhang", "Christophe Andrieu", "Cindy Lim", "Conor Newton", "Daniel Lawson",
+"Daniel Williams", "Ed Davis", "Hamza Alawiye", "Henry Reeve", "Ian Gallagher", 
+"Jack Simons", "Jennifer Chakravarty","Mark Beaumont","Mauro Camara Escudero", "Maximilian Werner", 
+"Mingxuan Yi", "Nick Whiteley","Patrick Rubin-Delanchy", "Pierre-Aurelien Gilliot", "Raphael Clifford",
+"Robert Allison", "Sacha Lapins", "Sam Power", "Sam Stockman", "Sam Tickle", 
+"Song Liu", "Tjun Yee Hoh", "Vladislav Tadic")
+status = c("SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", "SPECTATOR", 
+           "SPECTATOR", "SPECTATOR", "PRESENTER", "SPECTATOR", "SPECTATOR", 
+           "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR", "SPECTATOR", 
+           "SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", "SPECTATOR", 
+           "SPECTATOR", "SPECTATOR", "PRESENTER", "PRESENTER", "SPECTATOR", 
            "PRESENTER", "SPECTATOR", "PRESENTER", "PRESENTER", "SPECTATOR", 
-           "SPECTATOR", "SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", 
-           "SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", "PRESENTER", 
-           "SPECTATOR", "PRESENTER", "SPECTATOR", "PRESENTER", "PRESENTER",
-           "SPECTATOR", "PRESENTER", "SPECTATOR", "PRESENTER", "SPECTATOR", 
-           "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR")
+           "PRESENTER", "SPECTATOR", "PRESENTER", "SPECTATOR", "PRESENTER", 
+           "PRESENTER", "SPECTATOR", "SPECTATOR")
 presenting_members <- members[ifelse(status == "PRESENTER", T, F)]
 # Date of Presentation
 dates_tb1 <- seq(as.Date("2020-10-19"), as.Date("2020-12-14"), by="weeks")
@@ -43,7 +45,7 @@ names <- presenting_members[index]
 location <- rep("ZOOM", length(names))
 schedule <- data.frame(Date=dates,Name=names, Room=location)
 # upcoming WEEK
-monday = "2021-02-18"
+monday = "2021-03-03"
 knitr::kable(schedule) %>% 
     kable_styling(bootstrap_options = c("hover", "responsive")) %>% 
     row_spec(which(schedule$Date == monday), bold=F, color="white", background="#0066ff")

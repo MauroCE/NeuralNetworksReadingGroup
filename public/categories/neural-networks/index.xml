@@ -6,10 +6,20 @@
     <description>Recent content in neural-networks on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Train your Energy-Based Models </title>
+      <link>/how-to-train-your-energy-based-models/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-train-your-energy-based-models/</guid>
+      <description>On Wednesday teh \(24^{\text{th}}\) of February Sam presented How to train your energy-based models by Yang Song and Diederik P. Kingma. You can find his presentation here and the abstract below.
+ Energy-Based Models (EBMs), also known as non-normalized probabilistic models, specify probability density or mass functions up to an unknown normalizing constant. Unlike most other probabilistic models, EBMs do not place a restriction on the tractability of the normalizing constant, thus are more flexible to parameterize and can model a more expressive family of probability distributions.</description>
+    </item>
     
     <item>
       <title>Neural Word Embedding as Implicit Matrix Factorization</title>

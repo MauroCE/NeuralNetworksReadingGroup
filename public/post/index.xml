@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NeuralFDR: Learning Discovery Thresholds from Hypothesis Features</title>
+      <link>/neuralfdr-learning-discovery-thresholds-from-hypothesis-features/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/neuralfdr-learning-discovery-thresholds-from-hypothesis-features/</guid>
+      <description>On Wednesday the \(3^{\text{th}}\) of March Henry presented NeuralFDR: Learning Discovery Thresholds from Hypothesis Features by Xia et al. The abstract is given below.
+ As datasets grow richer, an important challenge is to leverage the full features in the data to maximize the number of useful discoveries while controlling for false positives. We address this problem in the context of multiple hypotheses testing, where for each hypothesis, we observe a p-value along with a set of features specific to that hypothesis.</description>
+    </item>
     
     <item>
       <title>How to Train your Energy-Based Models </title>

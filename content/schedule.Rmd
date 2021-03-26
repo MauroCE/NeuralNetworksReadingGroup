@@ -33,19 +33,19 @@ status = c("SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", "SPECTATOR",
            "PRESENTER", "SPECTATOR", "SPECTATOR")
 presenting_members <- members[ifelse(status == "PRESENTER", T, F)]
 # Date of Presentation
-dates_tb1 <- seq(as.Date("2020-10-19"), as.Date("2020-12-14"), by="weeks")
-dates_tb2 <- seq(as.Date("2021-02-03"), as.Date("2021-03-03"), by="weeks")
+dates_tb1 <- seq(as.Date("2021-03-31"), as.Date("2021-05-12"), by="weeks")
+dates_tb2 <- seq(as.Date("2021-05-19"), as.Date("2021-06-30"), by="weeks")
 dates     <- c(dates_tb1, dates_tb2)
 # Order of Presentations
-index     <- c(3, 7, 14, 10, 6, 
-               8, 4, 1, 2, 13, 
-               9, 11, 12, 5)
+index     <- c(6, 2, 3, 14, 7, 
+               8, 1, 9, 11, 4, 
+               13, 5, 12, 10)
 names <- presenting_members[index]
 # ZOOM during COVID
 location <- rep("ZOOM", length(names))
 schedule <- data.frame(Date=dates,Name=names, Room=location)
 # upcoming WEEK
-monday = "2021-03-03"
+monday = "2021-03-31"
 knitr::kable(schedule) %>% 
     kable_styling(bootstrap_options = c("hover", "responsive")) %>% 
     row_spec(which(schedule$Date == monday), bold=F, color="white", background="#0066ff")

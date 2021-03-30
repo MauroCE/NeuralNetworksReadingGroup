@@ -17,20 +17,20 @@ members <- data.frame(
   Members = c(
 "Adam Yang", "Alessio Zakaria", "Alexander Modell","Andi Wang","Andrea Becsek",
 "Andrew Jones", "Annie Gray", "Anthony Lee", "Ayalvadi Ganesh", "Benjamin Barrett", 
-"Chang Zhang", "Christophe Andrieu", "Cindy Lim", "Conor Newton", "Daniel Lawson",
-"Daniel Williams", "Ed Davis", "Hamza Alawiye", "Henry Reeve", "Ian Gallagher", 
-"Jack Simons", "Jennifer Chakravarty","Mark Beaumont","Mauro Camara Escudero", "Maximilian Werner", 
-"Mingxuan Yi", "Nick Whiteley","Patrick Rubin-Delanchy", "Pierre-Aurelien Gilliot", "Raphael Clifford",
-"Robert Allison", "Sacha Lapins", "Sam Power", "Sam Stockman", "Sam Tickle", 
-"Shannon Williams", "Song Liu", "Tjun Yee Hoh", "Vladislav Tadic"),
+"Chang Zhang", "Christophe Andrieu", "Cindy Lim", "Conor Newton", "Dan Ward",
+"Daniel Lawson", "Daniel Williams", "Ed Davis", "Hamza Alawiye", "Henry Reeve", 
+"Ian Gallagher", "Jack Simons", "Jennifer Chakravarty","Mark Beaumont","Mauro Camara Escudero", 
+"Maximilian Werner", "Mingxuan Yi", "Nick Whiteley","Patrick Rubin-Delanchy", "Pierre-Aurelien Gilliot", 
+"Raphael Clifford", "Robert Allison", "Sacha Lapins", "Sam Power", "Sam Stockman", 
+"Sam Tickle", "Shannon Williams", "Song Liu", "Tjun Yee Hoh", "Vladislav Tadic"),
   Status =     c("SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", "SPECTATOR", 
                  "SPECTATOR", "SPECTATOR", "PRESENTER", "SPECTATOR", "SPECTATOR", 
-                 "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR", "PRESENTER", 
-                 "SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", "SPECTATOR", 
-                 "SPECTATOR", "SPECTATOR", "PRESENTER", "PRESENTER", "SPECTATOR", 
-                 "PRESENTER", "SPECTATOR", "PRESENTER", "PRESENTER", "SPECTATOR", 
-                 "PRESENTER", "SPECTATOR", "PRESENTER", "SPECTATOR", "PRESENTER", 
-                 "SPECTATOR", "PRESENTER", "SPECTATOR", "SPECTATOR")
+                 "PRESENTER", "PRESENTER", "SPECTATOR", "SPECTATOR", "SPECTATOR",
+                 "PRESENTER", "SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", 
+                 "SPECTATOR", "SPECTATOR", "SPECTATOR", "PRESENTER", "PRESENTER", 
+                 "SPECTATOR", "PRESENTER", "SPECTATOR", "PRESENTER", "PRESENTER", 
+                 "SPECTATOR", "PRESENTER", "SPECTATOR", "PRESENTER", "SPECTATOR", 
+                 "PRESENTER", "SPECTATOR", "PRESENTER", "SPECTATOR", "SPECTATOR")
 )
 knitr::kable(members) %>% 
   kable_styling(bootstrap_options = c("hover", "responsive")) %>% 

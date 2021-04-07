@@ -6,10 +6,20 @@
     <description>Recent content in normalizing flows on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/normalizing-flows/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sequential Neural Posterior and Likelihood Approximation</title>
+      <link>/sequential-neural-posterior-and-likelihood-approximation/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/sequential-neural-posterior-and-likelihood-approximation/</guid>
+      <description>On Wednesday the \(31^{\text{th}}\) of March, Mark presented Sequential Neural Posterior and Likelihood Approximation. The abstract is given below:
+ We introduce the sequential neural posterior and likelihood approximation (SNPLA) algorithm. SNPLA is a normalizing flows-based algorithm for inference in implicit models. Thus, SNPLA is a simulation-based inference method that only requires simulations from a generative model. Compared to similar methods, the main advantage of SNPLA is that our method jointly learns both the posterior and the likelihood.</description>
+    </item>
     
     <item>
       <title>Stochastic Normalizing Flows</title>

@@ -6,10 +6,20 @@
     <description>Recent content in machine-learning on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Shooting Formulation of Deep Learning</title>
+      <link>/a-shooting-formulation-of-deep-learning/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/a-shooting-formulation-of-deep-learning/</guid>
+      <description>On Wednesday the \(7^{\text{th}}\) of April, Anthony presented A Shooting Formulation of Deep Learning. This is closely related to Neural ODEs and Augmented Neural ODEs. The abstract is given below:
+ A residual network may be regarded as a discretization of an ordinary differential equation (ODE) which, in the limit of time discretization, defines a continuous-depth network. Although important steps have been taken to realize the advantages of such continuous formulations, most current techniques assume identical layers.</description>
+    </item>
     
     <item>
       <title>How to Train your Energy-Based Models </title>

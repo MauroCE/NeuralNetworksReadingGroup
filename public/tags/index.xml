@@ -6,17 +6,89 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>deep-learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>neural-networks</title>
       <link>/tags/neural-networks/</link>
-      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-networks-reading-group</title>
+      <link>/tags/neural-networks-reading-group/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neural-networks-reading-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-ode</title>
+      <link>/tags/neural-ode/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neural-ode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-odes</title>
+      <link>/tags/neural-odes/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neural-odes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generative-models</title>
+      <link>/tags/generative-models/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>likelihood-free</title>
+      <link>/tags/likelihood-free/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/likelihood-free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>normalizing flows</title>
+      <link>/tags/normalizing-flows/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/normalizing-flows/</guid>
       <description></description>
     </item>
     
@@ -30,29 +102,11 @@
     </item>
     
     <item>
-      <title>machine-learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>train</title>
       <link>/tags/train/</link>
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/train/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deep-learning/</guid>
       <description></description>
     </item>
     
@@ -138,15 +192,6 @@
     </item>
     
     <item>
-      <title>normalizing flows</title>
-      <link>/tags/normalizing-flows/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/normalizing-flows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>stochastic normalizing flows</title>
       <link>/tags/stochastic-normalizing-flows/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
@@ -179,15 +224,6 @@
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/inverse-problems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>generative-models</title>
-      <link>/tags/generative-models/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/generative-models/</guid>
       <description></description>
     </item>
     
@@ -251,15 +287,6 @@
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/implicit-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>likelihood-free</title>
-      <link>/tags/likelihood-free/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/likelihood-free/</guid>
       <description></description>
     </item>
     
@@ -534,15 +561,6 @@
     </item>
     
     <item>
-      <title>neural-ode</title>
-      <link>/tags/neural-ode/</link>
-      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/neural-ode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>generalization-error</title>
       <link>/tags/generalization-error/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
@@ -719,15 +737,6 @@
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/neural-network-reading-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural-networks-reading-group</title>
-      <link>/tags/neural-networks-reading-group/</link>
-      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/neural-networks-reading-group/</guid>
       <description></description>
     </item>
     

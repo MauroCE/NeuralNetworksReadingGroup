@@ -194,4 +194,14 @@ as Implicit Matrix Factorization - Levy et al.</a></td>
     <td>Henry Reeve</td>
     <td><a href="https://arxiv.org/abs/1711.01312" target="_blank">NeuralFDR: Learning Discovery Thresholds from Hypothesis Features - Xia et al.</a></td>
   </tr>
+  <tr>
+    <td>31st March</td>
+    <td>Mark Beaumont</td>
+    <td><a href="https://arxiv.org/abs/2102.06522" target="_blank">Sequential Neural Posterior and Likelihood Approximation - Wiqvist et al.</a></td>
+  </tr>
+  <tr>
+    <td>7th April</td>
+    <td>Anthony Lee</td>
+    <td><a href="https://arxiv.org/abs/2006.10330" target="_blank">A Shooting Formulation of Deep Learning -  Vialard et al.</a></td>
+  </tr>
 </table>

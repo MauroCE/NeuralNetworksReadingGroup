@@ -6,10 +6,30 @@
     <description>Recent content in Posts on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Shooting Formulation of Deep Learning</title>
+      <link>/a-shooting-formulation-of-deep-learning/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/a-shooting-formulation-of-deep-learning/</guid>
+      <description>On Wednesday the \(7^{\text{th}}\) of April, Anthony presented A Shooting Formulation of Deep Learning. This is closely related to Neural ODEs and Augmented Neural ODEs. The abstract is given below:
+ A residual network may be regarded as a discretization of an ordinary differential equation (ODE) which, in the limit of time discretization, defines a continuous-depth network. Although important steps have been taken to realize the advantages of such continuous formulations, most current techniques assume identical layers.</description>
+    </item>
+    
+    <item>
+      <title>Sequential Neural Posterior and Likelihood Approximation</title>
+      <link>/sequential-neural-posterior-and-likelihood-approximation/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/sequential-neural-posterior-and-likelihood-approximation/</guid>
+      <description>On Wednesday the \(31^{\text{th}}\) of March, Mark presented Sequential Neural Posterior and Likelihood Approximation. The abstract is given below:
+ We introduce the sequential neural posterior and likelihood approximation (SNPLA) algorithm. SNPLA is a normalizing flows-based algorithm for inference in implicit models. Thus, SNPLA is a simulation-based inference method that only requires simulations from a generative model. Compared to similar methods, the main advantage of SNPLA is that our method jointly learns both the posterior and the likelihood.</description>
+    </item>
     
     <item>
       <title>NeuralFDR: Learning Discovery Thresholds from Hypothesis Features</title>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>neural-networks-reading-group on Neural Networks Reading Group UoB</title>
-    <link>/tags/neural-networks-reading-group/</link>
-    <description>Recent content in neural-networks-reading-group on Neural Networks Reading Group UoB</description>
+    <title>neural-odes on Neural Networks Reading Group UoB</title>
+    <link>/categories/neural-odes/</link>
+    <description>Recent content in neural-odes on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/neural-networks-reading-group/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/neural-odes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>/a-shooting-formulation-of-deep-learning/</guid>
       <description>On Wednesday the \(7^{\text{th}}\) of April, Anthony presented A Shooting Formulation of Deep Learning. This is closely related to Neural ODEs and Augmented Neural ODEs. The abstract is given below:
  A residual network may be regarded as a discretization of an ordinary differential equation (ODE) which, in the limit of time discretization, defines a continuous-depth network. Although important steps have been taken to realize the advantages of such continuous formulations, most current techniques assume identical layers.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Neural Networks reading group website!</title>
-      <link>/welcome/</link>
-      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/welcome/</guid>
-      <description>Hi everyone! I hope you are as excited as we are about the Neural Network reading group. We thought we’d make it more engaging by having a simple website where we can share links to the papers, post summaries and ideas. This is still a work in progress and feeback and suggestions are very much appreciated. For now, you can send your feedback to m.camaraescudero@bristol.ac.uk or to ys18223@bristol.ac.uk.</description>
     </item>
     
   </channel>

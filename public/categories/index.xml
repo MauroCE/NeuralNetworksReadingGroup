@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>variational</title>
+      <link>/categories/variational/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/variational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational-inference</title>
+      <link>/categories/variational-inference/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/variational-inference/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>neural-ode</title>
@@ -192,20 +210,11 @@
     </item>
     
     <item>
-      <title>variational autoencoder</title>
+      <title>variational-autoencoder</title>
       <link>/categories/variational-autoencoder/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/variational-autoencoder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational-inference</title>
-      <link>/categories/variational-inference/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/variational-inference/</guid>
       <description></description>
     </item>
     
@@ -278,15 +287,6 @@
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/generative-adversarial-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational</title>
-      <link>/categories/variational/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/variational/</guid>
       <description></description>
     </item>
     

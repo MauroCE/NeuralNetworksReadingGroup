@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Thermodynamic Variational Objective</title>
+      <link>/the-thermodynamic-variational-objective/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/the-thermodynamic-variational-objective/</guid>
+      <description>On Wednesday the \(14^{\text{th}}\) of April Chang presented The Thermodynamic Variational Objective. The abstract is given below.
+ We introduce the thermodynamic variational objective (TVO) for learning in both continuous and discrete deep generative models. The TVO arises from a key connection between variational inference and thermodynamic integration that results in a tighter lower bound to the log marginal likelihood than the standard variational evidence lower bound (ELBO) while remaining as broadly applicable.</description>
+    </item>
     
     <item>
       <title>A Shooting Formulation of Deep Learning</title>

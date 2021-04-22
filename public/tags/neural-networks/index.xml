@@ -6,10 +6,20 @@
     <description>Recent content in neural-networks on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Telescoping Density-Ratio Estimation</title>
+      <link>/telescoping-density-ratio-estimation/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/telescoping-density-ratio-estimation/</guid>
+      <description>On Wednesday the \(21^{\text{st}}\) of April Song presented Telescoping Density-Ratio Estimation.
+ Density-ratio estimation via classification is a cornerstone of unsupervised learning. It has provided the foundation for state-of-the-art methods in representation learning and generative modelling, with the number of use-cases continuing to proliferate. However, it suffers from a critical limitation: it fails to accurately estimate ratios p/q for which the two densities differ significantly. Empirically, we find this occurs whenever the KL divergence between p and q exceeds tens of nats.</description>
+    </item>
     
     <item>
       <title>The Thermodynamic Variational Objective</title>

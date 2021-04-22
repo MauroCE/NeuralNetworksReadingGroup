@@ -1,0 +1,17 @@
+---
+title: Telescoping Density-Ratio Estimation
+author: Mauro Camara Escudero
+date: '2021-04-21'
+slug: telescoping-density-ratio-estimation
+categories:
+  - density ratio estimation
+  - ratio estimation
+  - neural networks
+tags:
+  - neural-networks
+  - density ratio
+  - density ratio estimation
+---
+On Wednesday the $21^{\text{st}}$ of April Song presented [Telescoping Density-Ratio Estimation](https://arxiv.org/abs/2006.12204).
+
+> Density-ratio estimation via classification is a cornerstone of unsupervised learning. It has provided the foundation for state-of-the-art methods in representation learning and generative modelling, with the number of use-cases continuing to proliferate. However, it suffers from a critical limitation: it fails to accurately estimate ratios p/q for which the two densities differ significantly. Empirically, we find this occurs whenever the KL divergence between p and q exceeds tens of nats. To resolve this limitation, we introduce a new framework, telescoping density-ratio estimation (TRE), that enables the estimation of ratios between highly dissimilar densities in high-dimensional spaces. Our experiments demonstrate that TRE can yield substantial improvements over existing single-ratio methods for mutual information estimation, representation learning and energy-based modelling.

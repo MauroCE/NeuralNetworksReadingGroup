@@ -6,10 +6,55 @@
     <description>Recent content in Categories on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>entropy</title>
+      <link>/categories/entropy/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimal transport</title>
+      <link>/categories/optimal-transport/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/optimal-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>particle filtering</title>
+      <link>/categories/particle-filtering/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/particle-filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vae</title>
+      <link>/categories/vae/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational-inference</title>
+      <link>/categories/variational-inference/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/variational-inference/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>density ratio estimation</title>
@@ -44,15 +89,6 @@
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/variational/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational-inference</title>
-      <link>/categories/variational-inference/</link>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/variational-inference/</guid>
       <description></description>
     </item>
     
@@ -219,15 +255,6 @@
     </item>
     
     <item>
-      <title>vae</title>
-      <link>/categories/vae/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/vae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>variational autoencoder</title>
       <link>/categories/variational-autoencoder/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
@@ -386,15 +413,6 @@
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/aae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>optimal transport</title>
-      <link>/categories/optimal-transport/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/optimal-transport/</guid>
       <description></description>
     </item>
     

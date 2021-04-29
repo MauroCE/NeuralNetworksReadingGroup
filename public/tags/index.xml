@@ -6,10 +6,64 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>fivo</title>
+      <link>/tags/fivo/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fivo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mco</title>
+      <link>/tags/mco/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimal transport</title>
+      <link>/tags/optimal-transport/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/optimal-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>particle filtering</title>
+      <link>/tags/particle-filtering/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/particle-filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vae</title>
+      <link>/tags/vae/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational-inference</title>
+      <link>/tags/variational-inference/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/variational-inference/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>density ratio</title>
@@ -35,15 +89,6 @@
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational-inference</title>
-      <link>/tags/variational-inference/</link>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/variational-inference/</guid>
       <description></description>
     </item>
     
@@ -192,7 +237,7 @@
     </item>
     
     <item>
-      <title>deep-neural-networks</title>
+      <title>deep neural networks</title>
       <link>/tags/deep-neural-networks/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -269,15 +314,6 @@
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/mnist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vae</title>
-      <link>/tags/vae/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/vae/</guid>
       <description></description>
     </item>
     
@@ -449,15 +485,6 @@
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/aae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>optimal transport</title>
-      <link>/tags/optimal-transport/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/optimal-transport/</guid>
       <description></description>
     </item>
     

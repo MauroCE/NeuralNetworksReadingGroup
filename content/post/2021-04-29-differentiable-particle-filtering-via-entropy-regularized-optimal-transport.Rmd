@@ -1,0 +1,22 @@
+---
+title: Differentiable Particle Filtering via Entropy-Regularized Optimal Transport
+author: Mauro Camara Escudero
+date: '2021-04-29'
+slug: differentiable-particle-filtering-via-entropy-regularized-optimal-transport
+categories:
+  - optimal transport
+  - particle filtering
+  - entropy
+  - vae
+  - variational-inference
+tags:
+  - variational-inference
+  - vae
+  - fivo
+  - mco
+  - optimal transport
+  - particle filtering
+---
+On Thursday the $29^{\text{th}}$ of April, Mauro presented [Differentiable Particle Filtering via Entropy-Regularized Optimal Transport](https://arxiv.org/abs/2102.07850) by Corenflos et al. You can find the abstract below.
+
+> Particle Filtering (PF) methods are an established class of procedures for performing inference in non-linear state-space models. Resampling is a key ingredient of PF, necessary to obtain low variance likelihood and states estimates. However, traditional resampling methods result in PF-based loss functions being non-differentiable with respect to model and PF parameters. In a variational inference context, resampling also yields high variance gradient estimates of the PF-based evidence lower bound. By leveraging optimal transport ideas, we introduce a principled differentiable particle filter and provide convergence results. We demonstrate this novel method on a variety of applications.

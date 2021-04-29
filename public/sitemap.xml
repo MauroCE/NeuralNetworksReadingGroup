@@ -4,16 +4,86 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/entropy/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fivo/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mco/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/optimal-transport/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/optimal-transport/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/particle-filtering/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/particle-filtering/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/vae/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vae/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/variational-inference/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/variational-inference/</loc>
+    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/density-ratio/</loc>
-    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/density-ratio-estimation/</loc>
     <lastmod>2021-04-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,7 +93,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/tags/density-ratio-estimation/</loc>
     <lastmod>2021-04-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,17 +108,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/ratio-estimation/</loc>
-    <lastmod>2021-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-04-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -64,16 +124,6 @@
   
   <url>
     <loc>/categories/variational/</loc>
-    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/variational-inference/</loc>
-    <lastmod>2021-04-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/variational-inference/</loc>
     <lastmod>2021-04-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,18 +163,13 @@
   </url>
   
   <url>
-    <loc>/categories/neural-odes/</loc>
-    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/neural-odes/</loc>
     <lastmod>2021-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/generative-models/</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <loc>/categories/neural-odes/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,12 +178,17 @@
   </url>
   
   <url>
-    <loc>/tags/likelihood-free/</loc>
+    <loc>/tags/generative-models/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/likelihood-free/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/likelihood-free/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,12 +213,12 @@
   </url>
   
   <url>
-    <loc>/categories/energy-based-models/</loc>
+    <loc>/tags/energy-based-models/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/energy-based-models/</loc>
+    <loc>/categories/energy-based-models/</loc>
     <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -218,12 +268,12 @@
   </url>
   
   <url>
-    <loc>/categories/word-embedding/</loc>
+    <loc>/tags/word-embedding/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/word-embedding/</loc>
+    <loc>/categories/word-embedding/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -243,12 +293,12 @@
   </url>
   
   <url>
-    <loc>/categories/deep-learning/</loc>
+    <loc>/tags/deep-neural-networks/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-neural-networks/</loc>
+    <loc>/categories/deep-learning/</loc>
     <lastmod>2021-02-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -283,12 +333,12 @@
   </url>
   
   <url>
-    <loc>/tags/stochastic-normalizing-flows/</loc>
+    <loc>/categories/stochastic-normalizing-flows/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/stochastic-normalizing-flows/</loc>
+    <loc>/tags/stochastic-normalizing-flows/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -308,12 +358,12 @@
   </url>
   
   <url>
-    <loc>/categories/kernel-methods/</loc>
+    <loc>/tags/kernel-methods/</loc>
     <lastmod>2020-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/kernel-methods/</loc>
+    <loc>/categories/kernel-methods/</loc>
     <lastmod>2020-11-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -328,12 +378,12 @@
   </url>
   
   <url>
-    <loc>/tags/inverse-problems/</loc>
+    <loc>/categories/inverse-problems/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/inverse-problems/</loc>
+    <loc>/tags/inverse-problems/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -353,12 +403,7 @@
   </url>
   
   <url>
-    <loc>/categories/vae/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vae/</loc>
+    <loc>/tags/variational-autoencoder/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -368,17 +413,12 @@
   </url>
   
   <url>
-    <loc>/tags/variational-autoencoder/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/amortized-inference/</loc>
+    <loc>/categories/amortized-inference/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/amortized-inference/</loc>
+    <loc>/tags/amortized-inference/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -393,12 +433,12 @@
   </url>
   
   <url>
-    <loc>/categories/implicit-models/</loc>
+    <loc>/tags/implicit-models/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/implicit-models/</loc>
+    <loc>/categories/implicit-models/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -408,22 +448,22 @@
   </url>
   
   <url>
-    <loc>/categories/mcmc/</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/mcmc/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/simulator-models/</loc>
+    <loc>/categories/mcmc/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/simulator-models/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/simulator-models/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -438,12 +478,12 @@
   </url>
   
   <url>
-    <loc>/tags/gan/</loc>
+    <loc>/categories/gan/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/gan/</loc>
+    <loc>/tags/gan/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -453,12 +493,12 @@
   </url>
   
   <url>
-    <loc>/tags/generative-adversarial-networks/</loc>
+    <loc>/categories/generative-adversarial-networks/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/generative-adversarial-networks/</loc>
+    <loc>/tags/generative-adversarial-networks/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -543,12 +583,12 @@
   </url>
   
   <url>
-    <loc>/categories/bayesian-inference/</loc>
+    <loc>/tags/bayesian-inference/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bayesian-inference/</loc>
+    <loc>/categories/bayesian-inference/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -563,12 +603,12 @@
   </url>
   
   <url>
-    <loc>/categories/kl-divergence/</loc>
+    <loc>/tags/kl-divergence/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/kl-divergence/</loc>
+    <loc>/categories/kl-divergence/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -598,13 +638,8 @@
   </url>
   
   <url>
-    <loc>/categories/optimal-transport/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/optimal-transport/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <loc>/tags/bridging-the-gap/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -613,17 +648,12 @@
   </url>
   
   <url>
-    <loc>/tags/bridging-the-gap/</loc>
+    <loc>/tags/metflow/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/metflow/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/metflow/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -698,22 +728,22 @@
   </url>
   
   <url>
-    <loc>/tags/information-bottleneck/</loc>
-    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/information-bottleneck/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/information-theory/</loc>
+    <loc>/tags/information-bottleneck/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/information-theory/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/information-theory/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   

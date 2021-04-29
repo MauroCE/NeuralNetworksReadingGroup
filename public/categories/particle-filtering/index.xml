@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>optimal transport on Neural Networks Reading Group UoB</title>
-    <link>/categories/optimal-transport/</link>
-    <description>Recent content in optimal transport on Neural Networks Reading Group UoB</description>
+    <title>particle filtering on Neural Networks Reading Group UoB</title>
+    <link>/categories/particle-filtering/</link>
+    <description>Recent content in particle filtering on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/optimal-transport/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/particle-filtering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</guid>
       <description>On Thursday the \(29^{\text{th}}\) of April, Mauro presented Differentiable Particle Filtering via Entropy-Regularized Optimal Transport by Corenflos et al. You can find the abstract below.
  Particle Filtering (PF) methods are an established class of procedures for performing inference in non-linear state-space models. Resampling is a key ingredient of PF, necessary to obtain low variance likelihood and states estimates. However, traditional resampling methods result in PF-based loss functions being non-differentiable with respect to model and PF parameters.</description>
-    </item>
-    
-    <item>
-      <title>From optimal transport to generative modeling: the VEGAN cookbook</title>
-      <link>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</guid>
-      <description>On Tuesday 9th of June Anthony Lee presented From optimal transport to generative modeling: the VEGAN cookbook. The abstract is given below:
- We study unsupervised generative modeling in terms of the optimal transport (OT) problem between true (but unknown) data distribution PX and the latent variable model distribution PG. We show that the OT problem can be equivalently written in terms of probabilistic encoders, which are constrained to match the posterior and prior distributions over the latent space.</description>
     </item>
     
   </channel>

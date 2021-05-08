@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>machine-learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimal transport</title>
+      <link>/tags/optimal-transport/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/optimal-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wasserstein</title>
+      <link>/tags/wasserstein/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wasserstein/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>fivo</title>
@@ -26,15 +53,6 @@
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/mco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>optimal transport</title>
-      <link>/tags/optimal-transport/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/optimal-transport/</guid>
       <description></description>
     </item>
     
@@ -107,15 +125,6 @@
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine-learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -237,7 +246,7 @@
     </item>
     
     <item>
-      <title>deep neural networks</title>
+      <title>deep-neural-networks</title>
       <link>/tags/deep-neural-networks/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       

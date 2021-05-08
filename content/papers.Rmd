@@ -219,4 +219,9 @@ as Implicit Matrix Factorization - Levy et al.</a></td>
     <td>Mauro Camara Escudero</td>
     <td><a href="https://arxiv.org/abs/2102.07850" target="_blank">Differentiable Particle Filtering via Entropy-Regularized Optimal Transport -  Corenflos et al.</a></td>
   </tr>
+  <tr>
+    <td>6th May</td>
+    <td>Mingxuan Yi</td>
+    <td><a href="https://arxiv.org/abs/1902.00434" target="_blank">Generalized Sliced Wasserstein Distances -  Kolouri et al.</a></td>
+  </tr>
 </table>

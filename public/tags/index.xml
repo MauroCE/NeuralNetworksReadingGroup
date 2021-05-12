@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>attention</title>
+      <link>/tags/attention/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>attention networks</title>
+      <link>/tags/attention-networks/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/attention-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hopfield networks</title>
+      <link>/tags/hopfield-networks/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hopfield-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>machine-learning</title>
@@ -233,15 +260,6 @@
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/word-embedding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>attention</title>
-      <link>/tags/attention/</link>
-      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/attention/</guid>
       <description></description>
     </item>
     
@@ -746,15 +764,6 @@
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/boltzmann-machines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hopfield networks</title>
-      <link>/tags/hopfield-networks/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hopfield-networks/</guid>
       <description></description>
     </item>
     

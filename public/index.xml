@@ -6,10 +6,20 @@
     <description>Recent content on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hopfield Networks is All You Need</title>
+      <link>/hopfield-networks-is-all-you-need/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/hopfield-networks-is-all-you-need/</guid>
+      <description>On Wednesday the \(12^{\text{th}}\) presented Hopfield Networks is All You Need. A useful blog post and video can be found here and here respectively. The abstract is given below.
+ We introduce a modern Hopfield network with continuous states and a corresponding update rule. The new Hopfield network can store exponentially (with the dimension of the associative space) many patterns, retrieves the pattern with one update, and has exponentially small retrieval errors.</description>
+    </item>
     
     <item>
       <title>Generalized Sliced Wasserstein Distances</title>

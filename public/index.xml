@@ -6,10 +6,20 @@
     <description>Recent content on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test-Time Training with Self-Supervision for Generalization under Distribution Shifts</title>
+      <link>/test-time-training-with-self-supervision-for-generalization-under-distribution-shifts/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/test-time-training-with-self-supervision-for-generalization-under-distribution-shifts/</guid>
+      <description>On Wednesday the \(9^{\text{th}}\) of June, Henry presented Test-Time Training with Self-Supervision for Generalization under Distribution Shifts. The abstract is given below:
+ In this paper, we propose Test-Time Training, a general approach for improving the performance of predictive models when training and test data come from different distributions. We turn a single unlabeled test sample into a self-supervised learning problem, on which we update the model parameters before making a prediction.</description>
+    </item>
     
     <item>
       <title>Hopfield Networks is All You Need</title>

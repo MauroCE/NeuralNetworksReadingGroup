@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deep-neural-networks on Neural Networks Reading Group UoB</title>
@@ -6,11 +6,7 @@
     <description>Recent content in deep-neural-networks on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/deep-neural-networks/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/deep-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep learning of contagion dynamics on complex networks</title>
       <link>/deep-learning-of-contagion-dynamics-on-complex-networks/</link>
@@ -30,16 +26,6 @@
       <description>On Tuesday \(14^{\text{th}}\) of July, Mingxuan presented Neural Processes and Conditional Neural Processes by Marta Garnelo et al. You can find the notes here.
 Abstract for Neural Processes:
  A neural network (NN) is a parameterised function that can be tuned via gradient descent to approximate a labelled collection of data with high precision. A Gaussian process (GP), on the other hand, is a probabilistic model that defines a distribution over possible functions, and is updated in light of data via the rules of probabilistic inference.</description>
-    </item>
-    
-    <item>
-      <title>Adaptive approximation and estimation of deep neural network to intrinsic dimensionality</title>
-      <link>/adaptive-approximation-and-estimation-of-deep-neural-network-to-intrinsic-dimensionality/</link>
-      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/adaptive-approximation-and-estimation-of-deep-neural-network-to-intrinsic-dimensionality/</guid>
-      <description>On Tuesday \(16^{\text{th}}\) of June Patrick Rubin-Delanchy presented Adaptive approximation and estimation of deep neural network to intrinsic dimensionality. The abstract is given below.
- We prove that the performance of deep neural networks (DNNs) is mainly determined by an intrinsic low-dimensionality of covariates. DNNs have been providing an outstanding performance empirically, hence, the theoretical properties of DNNs are actively investigated to understand their mechanism. In particular, the behavior of DNNs with respect to high-dimensional data is one of the most important concerns.</description>
     </item>
     
     <item>

@@ -3,7 +3,8 @@ options(
   blogdown.author = "Mauro Camara Escudero",
   blogdown.subdir = "post",
   blogdown.yaml.empty = TRUE,
-  servr.daemon = "interactive()"
+  servr.daemon = "interactive()",
+  blogdown.hugo.version = "0.84.1"
 )
 
 

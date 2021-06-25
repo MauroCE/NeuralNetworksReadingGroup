@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>neural-odes on Neural Networks Reading Group UoB</title>
@@ -6,11 +6,7 @@
     <description>Recent content in neural-odes on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/neural-odes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/neural-odes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Shooting Formulation of Deep Learning</title>
       <link>/a-shooting-formulation-of-deep-learning/</link>

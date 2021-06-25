@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>invariant distributions on Neural Networks Reading Group UoB</title>
@@ -6,11 +6,7 @@
     <description>Recent content in invariant distributions on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/invariant-distributions/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/invariant-distributions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estimation under invariant distributions</title>
       <link>/estimation-under-invariant-distributions/</link>

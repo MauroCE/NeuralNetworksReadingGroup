@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>abc on Neural Networks Reading Group UoB</title>
-    <link>/categories/abc/</link>
+    <link>https://neuralnetworksbristol.netlify.app/categories/abc/</link>
     <description>Recent content in abc on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/abc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/categories/abc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mining gold from implicit models to improve likelihood-free inference</title>
-      <link>/mining-gold-from-implicit-models-to-improve-likelihood-free-inference/</link>
+      <link>https://neuralnetworksbristol.netlify.app/mining-gold-from-implicit-models-to-improve-likelihood-free-inference/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/mining-gold-from-implicit-models-to-improve-likelihood-free-inference/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/mining-gold-from-implicit-models-to-improve-likelihood-free-inference/</guid>
       <description>On Tuesday \(30^{\text{th}}\) of June Mark Beaumont presented Mining gold from implicit models to improve likelihood-free inference by Johann Brehmer et al. The abstract is given below:
  Simulators often provide the best description of real-world phenomena. However, the probability density that they implicitly define is often intractable, leading to challenging inverse problems for inference. Recently, a number of techniques have been introduced in which a surrogate for the intractable density is learned, including normalizing flows and density ratio estimators.</description>
     </item>
     
     <item>
       <title>Partially Exchangeable Networks and Architectures for Learning Summary Statistics in Approximate Bayesian Computation</title>
-      <link>/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</link>
+      <link>https://neuralnetworksbristol.netlify.app/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</guid>
       <description>On Tuesday 7\(^{\text{th}}\) of April Mark Beaumont presented Partially Exchangeable Networks and Architectures for Learning Summary Statistics in Approximate Bayesian Computation. The abstract is given below.
  We present a novel family of deep neural architectures, named partially exchangeable networks (PENs) that leverage probabilistic symmetries. By design, PENs are invariant to block-switch transformations, which characterize the partial exchangeability properties of conditionally Markovian processes. Moreover, we show that any block-switch invariant function has a PEN-like representation.</description>
     </item>

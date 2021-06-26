@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deep-neaural-networks on Neural Networks Reading Group UoB</title>
-    <link>/tags/deep-neaural-networks/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/deep-neaural-networks/</link>
     <description>Recent content in deep-neaural-networks on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/deep-neaural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/deep-neaural-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Auto-Encoding Variational Bayes</title>
-      <link>/auto-encoding-variational-bayes/</link>
+      <link>https://neuralnetworksbristol.netlify.app/auto-encoding-variational-bayes/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/auto-encoding-variational-bayes/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/auto-encoding-variational-bayes/</guid>
       <description>On Tuesday \(7^{\text{th}}\) of July, Mauro Camara Escudero presented Auto-Encoding Variational Bayes. Slides can be found here. The abstract is given below.
  How can we perform efficient inference and learning in directed probabilistic models, in the presence of continuous latent variables with intractable posterior distributions, and large datasets? We introduce a stochastic variational inference and learning algorithm that scales to large datasets and, under some mild differentiability conditions, even works in the intractable case.</description>
     </item>
     
     <item>
       <title>Uniform convergence may be unable to explain generalization in deep learning</title>
-      <link>/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</link>
+      <link>https://neuralnetworksbristol.netlify.app/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</guid>
       <description>On Tuesday 10\(^{\text{th}}\) of March Patrick Rubin-Delanchy presented the 2019 NeurIPS paper winner of the Outstanding New Directions Paper Award, titled “Uniform convergence may be unable to explain generalization in deep learning” by Vaishnavh Nagarajan and J. Zico Kolter.
 The abstract is given below.
  Aimed at explaining the surprisingly good generalization behavior of overparameterized deep networks, recent works have developed a variety of generalization bounds for deep learning, all based on the fundamental learning-theoretic technique of uniform convergence.</description>
@@ -30,10 +30,10 @@ The abstract is given below.
     
     <item>
       <title>Nonparametric regression using deep neural networks with ReLU activation function</title>
-      <link>/nonparametric-regression-using-deep-neural-networks-with-relu-activation-function/</link>
+      <link>https://neuralnetworksbristol.netlify.app/nonparametric-regression-using-deep-neural-networks-with-relu-activation-function/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/nonparametric-regression-using-deep-neural-networks-with-relu-activation-function/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/nonparametric-regression-using-deep-neural-networks-with-relu-activation-function/</guid>
       <description>On Tuesday 17th of December Anthony Lee presented the paper Nonparametric regression using deep neural networks with ReLU activation function by Johannes Schmidt-Hieber. The abstract is given below.
  Consider the multivariate nonparametric regression model. It is shown that estimators based on sparsely connected deep neural networks with ReLU activation function and properly chosen network architecture achieve the minimax rates of convergence (up to logn-factors) under a general composition assumption on the regression function.</description>
     </item>

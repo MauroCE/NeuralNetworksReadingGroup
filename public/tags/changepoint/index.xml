@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>changepoint on Neural Networks Reading Group UoB</title>
-    <link>/tags/changepoint/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/changepoint/</link>
     <description>Recent content in changepoint on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/changepoint/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/changepoint/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Learning for Multi-Scale Changepoint Detection in Multivariate Time Series</title>
-      <link>/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</link>
+      <link>https://neuralnetworksbristol.netlify.app/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</guid>
       <description>On Tuesday’s 5th of May Sam Tickle has presented Deep Learning for Multi-Scale Changepoint Detection in Multivariate Time Series. The abstract is given below.
  Many real-world time series, such as in health, have changepoints where the system’s structure or parameters change. Since changepoints can indicate critical events such as onset of illness, it is highly important to detect them. However, existing methods for changepoint detection (CPD) often require user-specified models and cannot recognize changes that occur gradually or at multiple time-scales.</description>
     </item>

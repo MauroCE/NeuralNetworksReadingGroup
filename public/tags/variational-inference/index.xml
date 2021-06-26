@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>variational-inference on Neural Networks Reading Group UoB</title>
-    <link>/tags/variational-inference/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/variational-inference/</link>
     <description>Recent content in variational-inference on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/variational-inference/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/variational-inference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Differentiable Particle Filtering via Entropy-Regularized Optimal Transport</title>
-      <link>/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</link>
+      <link>https://neuralnetworksbristol.netlify.app/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</guid>
       <description>On Thursday the \(29^{\text{th}}\) of April, Mauro presented Differentiable Particle Filtering via Entropy-Regularized Optimal Transport by Corenflos et al. You can find the abstract below.
  Particle Filtering (PF) methods are an established class of procedures for performing inference in non-linear state-space models. Resampling is a key ingredient of PF, necessary to obtain low variance likelihood and states estimates. However, traditional resampling methods result in PF-based loss functions being non-differentiable with respect to model and PF parameters.</description>
     </item>
     
     <item>
       <title>The Thermodynamic Variational Objective</title>
-      <link>/the-thermodynamic-variational-objective/</link>
+      <link>https://neuralnetworksbristol.netlify.app/the-thermodynamic-variational-objective/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/the-thermodynamic-variational-objective/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/the-thermodynamic-variational-objective/</guid>
       <description>On Wednesday the \(14^{\text{th}}\) of April Chang presented The Thermodynamic Variational Objective. The abstract is given below.
  We introduce the thermodynamic variational objective (TVO) for learning in both continuous and discrete deep generative models. The TVO arises from a key connection between variational inference and thermodynamic integration that results in a tighter lower bound to the log marginal likelihood than the standard variational evidence lower bound (ELBO) while remaining as broadly applicable.</description>
     </item>
     
     <item>
       <title>Learning Latent Subspaces in Variational Autoencoders</title>
-      <link>/learning-latent-subspaces-in-variational-autoencoders/</link>
+      <link>https://neuralnetworksbristol.netlify.app/learning-latent-subspaces-in-variational-autoencoders/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/learning-latent-subspaces-in-variational-autoencoders/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/learning-latent-subspaces-in-variational-autoencoders/</guid>
       <description>On Monday \(9^{\text{th}}\) of November Pierre presented Learning Latent Subspaces in Variational Autoencoders by Klys et al. The slides are available here and the abstract is given below:
  Variational autoencoders (VAEs) [10, 20] are widely used deep generative models capable of learning unsupervised latent representations of data. Such representations are often difficult to interpret or control. We consider the problem of unsupervised learning of features correlated to specific labels in a dataset.</description>
     </item>
     
     <item>
       <title>Variational Inference with Normalizing Flows </title>
-      <link>/variational-inference-with-normalizing-flows/</link>
+      <link>https://neuralnetworksbristol.netlify.app/variational-inference-with-normalizing-flows/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/variational-inference-with-normalizing-flows/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/variational-inference-with-normalizing-flows/</guid>
       <description>On Tuesday \(28^{\text{th}}\) of July, Mauro presented Variational Inference with Normalizing Flows by Rezende and Mohamed. Two good review papers are Normalizing Flows for Probabilistic Modeling and Inference, which is more Tutorial in nature, and Normalizing Flows: An Introduction and Review of Current Methods, which is a bit more technical. Slides for the talk are available here.
 The abstract is given below:
  The choice of approximate posterior distribution is one of the core problems in variational inference.</description>
@@ -50,20 +50,20 @@ The abstract is given below:
     
     <item>
       <title>MetFlow: A New Efficient Method for Bridging the Gap between Markov Chain Monte Carlo and Variational Inference</title>
-      <link>/metflow-a-new-efficient-method-for-bridging-the-gap-between-markov-chain-monte-carlo-and-variational-inference/</link>
+      <link>https://neuralnetworksbristol.netlify.app/metflow-a-new-efficient-method-for-bridging-the-gap-between-markov-chain-monte-carlo-and-variational-inference/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/metflow-a-new-efficient-method-for-bridging-the-gap-between-markov-chain-monte-carlo-and-variational-inference/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/metflow-a-new-efficient-method-for-bridging-the-gap-between-markov-chain-monte-carlo-and-variational-inference/</guid>
       <description>On Tuesday 2nd of June Christophe Andrieu presented MetFlow: A New Efficient Method for Bridging the Gap between Markov Chain Monte Carlo and Variational Inference. A related presentation was given by Andy Wang on Markov Chain Monte Carlo and Variational Inference: Bridging the Gap. The abstract is given below:
  In this contribution, we propose a new computationally efficient method to combine Variational Inference (VI) with Markov Chain Monte Carlo (MCMC).</description>
     </item>
     
     <item>
       <title>Markov Chain Monte Carlo and Variational Inference: Bridging the Gap</title>
-      <link>/markov-chain-monte-carlo-and-variational-inference-bridging-the-gap/</link>
+      <link>https://neuralnetworksbristol.netlify.app/markov-chain-monte-carlo-and-variational-inference-bridging-the-gap/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/markov-chain-monte-carlo-and-variational-inference-bridging-the-gap/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/markov-chain-monte-carlo-and-variational-inference-bridging-the-gap/</guid>
       <description>On Tuesday \(28^{\text{th}}\) of April Andi Wang presented Markov Chain Monte Carlo and Variational Inference: Bridging the Gap - Tim Salimans. His slides are available here and the abstract is given below.
  Recent advances in stochastic gradient variational inference have made it possible to perform variational Bayesian inference with posterior approximations containing auxiliary random variables. This enables us to explore a new synthesis of variational inference and Monte Carlo methods where we incorporate one or more steps of MCMC into our variational approximation.</description>
     </item>

@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>generative-models on Neural Networks Reading Group UoB</title>
-    <link>/categories/generative-models/</link>
+    <link>https://neuralnetworksbristol.netlify.app/categories/generative-models/</link>
     <description>Recent content in generative-models on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/generative-models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/categories/generative-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sequential Neural Posterior and Likelihood Approximation</title>
-      <link>/sequential-neural-posterior-and-likelihood-approximation/</link>
+      <link>https://neuralnetworksbristol.netlify.app/sequential-neural-posterior-and-likelihood-approximation/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/sequential-neural-posterior-and-likelihood-approximation/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/sequential-neural-posterior-and-likelihood-approximation/</guid>
       <description>On Wednesday the \(31^{\text{th}}\) of March, Mark presented Sequential Neural Posterior and Likelihood Approximation. The abstract is given below:
  We introduce the sequential neural posterior and likelihood approximation (SNPLA) algorithm. SNPLA is a normalizing flows-based algorithm for inference in implicit models. Thus, SNPLA is a simulation-based inference method that only requires simulations from a generative model. Compared to similar methods, the main advantage of SNPLA is that our method jointly learns both the posterior and the likelihood.</description>
     </item>
     
     <item>
       <title>Learning Latent Subspaces in Variational Autoencoders</title>
-      <link>/learning-latent-subspaces-in-variational-autoencoders/</link>
+      <link>https://neuralnetworksbristol.netlify.app/learning-latent-subspaces-in-variational-autoencoders/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/learning-latent-subspaces-in-variational-autoencoders/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/learning-latent-subspaces-in-variational-autoencoders/</guid>
       <description>On Monday \(9^{\text{th}}\) of November Pierre presented Learning Latent Subspaces in Variational Autoencoders by Klys et al. The slides are available here and the abstract is given below:
  Variational autoencoders (VAEs) [10, 20] are widely used deep generative models capable of learning unsupervised latent representations of data. Such representations are often difficult to interpret or control. We consider the problem of unsupervised learning of features correlated to specific labels in a dataset.</description>
     </item>
     
     <item>
       <title>Adversarial Variational Bayes</title>
-      <link>/adversarial-variational-bayes/</link>
+      <link>https://neuralnetworksbristol.netlify.app/adversarial-variational-bayes/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/adversarial-variational-bayes/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/adversarial-variational-bayes/</guid>
       <description>On Wednesday \(28^{\text{th}}\) of October Mauro presented Adversarial Variational Bayes by Mescheder et al. You can find the slides for the presentation here. The abstract is given below:
  Variational Autoencoders (VAEs) are expressive latent variable models that can be used to learn complex probability distributions from training data. However, the quality of the resulting model crucially relies on the expressiveness of the inference model. We introduce Adversarial Variational Bayes (AVB), a technique for training Variational Autoencoders with arbitrarily expressive inference models.</description>
     </item>
     
     <item>
       <title>Learning in Implicit Generative Models</title>
-      <link>/learning-in-implicit-generative-models/</link>
+      <link>https://neuralnetworksbristol.netlify.app/learning-in-implicit-generative-models/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/learning-in-implicit-generative-models/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/learning-in-implicit-generative-models/</guid>
       <description>On Monday the 19th of October 2020 Chang Zhang presented Learning in Implicit Generative Models by Shakir Mohamed and Balaji Lakshminarayanan. The abstract is given below.
  Generative adversarial networks (GANs) provide an algorithmic framework for constructing generative models with several appealing properties: they do not require a likelihood function to be specified, only a generating procedure; they provide samples that are sharp and compelling; and they allow us to harness our knowledge of building highly accurate neural network classifiers.</description>
     </item>

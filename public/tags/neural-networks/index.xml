@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>neural-networks on Neural Networks Reading Group UoB</title>
-    <link>/tags/neural-networks/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/neural-networks/</link>
     <description>Recent content in neural-networks on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Telescoping Density-Ratio Estimation</title>
-      <link>/telescoping-density-ratio-estimation/</link>
+      <link>https://neuralnetworksbristol.netlify.app/telescoping-density-ratio-estimation/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/telescoping-density-ratio-estimation/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/telescoping-density-ratio-estimation/</guid>
       <description>On Wednesday the \(21^{\text{st}}\) of April Song presented Telescoping Density-Ratio Estimation.
  Density-ratio estimation via classification is a cornerstone of unsupervised learning. It has provided the foundation for state-of-the-art methods in representation learning and generative modelling, with the number of use-cases continuing to proliferate. However, it suffers from a critical limitation: it fails to accurately estimate ratios p/q for which the two densities differ significantly. Empirically, we find this occurs whenever the KL divergence between p and q exceeds tens of nats.</description>
     </item>
     
     <item>
       <title>The Thermodynamic Variational Objective</title>
-      <link>/the-thermodynamic-variational-objective/</link>
+      <link>https://neuralnetworksbristol.netlify.app/the-thermodynamic-variational-objective/</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/the-thermodynamic-variational-objective/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/the-thermodynamic-variational-objective/</guid>
       <description>On Wednesday the \(14^{\text{th}}\) of April Chang presented The Thermodynamic Variational Objective. The abstract is given below.
  We introduce the thermodynamic variational objective (TVO) for learning in both continuous and discrete deep generative models. The TVO arises from a key connection between variational inference and thermodynamic integration that results in a tighter lower bound to the log marginal likelihood than the standard variational evidence lower bound (ELBO) while remaining as broadly applicable.</description>
     </item>
     
     <item>
       <title>A Shooting Formulation of Deep Learning</title>
-      <link>/a-shooting-formulation-of-deep-learning/</link>
+      <link>https://neuralnetworksbristol.netlify.app/a-shooting-formulation-of-deep-learning/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/a-shooting-formulation-of-deep-learning/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/a-shooting-formulation-of-deep-learning/</guid>
       <description>On Wednesday the \(7^{\text{th}}\) of April, Anthony presented A Shooting Formulation of Deep Learning. This is closely related to Neural ODEs and Augmented Neural ODEs. The abstract is given below:
  A residual network may be regarded as a discretization of an ordinary differential equation (ODE) which, in the limit of time discretization, defines a continuous-depth network. Although important steps have been taken to realize the advantages of such continuous formulations, most current techniques assume identical layers.</description>
     </item>
     
     <item>
       <title>NeuralFDR: Learning Discovery Thresholds from Hypothesis Features</title>
-      <link>/neuralfdr-learning-discovery-thresholds-from-hypothesis-features/</link>
+      <link>https://neuralnetworksbristol.netlify.app/neuralfdr-learning-discovery-thresholds-from-hypothesis-features/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/neuralfdr-learning-discovery-thresholds-from-hypothesis-features/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/neuralfdr-learning-discovery-thresholds-from-hypothesis-features/</guid>
       <description>On Wednesday the \(3^{\text{th}}\) of March Henry presented NeuralFDR: Learning Discovery Thresholds from Hypothesis Features by Xia et al. The abstract is given below.
  As datasets grow richer, an important challenge is to leverage the full features in the data to maximize the number of useful discoveries while controlling for false positives. We address this problem in the context of multiple hypotheses testing, where for each hypothesis, we observe a p-value along with a set of features specific to that hypothesis.</description>
     </item>
     
     <item>
       <title>How to Train your Energy-Based Models </title>
-      <link>/how-to-train-your-energy-based-models/</link>
+      <link>https://neuralnetworksbristol.netlify.app/how-to-train-your-energy-based-models/</link>
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/how-to-train-your-energy-based-models/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/how-to-train-your-energy-based-models/</guid>
       <description>On Wednesday teh \(24^{\text{th}}\) of February Sam presented How to train your energy-based models by Yang Song and Diederik P. Kingma. You can find his presentation here and the abstract below.
  Energy-Based Models (EBMs), also known as non-normalized probabilistic models, specify probability density or mass functions up to an unknown normalizing constant. Unlike most other probabilistic models, EBMs do not place a restriction on the tractability of the normalizing constant, thus are more flexible to parameterize and can model a more expressive family of probability distributions.</description>
     </item>
     
     <item>
       <title>Neural Word Embedding as Implicit Matrix Factorization</title>
-      <link>/neural-word-embedding-as-implicit-matrix-factorization/</link>
+      <link>https://neuralnetworksbristol.netlify.app/neural-word-embedding-as-implicit-matrix-factorization/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/neural-word-embedding-as-implicit-matrix-factorization/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/neural-word-embedding-as-implicit-matrix-factorization/</guid>
       <description>On Wednesday the \(10^{\text{th}}\) of February Patrick presented Neural Word Embedding as Implicit Matrix Factorization by Levy and Goldberg. You can find some hand-written notes here. The abstract is given below.
  We analyze skip-gram with negative-sampling (SGNS), a word embedding method introduced by Mikolov et al., and show that it is implicitly factorizing a word-context matrix, whose cells are the pointwise mutual information (PMI) of the respective word and context pairs, shifted by a global constant.</description>
     </item>
     
     <item>
       <title>Deep learning of contagion dynamics on complex networks</title>
-      <link>/deep-learning-of-contagion-dynamics-on-complex-networks/</link>
+      <link>https://neuralnetworksbristol.netlify.app/deep-learning-of-contagion-dynamics-on-complex-networks/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/deep-learning-of-contagion-dynamics-on-complex-networks/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/deep-learning-of-contagion-dynamics-on-complex-networks/</guid>
       <description>On Wednesday \(3^{\text{th}}\) of February Sam Tickle presented Deep learning of contagion dynamics on complex networks. The slides are available here and the abstract is given below.
  Forecasting the evolution of contagion dynamics is still an open problem to which mechanistic models only offer a partial answer. To remain mathematically or computationally tractable, these models must rely on simplifying assumptions, thereby limiting the quantitative accuracy of their predictions and the complexity of the dynamics they can model.</description>
     </item>
     
     <item>
       <title>Stochastic Normalizing Flows</title>
-      <link>/stochastic-normalizing-flows/</link>
+      <link>https://neuralnetworksbristol.netlify.app/stochastic-normalizing-flows/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/stochastic-normalizing-flows/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/stochastic-normalizing-flows/</guid>
       <description>On Monday \(14^{\text{th}}\) of December Anthony presented Stochastic Normalizing Flows. The abstract is given below:
  The sampling of probability distributions specified up to a normalization constant is an important problem in both machine learning and statistical mechanics. While classical stochastic sampling methods such as Markov Chain Monte Carlo (MCMC) or Langevin Dynamics (LD) can suffer from slow mixing times there is a growing interest in using normalizing flows in order to learn the transformation of a simple prior distribution to the given target distribution.</description>
     </item>
     
     <item>
       <title>Neural Tangent Kernel: Convergence and Generalization in Neural Networks</title>
-      <link>/neural-tangent-kernel-convergence-and-generalization-in-neural-networks/</link>
+      <link>https://neuralnetworksbristol.netlify.app/neural-tangent-kernel-convergence-and-generalization-in-neural-networks/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/neural-tangent-kernel-convergence-and-generalization-in-neural-networks/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/neural-tangent-kernel-convergence-and-generalization-in-neural-networks/</guid>
       <description>On Monday \(23^{\text{rd}}\) of November Mingxuan presented Neural Tangent Kernel: Convergence and Generalization in Neural Networks. You can find the abstract below:
  At initialization, artificial neural networks (ANNs) are equivalent to Gaussian processes in the infinite-width limit (16; 4; 7; 13; 6), thus connecting them to kernel methods. We prove that the evolution of an ANN during training can also be described by a kernel: during gradient descent on the parameters of an ANN, the network function fθ (which maps input vectors to output vectors) follows the kernel gradient of the functional cost (which is convex, in contrast to the parameter cost) w.</description>
     </item>
     
     <item>
       <title>Analyzing Inverse Problems with Invertible Neural Networks</title>
-      <link>/analyzing-inverse-problems-with-invertible-neural-networks/</link>
+      <link>https://neuralnetworksbristol.netlify.app/analyzing-inverse-problems-with-invertible-neural-networks/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/analyzing-inverse-problems-with-invertible-neural-networks/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/analyzing-inverse-problems-with-invertible-neural-networks/</guid>
       <description>On Monday \(16^{\text{th}}\) of November Mark presented Analyzing Inverse Problems with Invertible Neural Networks. You can find the abstract below:
  For many applications, in particular in natural science, the task is to determine hidden system parameters from a set of measurements. Often, the forward process from parameter- to measurement-space is well-defined, whereas the inverse problem is ambiguous: multiple parameter sets can result in the same measurement. To fully characterize this ambiguity, the full posterior parameter distribution, conditioned on an observed measurement, has to be determined.</description>
     </item>
     
     <item>
       <title>Neural Processes</title>
-      <link>/neural-processes/</link>
+      <link>https://neuralnetworksbristol.netlify.app/neural-processes/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/neural-processes/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/neural-processes/</guid>
       <description>On Tuesday \(14^{\text{th}}\) of July, Mingxuan presented Neural Processes and Conditional Neural Processes by Marta Garnelo et al. You can find the notes here.
 Abstract for Neural Processes:
  A neural network (NN) is a parameterised function that can be tuned via gradient descent to approximate a labelled collection of data with high precision. A Gaussian process (GP), on the other hand, is a probabilistic model that defines a distribution over possible functions, and is updated in light of data via the rules of probabilistic inference.</description>
@@ -120,40 +120,40 @@ Abstract for Neural Processes:
     
     <item>
       <title>Auto-Encoding Variational Bayes</title>
-      <link>/auto-encoding-variational-bayes/</link>
+      <link>https://neuralnetworksbristol.netlify.app/auto-encoding-variational-bayes/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/auto-encoding-variational-bayes/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/auto-encoding-variational-bayes/</guid>
       <description>On Tuesday \(7^{\text{th}}\) of July, Mauro Camara Escudero presented Auto-Encoding Variational Bayes. Slides can be found here. The abstract is given below.
  How can we perform efficient inference and learning in directed probabilistic models, in the presence of continuous latent variables with intractable posterior distributions, and large datasets? We introduce a stochastic variational inference and learning algorithm that scales to large datasets and, under some mild differentiability conditions, even works in the intractable case.</description>
     </item>
     
     <item>
       <title>Mining gold from implicit models to improve likelihood-free inference</title>
-      <link>/mining-gold-from-implicit-models-to-improve-likelihood-free-inference/</link>
+      <link>https://neuralnetworksbristol.netlify.app/mining-gold-from-implicit-models-to-improve-likelihood-free-inference/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/mining-gold-from-implicit-models-to-improve-likelihood-free-inference/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/mining-gold-from-implicit-models-to-improve-likelihood-free-inference/</guid>
       <description>On Tuesday \(30^{\text{th}}\) of June Mark Beaumont presented Mining gold from implicit models to improve likelihood-free inference by Johann Brehmer et al. The abstract is given below:
  Simulators often provide the best description of real-world phenomena. However, the probability density that they implicitly define is often intractable, leading to challenging inverse problems for inference. Recently, a number of techniques have been introduced in which a surrogate for the intractable density is learned, including normalizing flows and density ratio estimators.</description>
     </item>
     
     <item>
       <title>Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights</title>
-      <link>/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</link>
+      <link>https://neuralnetworksbristol.netlify.app/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</guid>
       <description>On Tuesday \(14^{\text{th}}\) of April I presented Expectation Backpropagation:Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights. The abstract is given below.
  Multilayer Neural Networks (MNNs) are commonly trained using gradient descent-based methods, such as BackPropagation (BP). Inference in probabilistic graphical models is often done using variational Bayes methods, such as Expectation Propagation (EP). We show how an EP based approach can also be used to train deterministic MNNs.</description>
     </item>
     
     <item>
       <title>Uniform convergence may be unable to explain generalization in deep learning</title>
-      <link>/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</link>
+      <link>https://neuralnetworksbristol.netlify.app/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</guid>
       <description>On Tuesday 10\(^{\text{th}}\) of March Patrick Rubin-Delanchy presented the 2019 NeurIPS paper winner of the Outstanding New Directions Paper Award, titled “Uniform convergence may be unable to explain generalization in deep learning” by Vaishnavh Nagarajan and J. Zico Kolter.
 The abstract is given below.
  Aimed at explaining the surprisingly good generalization behavior of overparameterized deep networks, recent works have developed a variety of generalization bounds for deep learning, all based on the fundamental learning-theoretic technique of uniform convergence.</description>
@@ -161,19 +161,19 @@ The abstract is given below.
     
     <item>
       <title>Deep Convolutional Networks</title>
-      <link>/deep-convolutional-networks/</link>
+      <link>https://neuralnetworksbristol.netlify.app/deep-convolutional-networks/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/deep-convolutional-networks/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/deep-convolutional-networks/</guid>
       <description>On Tuesday 10th of December we watched the video “Multiscale Models for Image Classification and Physics with Deep Networks” by Stéphane Mallat.</description>
     </item>
     
     <item>
       <title>Welcome to Neural Networks reading group website!</title>
-      <link>/welcome/</link>
+      <link>https://neuralnetworksbristol.netlify.app/welcome/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/welcome/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/welcome/</guid>
       <description>Hi everyone! I hope you are as excited as we are about the Neural Network reading group. We thought we’d make it more engaging by having a simple website where we can share links to the papers, post summaries and ideas. This is still a work in progress and feeback and suggestions are very much appreciated. For now, you can send your feedback to m.camaraescudero@bristol.ac.uk or to ys18223@bristol.ac.uk.</description>
     </item>
     

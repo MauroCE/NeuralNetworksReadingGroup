@@ -2,17 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gaussian-processes on Neural Networks Reading Group UoB</title>
-    <link>/tags/gaussian-processes/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/gaussian-processes/</link>
     <description>Recent content in gaussian-processes on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gaussian-processes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/gaussian-processes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Gaussian Processes</title>
+      <link>https://neuralnetworksbristol.netlify.app/deep-gaussian-processes/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/deep-gaussian-processes/</guid>
+      <description>On Wednesday the \(23^{rd}\) of June Sam presented Deep Gaussian Processes. The abstract is given below.
+ In this paper we introduce deep Gaussian process (GP) models. Deep GPs are a deep belief network based on Gaussian process mappings. The data is modeled as the output of a multivariate GP. The inputs to that Gaussian process are then governed by another GP. A single layer model is equivalent to a standard GP or the GP latent variable model (GP-LVM).</description>
+    </item>
+    
     <item>
       <title>Neural Processes</title>
-      <link>/neural-processes/</link>
+      <link>https://neuralnetworksbristol.netlify.app/neural-processes/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/neural-processes/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/neural-processes/</guid>
       <description>On Tuesday \(14^{\text{th}}\) of July, Mingxuan presented Neural Processes and Conditional Neural Processes by Marta Garnelo et al. You can find the notes here.
 Abstract for Neural Processes:
  A neural network (NN) is a parameterised function that can be tuned via gradient descent to approximate a labelled collection of data with high precision. A Gaussian process (GP), on the other hand, is a probabilistic model that defines a distribution over possible functions, and is updated in light of data via the rules of probabilistic inference.</description>

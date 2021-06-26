@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>generalization-error on Neural Networks Reading Group UoB</title>
-    <link>/tags/generalization-error/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/generalization-error/</link>
     <description>Recent content in generalization-error on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/generalization-error/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/generalization-error/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uniform convergence may be unable to explain generalization in deep learning</title>
-      <link>/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</link>
+      <link>https://neuralnetworksbristol.netlify.app/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</guid>
       <description>On Tuesday 10\(^{\text{th}}\) of March Patrick Rubin-Delanchy presented the 2019 NeurIPS paper winner of the Outstanding New Directions Paper Award, titled “Uniform convergence may be unable to explain generalization in deep learning” by Vaishnavh Nagarajan and J. Zico Kolter.
 The abstract is given below.
  Aimed at explaining the surprisingly good generalization behavior of overparameterized deep networks, recent works have developed a variety of generalization bounds for deep learning, all based on the fundamental learning-theoretic technique of uniform convergence.</description>

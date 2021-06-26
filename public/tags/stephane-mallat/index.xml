@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stephane-mallat on Neural Networks Reading Group UoB</title>
-    <link>/tags/stephane-mallat/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/stephane-mallat/</link>
     <description>Recent content in stephane-mallat on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/stephane-mallat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/stephane-mallat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Convolutional Networks</title>
-      <link>/deep-convolutional-networks/</link>
+      <link>https://neuralnetworksbristol.netlify.app/deep-convolutional-networks/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/deep-convolutional-networks/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/deep-convolutional-networks/</guid>
       <description>On Tuesday 10th of December we watched the video “Multiscale Models for Image Classification and Physics with Deep Networks” by Stéphane Mallat.</description>
     </item>
     

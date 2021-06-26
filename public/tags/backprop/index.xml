@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>backprop on Neural Networks Reading Group UoB</title>
-    <link>/tags/backprop/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/backprop/</link>
     <description>Recent content in backprop on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/backprop/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/backprop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights</title>
-      <link>/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</link>
+      <link>https://neuralnetworksbristol.netlify.app/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</guid>
       <description>On Tuesday \(14^{\text{th}}\) of April I presented Expectation Backpropagation:Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights. The abstract is given below.
  Multilayer Neural Networks (MNNs) are commonly trained using gradient descent-based methods, such as BackPropagation (BP). Inference in probabilistic graphical models is often done using variational Bayes methods, such as Expectation Propagation (EP). We show how an EP based approach can also be used to train deterministic MNNs.</description>
     </item>

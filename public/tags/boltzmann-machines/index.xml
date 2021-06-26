@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>boltzmann machines on Neural Networks Reading Group UoB</title>
-    <link>/tags/boltzmann-machines/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/boltzmann-machines/</link>
     <description>Recent content in boltzmann machines on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/boltzmann-machines/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/boltzmann-machines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Boltzmann Machines</title>
-      <link>/deep-boltzmann-machines/</link>
+      <link>https://neuralnetworksbristol.netlify.app/deep-boltzmann-machines/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/deep-boltzmann-machines/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/deep-boltzmann-machines/</guid>
       <description>On Tuesday 3rd of December Pierre presented the paper Deep Bolzmann Machines by Ruslan Salakhutdinov and Geoffrey Hinton. The slides are available.
 The abstract is given below.
  We present a new learning algorithm for Boltzmann machines that contain many layers of hidden variables. Data-dependent expectations are estimated using a variational approximation that tends to focus on a single mode, and dataindependent expectations are approximated using persistent Markov chains. The use of two quite different techniques for estimating the two types of expectation that enter into the gradient of the log-likelihood makes it practical to learn Boltzmann machines with multiple hidden layers and millions of parameters.</description>

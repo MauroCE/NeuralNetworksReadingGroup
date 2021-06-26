@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bridging the gap on Neural Networks Reading Group UoB</title>
-    <link>/tags/bridging-the-gap/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/bridging-the-gap/</link>
     <description>Recent content in bridging the gap on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/bridging-the-gap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/bridging-the-gap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MetFlow: A New Efficient Method for Bridging the Gap between Markov Chain Monte Carlo and Variational Inference</title>
-      <link>/metflow-a-new-efficient-method-for-bridging-the-gap-between-markov-chain-monte-carlo-and-variational-inference/</link>
+      <link>https://neuralnetworksbristol.netlify.app/metflow-a-new-efficient-method-for-bridging-the-gap-between-markov-chain-monte-carlo-and-variational-inference/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/metflow-a-new-efficient-method-for-bridging-the-gap-between-markov-chain-monte-carlo-and-variational-inference/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/metflow-a-new-efficient-method-for-bridging-the-gap-between-markov-chain-monte-carlo-and-variational-inference/</guid>
       <description>On Tuesday 2nd of June Christophe Andrieu presented MetFlow: A New Efficient Method for Bridging the Gap between Markov Chain Monte Carlo and Variational Inference. A related presentation was given by Andy Wang on Markov Chain Monte Carlo and Variational Inference: Bridging the Gap. The abstract is given below:
  In this contribution, we propose a new computationally efficient method to combine Variational Inference (VI) with Markov Chain Monte Carlo (MCMC).</description>
     </item>

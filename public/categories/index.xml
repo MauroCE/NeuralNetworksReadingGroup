@@ -2,575 +2,575 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Neural Networks Reading Group UoB</title>
-    <link>/categories/</link>
+    <link>https://neuralnetworksbristol.netlify.app/categories/</link>
     <description>Recent content in Categories on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>attention</title>
-      <link>/categories/attention/</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/attention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hopfield</title>
-      <link>/categories/hopfield/</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/hopfield/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>/categories/machine-learning/</link>
-      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>optimal transport</title>
-      <link>/categories/optimal-transport/</link>
-      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/optimal-transport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wassertstein</title>
-      <link>/categories/wassertstein/</link>
-      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/wassertstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>entropy</title>
-      <link>/categories/entropy/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/entropy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>particle filtering</title>
-      <link>/categories/particle-filtering/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/particle-filtering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vae</title>
-      <link>/categories/vae/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/vae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational-inference</title>
-      <link>/categories/variational-inference/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/variational-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>density ratio estimation</title>
-      <link>/categories/density-ratio-estimation/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/density-ratio-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural-networks</title>
-      <link>/categories/neural-networks/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ratio estimation</title>
-      <link>/categories/ratio-estimation/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/ratio-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational</title>
-      <link>/categories/variational/</link>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/variational/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural-ode</title>
-      <link>/categories/neural-ode/</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/neural-ode/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural-odes</title>
-      <link>/categories/neural-odes/</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/neural-odes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>generative-models</title>
-      <link>/categories/generative-models/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/generative-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>likelihood-free</title>
-      <link>/categories/likelihood-free/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/likelihood-free/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>normalizing flows</title>
-      <link>/categories/normalizing-flows/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/normalizing-flows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>energy-based models</title>
-      <link>/categories/energy-based-models/</link>
-      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/energy-based-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>train</title>
-      <link>/categories/train/</link>
-      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/train/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>matrix factorization</title>
-      <link>/categories/matrix-factorization/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/matrix-factorization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>word embedding</title>
-      <link>/categories/word-embedding/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/word-embedding/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>deep-learning</title>
-      <link>/categories/deep-learning/</link>
-      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <link>https://neuralnetworksbristol.netlify.app/categories/deep-learning/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>graph neural networks</title>
-      <link>/categories/graph-neural-networks/</link>
-      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/graph-neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>outbreaks</title>
-      <link>/categories/outbreaks/</link>
-      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/outbreaks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stochastic normalizing flows</title>
-      <link>/categories/stochastic-normalizing-flows/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/stochastic-normalizing-flows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kernel methods</title>
-      <link>/categories/kernel-methods/</link>
-      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/kernel-methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>inverse problems</title>
-      <link>/categories/inverse-problems/</link>
-      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/inverse-problems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mnist</title>
-      <link>/categories/mnist/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/mnist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>variational autoencoder</title>
-      <link>/categories/variational-autoencoder/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/variational-autoencoder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>amortized-inference</title>
-      <link>/categories/amortized-inference/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/amortized-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>contrastive-learning</title>
-      <link>/categories/contrastive-learning/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/contrastive-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>implicit-models</title>
-      <link>/categories/implicit-models/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/implicit-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mcmc</title>
-      <link>/categories/mcmc/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/mcmc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>simulator-models</title>
-      <link>/categories/simulator-models/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/simulator-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gan</title>
-      <link>/categories/gan/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/gan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gans</title>
-      <link>/categories/gans/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/gans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>generative-adversarial-networks</title>
-      <link>/categories/generative-adversarial-networks/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/generative-adversarial-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lfi</title>
-      <link>/categories/lfi/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/lfi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-neural-networks</title>
-      <link>/categories/deep-neural-networks/</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/deep-neural-networks/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gaussian-processes</title>
-      <link>/categories/gaussian-processes/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/gaussian-processes/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/gaussian-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>attention</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/attention/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hopfield</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/hopfield/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/hopfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/machine-learning/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimal transport</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/optimal-transport/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/optimal-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wassertstein</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/wassertstein/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/wassertstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entropy</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/entropy/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>particle filtering</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/particle-filtering/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/particle-filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vae</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/vae/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/vae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational-inference</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/variational-inference/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/variational-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>density ratio estimation</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/density-ratio-estimation/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/density-ratio-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-networks</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/neural-networks/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ratio estimation</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/ratio-estimation/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/ratio-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/variational/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/variational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-ode</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/neural-ode/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/neural-ode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural-odes</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/neural-odes/</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/neural-odes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generative-models</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/generative-models/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>likelihood-free</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/likelihood-free/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/likelihood-free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>normalizing flows</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/normalizing-flows/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/normalizing-flows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>energy-based models</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/energy-based-models/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/energy-based-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>train</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/train/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/train/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matrix factorization</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/matrix-factorization/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/matrix-factorization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>word embedding</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/word-embedding/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/word-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph neural networks</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/graph-neural-networks/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outbreaks</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/outbreaks/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/outbreaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stochastic normalizing flows</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/stochastic-normalizing-flows/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/stochastic-normalizing-flows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kernel methods</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/kernel-methods/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/kernel-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inverse problems</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/inverse-problems/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/inverse-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mnist</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/mnist/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/mnist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variational autoencoder</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/variational-autoencoder/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/variational-autoencoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amortized-inference</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/amortized-inference/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/amortized-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contrastive-learning</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/contrastive-learning/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/contrastive-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>implicit-models</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/implicit-models/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/implicit-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mcmc</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/mcmc/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/mcmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulator-models</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/simulator-models/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/simulator-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gan</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/gan/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gans</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/gans/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/gans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generative-adversarial-networks</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/generative-adversarial-networks/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/generative-adversarial-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lfi</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/lfi/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/categories/lfi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-neural-networks</title>
+      <link>https://neuralnetworksbristol.netlify.app/categories/deep-neural-networks/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/gaussian-processes/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/deep-neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deep-neural-network</title>
-      <link>/categories/deep-neural-network/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/deep-neural-network/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/deep-neural-network/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/deep-neural-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>abc</title>
-      <link>/categories/abc/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/abc/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/abc/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/abc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bayesian-inference</title>
-      <link>/categories/bayesian-inference/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/bayesian-inference/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/bayesian-inference/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/bayesian-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gradient-descent</title>
-      <link>/categories/gradient-descent/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/gradient-descent/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/gradient-descent/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/gradient-descent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kl-divergence</title>
-      <link>/categories/kl-divergence/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/kl-divergence/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/kl-divergence/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/kl-divergence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aae</title>
-      <link>/categories/aae/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/aae/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/aae/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/aae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bridging the gap</title>
-      <link>/categories/bridging-the-gap/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/bridging-the-gap/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/bridging-the-gap/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/bridging-the-gap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>metflow</title>
-      <link>/categories/metflow/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/metflow/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/metflow/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/metflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>change point</title>
-      <link>/categories/change-point/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/change-point/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/change-point/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/change-point/</guid>
       <description></description>
     </item>
     
     <item>
       <title>time series</title>
-      <link>/categories/time-series/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/time-series/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/time-series/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/time-series/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hamiltonian-monte-carlo</title>
-      <link>/categories/hamiltonian-monte-carlo/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/hamiltonian-monte-carlo/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/hamiltonian-monte-carlo/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/hamiltonian-monte-carlo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hmc</title>
-      <link>/categories/hmc/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/hmc/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/hmc/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/hmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markov-chain-monte-carlo</title>
-      <link>/categories/markov-chain-monte-carlo/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/markov-chain-monte-carlo/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/markov-chain-monte-carlo/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/markov-chain-monte-carlo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>information-bottleneck</title>
-      <link>/categories/information-bottleneck/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/information-bottleneck/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/information-bottleneck/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/information-bottleneck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>information-theory</title>
-      <link>/categories/information-theory/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/information-theory/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/information-theory/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/information-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>expectation-propagation</title>
-      <link>/categories/expectation-propagation/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/expectation-propagation/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/expectation-propagation/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/expectation-propagation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>approximate-bayesian-computation</title>
-      <link>/categories/approximate-bayesian-computation/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/approximate-bayesian-computation/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/approximate-bayesian-computation/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/approximate-bayesian-computation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sufficient-statistics</title>
-      <link>/categories/sufficient-statistics/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/sufficient-statistics/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/sufficient-statistics/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/sufficient-statistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ordinary-differential-equations</title>
-      <link>/categories/ordinary-differential-equations/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/ordinary-differential-equations/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/ordinary-differential-equations/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/ordinary-differential-equations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>generalization-error</title>
-      <link>/categories/generalization-error/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/generalization-error/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/generalization-error/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/generalization-error/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meeting</title>
-      <link>/categories/meeting/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/meeting/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/meeting/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/meeting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Admin</title>
-      <link>/categories/admin/</link>
+      <link>https://neuralnetworksbristol.netlify.app/categories/admin/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/admin/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/categories/admin/</guid>
       <description></description>
     </item>
     

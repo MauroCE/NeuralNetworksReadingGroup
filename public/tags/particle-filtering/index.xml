@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>particle filtering on Neural Networks Reading Group UoB</title>
-    <link>/tags/particle-filtering/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/particle-filtering/</link>
     <description>Recent content in particle filtering on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/particle-filtering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/particle-filtering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Differentiable Particle Filtering via Entropy-Regularized Optimal Transport</title>
-      <link>/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</link>
+      <link>https://neuralnetworksbristol.netlify.app/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</guid>
       <description>On Thursday the \(29^{\text{th}}\) of April, Mauro presented Differentiable Particle Filtering via Entropy-Regularized Optimal Transport by Corenflos et al. You can find the abstract below.
  Particle Filtering (PF) methods are an established class of procedures for performing inference in non-linear state-space models. Resampling is a key ingredient of PF, necessary to obtain low variance likelihood and states estimates. However, traditional resampling methods result in PF-based loss functions being non-differentiable with respect to model and PF parameters.</description>
     </item>

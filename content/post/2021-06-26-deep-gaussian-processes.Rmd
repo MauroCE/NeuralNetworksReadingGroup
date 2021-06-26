@@ -1,14 +1,14 @@
 ---
-title: Deep Gaussian Processes
-author: Mauro Camara Escudero
+title: "Deep Gaussian Processes"
+author: "Mauro Camara Escudero"
 date: '2021-06-26'
 slug: deep-gaussian-processes
 categories:
-  - deep-learning
-  - gaussian-processes
+- deep-learning
+- gaussian-processes
 tags:
-  - deep-learning
-  - gaussian-processes
+- deep-learning
+- gaussian-processes
 ---
 On Wednesday the $23^{rd}$ of June Sam presented [Deep Gaussian Processes](http://proceedings.mlr.press/v31/damianou13a.html). The abstract is given below.
 

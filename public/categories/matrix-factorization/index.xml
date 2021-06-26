@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>matrix factorization on Neural Networks Reading Group UoB</title>
-    <link>/categories/matrix-factorization/</link>
+    <link>https://neuralnetworksbristol.netlify.app/categories/matrix-factorization/</link>
     <description>Recent content in matrix factorization on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/matrix-factorization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/categories/matrix-factorization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neural Word Embedding as Implicit Matrix Factorization</title>
-      <link>/neural-word-embedding-as-implicit-matrix-factorization/</link>
+      <link>https://neuralnetworksbristol.netlify.app/neural-word-embedding-as-implicit-matrix-factorization/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/neural-word-embedding-as-implicit-matrix-factorization/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/neural-word-embedding-as-implicit-matrix-factorization/</guid>
       <description>On Wednesday the \(10^{\text{th}}\) of February Patrick presented Neural Word Embedding as Implicit Matrix Factorization by Levy and Goldberg. You can find some hand-written notes here. The abstract is given below.
  We analyze skip-gram with negative-sampling (SGNS), a word embedding method introduced by Mikolov et al., and show that it is implicitly factorizing a word-context matrix, whose cells are the pointwise mutual information (PMI) of the respective word and context pairs, shifted by a global constant.</description>
     </item>

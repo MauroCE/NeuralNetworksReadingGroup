@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>networks on Neural Networks Reading Group UoB</title>
-    <link>/tags/networks/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/networks/</link>
     <description>Recent content in networks on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Neural Networks reading group website!</title>
-      <link>/welcome/</link>
+      <link>https://neuralnetworksbristol.netlify.app/welcome/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/welcome/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/welcome/</guid>
       <description>Hi everyone! I hope you are as excited as we are about the Neural Network reading group. We thought we’d make it more engaging by having a simple website where we can share links to the papers, post summaries and ideas. This is still a work in progress and feeback and suggestions are very much appreciated. For now, you can send your feedback to m.camaraescudero@bristol.ac.uk or to ys18223@bristol.ac.uk.</description>
     </item>
     

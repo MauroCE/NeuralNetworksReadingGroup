@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hopfield networks on Neural Networks Reading Group UoB</title>
-    <link>/tags/hopfield-networks/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/hopfield-networks/</link>
     <description>Recent content in hopfield networks on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hopfield-networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/hopfield-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hopfield Networks is All You Need</title>
-      <link>/hopfield-networks-is-all-you-need/</link>
+      <link>https://neuralnetworksbristol.netlify.app/hopfield-networks-is-all-you-need/</link>
       <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/hopfield-networks-is-all-you-need/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/hopfield-networks-is-all-you-need/</guid>
       <description>On Wednesday the \(12^{\text{th}}\) presented Hopfield Networks is All You Need. A useful blog post and video can be found here and here respectively. The abstract is given below.
  We introduce a modern Hopfield network with continuous states and a corresponding update rule. The new Hopfield network can store exponentially (with the dimension of the associative space) many patterns, retrieves the pattern with one update, and has exponentially small retrieval errors.</description>
     </item>
     
     <item>
       <title>Deep Boltzmann Machines</title>
-      <link>/deep-boltzmann-machines/</link>
+      <link>https://neuralnetworksbristol.netlify.app/deep-boltzmann-machines/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/deep-boltzmann-machines/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/deep-boltzmann-machines/</guid>
       <description>On Tuesday 3rd of December Pierre presented the paper Deep Bolzmann Machines by Ruslan Salakhutdinov and Geoffrey Hinton. The slides are available.
 The abstract is given below.
  We present a new learning algorithm for Boltzmann machines that contain many layers of hidden variables. Data-dependent expectations are estimated using a variational approximation that tends to focus on a single mode, and dataindependent expectations are approximated using persistent Markov chains. The use of two quite different techniques for estimating the two types of expectation that enter into the gradient of the log-likelihood makes it practical to learn Boltzmann machines with multiple hidden layers and millions of parameters.</description>

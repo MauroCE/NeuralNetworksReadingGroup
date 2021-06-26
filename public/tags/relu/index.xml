@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ReLU on Neural Networks Reading Group UoB</title>
-    <link>/tags/relu/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/relu/</link>
     <description>Recent content in ReLU on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/relu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/relu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nonparametric regression using deep neural networks with ReLU activation function</title>
-      <link>/nonparametric-regression-using-deep-neural-networks-with-relu-activation-function/</link>
+      <link>https://neuralnetworksbristol.netlify.app/nonparametric-regression-using-deep-neural-networks-with-relu-activation-function/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/nonparametric-regression-using-deep-neural-networks-with-relu-activation-function/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/nonparametric-regression-using-deep-neural-networks-with-relu-activation-function/</guid>
       <description>On Tuesday 17th of December Anthony Lee presented the paper Nonparametric regression using deep neural networks with ReLU activation function by Johannes Schmidt-Hieber. The abstract is given below.
  Consider the multivariate nonparametric regression model. It is shown that estimators based on sparsely connected deep neural networks with ReLU activation function and properly chosen network architecture achieve the minimax rates of convergence (up to logn-factors) under a general composition assumption on the regression function.</description>
     </item>

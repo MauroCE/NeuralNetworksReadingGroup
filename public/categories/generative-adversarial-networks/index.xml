@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>generative-adversarial-networks on Neural Networks Reading Group UoB</title>
-    <link>/categories/generative-adversarial-networks/</link>
+    <link>https://neuralnetworksbristol.netlify.app/categories/generative-adversarial-networks/</link>
     <description>Recent content in generative-adversarial-networks on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/generative-adversarial-networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/categories/generative-adversarial-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adversarial Variational Bayes</title>
-      <link>/adversarial-variational-bayes/</link>
+      <link>https://neuralnetworksbristol.netlify.app/adversarial-variational-bayes/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/adversarial-variational-bayes/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/adversarial-variational-bayes/</guid>
       <description>On Wednesday \(28^{\text{th}}\) of October Mauro presented Adversarial Variational Bayes by Mescheder et al. You can find the slides for the presentation here. The abstract is given below:
  Variational Autoencoders (VAEs) are expressive latent variable models that can be used to learn complex probability distributions from training data. However, the quality of the resulting model crucially relies on the expressiveness of the inference model. We introduce Adversarial Variational Bayes (AVB), a technique for training Variational Autoencoders with arbitrarily expressive inference models.</description>
     </item>
     
     <item>
       <title>Learning in Implicit Generative Models</title>
-      <link>/learning-in-implicit-generative-models/</link>
+      <link>https://neuralnetworksbristol.netlify.app/learning-in-implicit-generative-models/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/learning-in-implicit-generative-models/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/learning-in-implicit-generative-models/</guid>
       <description>On Monday the 19th of October 2020 Chang Zhang presented Learning in Implicit Generative Models by Shakir Mohamed and Balaji Lakshminarayanan. The abstract is given below.
  Generative adversarial networks (GANs) provide an algorithmic framework for constructing generative models with several appealing properties: they do not require a likelihood function to be specified, only a generating procedure; they provide samples that are sharp and compelling; and they allow us to harness our knowledge of building highly accurate neural network classifiers.</description>
     </item>

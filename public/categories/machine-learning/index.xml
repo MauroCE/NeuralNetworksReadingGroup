@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine learning on Neural Networks Reading Group UoB</title>
-    <link>/categories/machine-learning/</link>
+    <link>https://neuralnetworksbristol.netlify.app/categories/machine-learning/</link>
     <description>Recent content in machine learning on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generalized Sliced Wasserstein Distances</title>
-      <link>/generalized-sliced-wasserstein-distances/</link>
+      <link>https://neuralnetworksbristol.netlify.app/generalized-sliced-wasserstein-distances/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/generalized-sliced-wasserstein-distances/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/generalized-sliced-wasserstein-distances/</guid>
       <description>On Thusrday the \(6^{\text{th}}\) of May Mingxuan presented Generalized Sliced Wasserstein Distances. The abstract is given below:
  The Wasserstein distance and its variations, e.g., the sliced-Wasserstein (SW) distance, have recently drawn attention from the machine learning community. The SW distance, specifically, was shown to have similar properties to the Wasserstein distance, while being much simpler to compute, and is therefore used in various applications including generative modeling and general supervised/unsupervised learning.</description>
     </item>
     
     <item>
       <title>How to Train your Energy-Based Models </title>
-      <link>/how-to-train-your-energy-based-models/</link>
+      <link>https://neuralnetworksbristol.netlify.app/how-to-train-your-energy-based-models/</link>
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/how-to-train-your-energy-based-models/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/how-to-train-your-energy-based-models/</guid>
       <description>On Wednesday teh \(24^{\text{th}}\) of February Sam presented How to train your energy-based models by Yang Song and Diederik P. Kingma. You can find his presentation here and the abstract below.
  Energy-Based Models (EBMs), also known as non-normalized probabilistic models, specify probability density or mass functions up to an unknown normalizing constant. Unlike most other probabilistic models, EBMs do not place a restriction on the tractability of the normalizing constant, thus are more flexible to parameterize and can model a more expressive family of probability distributions.</description>
     </item>

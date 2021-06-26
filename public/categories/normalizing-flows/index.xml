@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>normalizing flows on Neural Networks Reading Group UoB</title>
-    <link>/categories/normalizing-flows/</link>
+    <link>https://neuralnetworksbristol.netlify.app/categories/normalizing-flows/</link>
     <description>Recent content in normalizing flows on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/normalizing-flows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/categories/normalizing-flows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sequential Neural Posterior and Likelihood Approximation</title>
-      <link>/sequential-neural-posterior-and-likelihood-approximation/</link>
+      <link>https://neuralnetworksbristol.netlify.app/sequential-neural-posterior-and-likelihood-approximation/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/sequential-neural-posterior-and-likelihood-approximation/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/sequential-neural-posterior-and-likelihood-approximation/</guid>
       <description>On Wednesday the \(31^{\text{th}}\) of March, Mark presented Sequential Neural Posterior and Likelihood Approximation. The abstract is given below:
  We introduce the sequential neural posterior and likelihood approximation (SNPLA) algorithm. SNPLA is a normalizing flows-based algorithm for inference in implicit models. Thus, SNPLA is a simulation-based inference method that only requires simulations from a generative model. Compared to similar methods, the main advantage of SNPLA is that our method jointly learns both the posterior and the likelihood.</description>
     </item>
     
     <item>
       <title>Stochastic Normalizing Flows</title>
-      <link>/stochastic-normalizing-flows/</link>
+      <link>https://neuralnetworksbristol.netlify.app/stochastic-normalizing-flows/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/stochastic-normalizing-flows/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/stochastic-normalizing-flows/</guid>
       <description>On Monday \(14^{\text{th}}\) of December Anthony presented Stochastic Normalizing Flows. The abstract is given below:
  The sampling of probability distributions specified up to a normalization constant is an important problem in both machine learning and statistical mechanics. While classical stochastic sampling methods such as Markov Chain Monte Carlo (MCMC) or Langevin Dynamics (LD) can suffer from slow mixing times there is a growing interest in using normalizing flows in order to learn the transformation of a simple prior distribution to the given target distribution.</description>
     </item>
     
     <item>
       <title>Analyzing Inverse Problems with Invertible Neural Networks</title>
-      <link>/analyzing-inverse-problems-with-invertible-neural-networks/</link>
+      <link>https://neuralnetworksbristol.netlify.app/analyzing-inverse-problems-with-invertible-neural-networks/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/analyzing-inverse-problems-with-invertible-neural-networks/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/analyzing-inverse-problems-with-invertible-neural-networks/</guid>
       <description>On Monday \(16^{\text{th}}\) of November Mark presented Analyzing Inverse Problems with Invertible Neural Networks. You can find the abstract below:
  For many applications, in particular in natural science, the task is to determine hidden system parameters from a set of measurements. Often, the forward process from parameter- to measurement-space is well-defined, whereas the inverse problem is ambiguous: multiple parameter sets can result in the same measurement. To fully characterize this ambiguity, the full posterior parameter distribution, conditioned on an observed measurement, has to be determined.</description>
     </item>
     
     <item>
       <title>Variational Inference with Normalizing Flows </title>
-      <link>/variational-inference-with-normalizing-flows/</link>
+      <link>https://neuralnetworksbristol.netlify.app/variational-inference-with-normalizing-flows/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/variational-inference-with-normalizing-flows/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/variational-inference-with-normalizing-flows/</guid>
       <description>On Tuesday \(28^{\text{th}}\) of July, Mauro presented Variational Inference with Normalizing Flows by Rezende and Mohamed. Two good review papers are Normalizing Flows for Probabilistic Modeling and Inference, which is more Tutorial in nature, and Normalizing Flows: An Introduction and Review of Current Methods, which is a bit more technical. Slides for the talk are available here.
 The abstract is given below:
  The choice of approximate posterior distribution is one of the core problems in variational inference.</description>

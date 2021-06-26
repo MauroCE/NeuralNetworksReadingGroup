@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gan on Neural Networks Reading Group UoB</title>
-    <link>/tags/gan/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/gan/</link>
     <description>Recent content in gan on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/gan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adversarial Variational Bayes</title>
-      <link>/adversarial-variational-bayes/</link>
+      <link>https://neuralnetworksbristol.netlify.app/adversarial-variational-bayes/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/adversarial-variational-bayes/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/adversarial-variational-bayes/</guid>
       <description>On Wednesday \(28^{\text{th}}\) of October Mauro presented Adversarial Variational Bayes by Mescheder et al. You can find the slides for the presentation here. The abstract is given below:
  Variational Autoencoders (VAEs) are expressive latent variable models that can be used to learn complex probability distributions from training data. However, the quality of the resulting model crucially relies on the expressiveness of the inference model. We introduce Adversarial Variational Bayes (AVB), a technique for training Variational Autoencoders with arbitrarily expressive inference models.</description>
     </item>
     
     <item>
       <title>From optimal transport to generative modeling: the VEGAN cookbook</title>
-      <link>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</link>
+      <link>https://neuralnetworksbristol.netlify.app/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</guid>
       <description>On Tuesday 9th of June Anthony Lee presented From optimal transport to generative modeling: the VEGAN cookbook. The abstract is given below:
  We study unsupervised generative modeling in terms of the optimal transport (OT) problem between true (but unknown) data distribution PX and the latent variable model distribution PG. We show that the OT problem can be equivalently written in terms of probabilistic encoders, which are constrained to match the posterior and prior distributions over the latent space.</description>
     </item>

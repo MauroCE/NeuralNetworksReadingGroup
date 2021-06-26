@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>inverse problems on Neural Networks Reading Group UoB</title>
-    <link>/categories/inverse-problems/</link>
+    <link>https://neuralnetworksbristol.netlify.app/categories/inverse-problems/</link>
     <description>Recent content in inverse problems on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/inverse-problems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/categories/inverse-problems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analyzing Inverse Problems with Invertible Neural Networks</title>
-      <link>/analyzing-inverse-problems-with-invertible-neural-networks/</link>
+      <link>https://neuralnetworksbristol.netlify.app/analyzing-inverse-problems-with-invertible-neural-networks/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/analyzing-inverse-problems-with-invertible-neural-networks/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/analyzing-inverse-problems-with-invertible-neural-networks/</guid>
       <description>On Monday \(16^{\text{th}}\) of November Mark presented Analyzing Inverse Problems with Invertible Neural Networks. You can find the abstract below:
  For many applications, in particular in natural science, the task is to determine hidden system parameters from a set of measurements. Often, the forward process from parameter- to measurement-space is well-defined, whereas the inverse problem is ambiguous: multiple parameter sets can result in the same measurement. To fully characterize this ambiguity, the full posterior parameter distribution, conditioned on an observed measurement, has to be determined.</description>
     </item>

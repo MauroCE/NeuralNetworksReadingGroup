@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stochastic normalizing flows on Neural Networks Reading Group UoB</title>
-    <link>/tags/stochastic-normalizing-flows/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/stochastic-normalizing-flows/</link>
     <description>Recent content in stochastic normalizing flows on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/stochastic-normalizing-flows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/stochastic-normalizing-flows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stochastic Normalizing Flows</title>
-      <link>/stochastic-normalizing-flows/</link>
+      <link>https://neuralnetworksbristol.netlify.app/stochastic-normalizing-flows/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/stochastic-normalizing-flows/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/stochastic-normalizing-flows/</guid>
       <description>On Monday \(14^{\text{th}}\) of December Anthony presented Stochastic Normalizing Flows. The abstract is given below:
  The sampling of probability distributions specified up to a normalization constant is an important problem in both machine learning and statistical mechanics. While classical stochastic sampling methods such as Markov Chain Monte Carlo (MCMC) or Langevin Dynamics (LD) can suffer from slow mixing times there is a growing interest in using normalizing flows in order to learn the transformation of a simple prior distribution to the given target distribution.</description>
     </item>

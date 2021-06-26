@@ -2,77 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deep-learning on Neural Networks Reading Group UoB</title>
-    <link>/categories/deep-learning/</link>
+    <link>https://neuralnetworksbristol.netlify.app/categories/deep-learning/</link>
     <description>Recent content in deep-learning on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Gaussian Processes</title>
+      <link>https://neuralnetworksbristol.netlify.app/deep-gaussian-processes/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/deep-gaussian-processes/</guid>
+      <description>On Wednesday the \(23^{rd}\) of June Sam presented Deep Gaussian Processes. The abstract is given below.
+ In this paper we introduce deep Gaussian process (GP) models. Deep GPs are a deep belief network based on Gaussian process mappings. The data is modeled as the output of a multivariate GP. The inputs to that Gaussian process are then governed by another GP. A single layer model is equivalent to a standard GP or the GP latent variable model (GP-LVM).</description>
+    </item>
+    
     <item>
       <title>Deep learning of contagion dynamics on complex networks</title>
-      <link>/deep-learning-of-contagion-dynamics-on-complex-networks/</link>
+      <link>https://neuralnetworksbristol.netlify.app/deep-learning-of-contagion-dynamics-on-complex-networks/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/deep-learning-of-contagion-dynamics-on-complex-networks/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/deep-learning-of-contagion-dynamics-on-complex-networks/</guid>
       <description>On Wednesday \(3^{\text{th}}\) of February Sam Tickle presented Deep learning of contagion dynamics on complex networks. The slides are available here and the abstract is given below.
  Forecasting the evolution of contagion dynamics is still an open problem to which mechanistic models only offer a partial answer. To remain mathematically or computationally tractable, these models must rely on simplifying assumptions, thereby limiting the quantitative accuracy of their predictions and the complexity of the dynamics they can model.</description>
     </item>
     
     <item>
       <title>Toward a theory of optimization for over-parameterized systems of non-linear equations: the lessons of deep learning</title>
-      <link>/toward-a-theory-of-optimization-for-over-parameterized-systems-of-non-linear-equations-the-lessons-of-deep-learning/</link>
+      <link>https://neuralnetworksbristol.netlify.app/toward-a-theory-of-optimization-for-over-parameterized-systems-of-non-linear-equations-the-lessons-of-deep-learning/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/toward-a-theory-of-optimization-for-over-parameterized-systems-of-non-linear-equations-the-lessons-of-deep-learning/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/toward-a-theory-of-optimization-for-over-parameterized-systems-of-non-linear-equations-the-lessons-of-deep-learning/</guid>
       <description>On Monday \(7^{\text{th}}\) of December Andi presented Toward a theory of optimization for over-parameterized systems of non-linear equations: the lessons of deep learning. The abstract is given below:
  The success of deep learning is due, to a great extent, to the remarkable effectiveness of gradient-based optimization methods applied to large neural networks. In this work we isolate some general mathematical structures allowing for efficient optimization in over-parameterized systems of non-linear equations, a setting that includes deep neural networks.</description>
     </item>
     
     <item>
       <title>Learning Latent Subspaces in Variational Autoencoders</title>
-      <link>/learning-latent-subspaces-in-variational-autoencoders/</link>
+      <link>https://neuralnetworksbristol.netlify.app/learning-latent-subspaces-in-variational-autoencoders/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/learning-latent-subspaces-in-variational-autoencoders/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/learning-latent-subspaces-in-variational-autoencoders/</guid>
       <description>On Monday \(9^{\text{th}}\) of November Pierre presented Learning Latent Subspaces in Variational Autoencoders by Klys et al. The slides are available here and the abstract is given below:
  Variational autoencoders (VAEs) [10, 20] are widely used deep generative models capable of learning unsupervised latent representations of data. Such representations are often difficult to interpret or control. We consider the problem of unsupervised learning of features correlated to specific labels in a dataset.</description>
     </item>
     
     <item>
       <title>From optimal transport to generative modeling: the VEGAN cookbook</title>
-      <link>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</link>
+      <link>https://neuralnetworksbristol.netlify.app/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</guid>
       <description>On Tuesday 9th of June Anthony Lee presented From optimal transport to generative modeling: the VEGAN cookbook. The abstract is given below:
  We study unsupervised generative modeling in terms of the optimal transport (OT) problem between true (but unknown) data distribution PX and the latent variable model distribution PG. We show that the OT problem can be equivalently written in terms of probabilistic encoders, which are constrained to match the posterior and prior distributions over the latent space.</description>
     </item>
     
     <item>
       <title>Deep Learning for Multi-Scale Changepoint Detection in Multivariate Time Series</title>
-      <link>/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</link>
+      <link>https://neuralnetworksbristol.netlify.app/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</guid>
       <description>On Tuesday’s 5th of May Sam Tickle has presented Deep Learning for Multi-Scale Changepoint Detection in Multivariate Time Series. The abstract is given below.
  Many real-world time series, such as in health, have changepoints where the system’s structure or parameters change. Since changepoints can indicate critical events such as onset of illness, it is highly important to detect them. However, existing methods for changepoint detection (CPD) often require user-specified models and cannot recognize changes that occur gradually or at multiple time-scales.</description>
     </item>
     
     <item>
       <title>Markov Chain Monte Carlo and Variational Inference: Bridging the Gap</title>
-      <link>/markov-chain-monte-carlo-and-variational-inference-bridging-the-gap/</link>
+      <link>https://neuralnetworksbristol.netlify.app/markov-chain-monte-carlo-and-variational-inference-bridging-the-gap/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/markov-chain-monte-carlo-and-variational-inference-bridging-the-gap/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/markov-chain-monte-carlo-and-variational-inference-bridging-the-gap/</guid>
       <description>On Tuesday \(28^{\text{th}}\) of April Andi Wang presented Markov Chain Monte Carlo and Variational Inference: Bridging the Gap - Tim Salimans. His slides are available here and the abstract is given below.
  Recent advances in stochastic gradient variational inference have made it possible to perform variational Bayesian inference with posterior approximations containing auxiliary random variables. This enables us to explore a new synthesis of variational inference and Monte Carlo methods where we incorporate one or more steps of MCMC into our variational approximation.</description>
     </item>
     
     <item>
       <title>Information Bottleneck</title>
-      <link>/information-bottleneck/</link>
+      <link>https://neuralnetworksbristol.netlify.app/information-bottleneck/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/information-bottleneck/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/information-bottleneck/</guid>
       <description>On Tuesday \(21^{\text{st}}\) of April Mingxuan Yi talked about the topic of information bottleneck. The main references used were Opening the black box of Deep Neural Networks via Information by Ravid Schwartz-Ziv and Deep Learning and the Information Bottleneck Principle. The abstracts are given below
 Opening the black box of Deep Neural Networks via Information
  Despite their great success, there is still no comprehensive theoretical understanding of learning with Deep Neural Networks (DNNs) or their inner organization.</description>
@@ -80,30 +90,30 @@ Opening the black box of Deep Neural Networks via Information
     
     <item>
       <title>Partially Exchangeable Networks and Architectures for Learning Summary Statistics in Approximate Bayesian Computation</title>
-      <link>/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</link>
+      <link>https://neuralnetworksbristol.netlify.app/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</guid>
       <description>On Tuesday 7\(^{\text{th}}\) of April Mark Beaumont presented Partially Exchangeable Networks and Architectures for Learning Summary Statistics in Approximate Bayesian Computation. The abstract is given below.
  We present a novel family of deep neural architectures, named partially exchangeable networks (PENs) that leverage probabilistic symmetries. By design, PENs are invariant to block-switch transformations, which characterize the partial exchangeability properties of conditionally Markovian processes. Moreover, we show that any block-switch invariant function has a PEN-like representation.</description>
     </item>
     
     <item>
       <title>Neural Ordinary Differential Equations</title>
-      <link>/neural-ordinary-differential-equations/</link>
+      <link>https://neuralnetworksbristol.netlify.app/neural-ordinary-differential-equations/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/neural-ordinary-differential-equations/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/neural-ordinary-differential-equations/</guid>
       <description>On Tuesday 24\(^{th}\) of March Song Liu presented Neural Ordinary Differential Equations. The abstract is given below.
  We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. The output of the network is computed using a blackbox differential equation solver. These continuous-depth models have constant memory cost, adapt their evaluation strategy to each input, and can explicitly trade numerical precision for speed.</description>
     </item>
     
     <item>
       <title>Uniform convergence may be unable to explain generalization in deep learning</title>
-      <link>/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</link>
+      <link>https://neuralnetworksbristol.netlify.app/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</guid>
       <description>On Tuesday 10\(^{\text{th}}\) of March Patrick Rubin-Delanchy presented the 2019 NeurIPS paper winner of the Outstanding New Directions Paper Award, titled “Uniform convergence may be unable to explain generalization in deep learning” by Vaishnavh Nagarajan and J. Zico Kolter.
 The abstract is given below.
  Aimed at explaining the surprisingly good generalization behavior of overparameterized deep networks, recent works have developed a variety of generalization bounds for deep learning, all based on the fundamental learning-theoretic technique of uniform convergence.</description>

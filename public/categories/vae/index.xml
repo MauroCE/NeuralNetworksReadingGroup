@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vae on Neural Networks Reading Group UoB</title>
-    <link>/categories/vae/</link>
+    <link>https://neuralnetworksbristol.netlify.app/categories/vae/</link>
     <description>Recent content in vae on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/vae/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/categories/vae/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Differentiable Particle Filtering via Entropy-Regularized Optimal Transport</title>
-      <link>/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</link>
+      <link>https://neuralnetworksbristol.netlify.app/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/differentiable-particle-filtering-via-entropy-regularized-optimal-transport/</guid>
       <description>On Thursday the \(29^{\text{th}}\) of April, Mauro presented Differentiable Particle Filtering via Entropy-Regularized Optimal Transport by Corenflos et al. You can find the abstract below.
  Particle Filtering (PF) methods are an established class of procedures for performing inference in non-linear state-space models. Resampling is a key ingredient of PF, necessary to obtain low variance likelihood and states estimates. However, traditional resampling methods result in PF-based loss functions being non-differentiable with respect to model and PF parameters.</description>
     </item>
     
     <item>
       <title>Learning Latent Subspaces in Variational Autoencoders</title>
-      <link>/learning-latent-subspaces-in-variational-autoencoders/</link>
+      <link>https://neuralnetworksbristol.netlify.app/learning-latent-subspaces-in-variational-autoencoders/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/learning-latent-subspaces-in-variational-autoencoders/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/learning-latent-subspaces-in-variational-autoencoders/</guid>
       <description>On Monday \(9^{\text{th}}\) of November Pierre presented Learning Latent Subspaces in Variational Autoencoders by Klys et al. The slides are available here and the abstract is given below:
  Variational autoencoders (VAEs) [10, 20] are widely used deep generative models capable of learning unsupervised latent representations of data. Such representations are often difficult to interpret or control. We consider the problem of unsupervised learning of features correlated to specific labels in a dataset.</description>
     </item>
     
     <item>
       <title>Adversarial Variational Bayes</title>
-      <link>/adversarial-variational-bayes/</link>
+      <link>https://neuralnetworksbristol.netlify.app/adversarial-variational-bayes/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/adversarial-variational-bayes/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/adversarial-variational-bayes/</guid>
       <description>On Wednesday \(28^{\text{th}}\) of October Mauro presented Adversarial Variational Bayes by Mescheder et al. You can find the slides for the presentation here. The abstract is given below:
  Variational Autoencoders (VAEs) are expressive latent variable models that can be used to learn complex probability distributions from training data. However, the quality of the resulting model crucially relies on the expressiveness of the inference model. We introduce Adversarial Variational Bayes (AVB), a technique for training Variational Autoencoders with arbitrarily expressive inference models.</description>
     </item>
     
     <item>
       <title>Variational Inference with Normalizing Flows </title>
-      <link>/variational-inference-with-normalizing-flows/</link>
+      <link>https://neuralnetworksbristol.netlify.app/variational-inference-with-normalizing-flows/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/variational-inference-with-normalizing-flows/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/variational-inference-with-normalizing-flows/</guid>
       <description>On Tuesday \(28^{\text{th}}\) of July, Mauro presented Variational Inference with Normalizing Flows by Rezende and Mohamed. Two good review papers are Normalizing Flows for Probabilistic Modeling and Inference, which is more Tutorial in nature, and Normalizing Flows: An Introduction and Review of Current Methods, which is a bit more technical. Slides for the talk are available here.
 The abstract is given below:
  The choice of approximate posterior distribution is one of the core problems in variational inference.</description>
@@ -50,30 +50,30 @@ The abstract is given below:
     
     <item>
       <title>Auto-Encoding Variational Bayes</title>
-      <link>/auto-encoding-variational-bayes/</link>
+      <link>https://neuralnetworksbristol.netlify.app/auto-encoding-variational-bayes/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/auto-encoding-variational-bayes/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/auto-encoding-variational-bayes/</guid>
       <description>On Tuesday \(7^{\text{th}}\) of July, Mauro Camara Escudero presented Auto-Encoding Variational Bayes. Slides can be found here. The abstract is given below.
  How can we perform efficient inference and learning in directed probabilistic models, in the presence of continuous latent variables with intractable posterior distributions, and large datasets? We introduce a stochastic variational inference and learning algorithm that scales to large datasets and, under some mild differentiability conditions, even works in the intractable case.</description>
     </item>
     
     <item>
       <title>From optimal transport to generative modeling: the VEGAN cookbook</title>
-      <link>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</link>
+      <link>https://neuralnetworksbristol.netlify.app/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</guid>
       <description>On Tuesday 9th of June Anthony Lee presented From optimal transport to generative modeling: the VEGAN cookbook. The abstract is given below:
  We study unsupervised generative modeling in terms of the optimal transport (OT) problem between true (but unknown) data distribution PX and the latent variable model distribution PG. We show that the OT problem can be equivalently written in terms of probabilistic encoders, which are constrained to match the posterior and prior distributions over the latent space.</description>
     </item>
     
     <item>
       <title>Preventing Posterior Collapse with delta-VAEs</title>
-      <link>/preventing-posterior-collapse-with-delta-vaes/</link>
+      <link>https://neuralnetworksbristol.netlify.app/preventing-posterior-collapse-with-delta-vaes/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/preventing-posterior-collapse-with-delta-vaes/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/preventing-posterior-collapse-with-delta-vaes/</guid>
       <description>On Tuesday 26th of May Pierre Aurelien Gilliot presented Preventing Posterior Collapse with delta-VAEs. The main reference paper was the original VAE paper. The abstract is given below.
  Due to the phenomenon of “posterior collapse,” current latent variable generative models pose a challenging design choice that either weakens the capacity of the decoder or requires augmenting the objective so it does not only maximize the likelihood of the data.</description>
     </item>

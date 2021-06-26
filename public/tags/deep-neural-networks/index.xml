@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deep-neural-networks on Neural Networks Reading Group UoB</title>
-    <link>/tags/deep-neural-networks/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/deep-neural-networks/</link>
     <description>Recent content in deep-neural-networks on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/deep-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/deep-neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep learning of contagion dynamics on complex networks</title>
-      <link>/deep-learning-of-contagion-dynamics-on-complex-networks/</link>
+      <link>https://neuralnetworksbristol.netlify.app/deep-learning-of-contagion-dynamics-on-complex-networks/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/deep-learning-of-contagion-dynamics-on-complex-networks/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/deep-learning-of-contagion-dynamics-on-complex-networks/</guid>
       <description>On Wednesday \(3^{\text{th}}\) of February Sam Tickle presented Deep learning of contagion dynamics on complex networks. The slides are available here and the abstract is given below.
  Forecasting the evolution of contagion dynamics is still an open problem to which mechanistic models only offer a partial answer. To remain mathematically or computationally tractable, these models must rely on simplifying assumptions, thereby limiting the quantitative accuracy of their predictions and the complexity of the dynamics they can model.</description>
     </item>
     
     <item>
       <title>Neural Processes</title>
-      <link>/neural-processes/</link>
+      <link>https://neuralnetworksbristol.netlify.app/neural-processes/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/neural-processes/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/neural-processes/</guid>
       <description>On Tuesday \(14^{\text{th}}\) of July, Mingxuan presented Neural Processes and Conditional Neural Processes by Marta Garnelo et al. You can find the notes here.
 Abstract for Neural Processes:
  A neural network (NN) is a parameterised function that can be tuned via gradient descent to approximate a labelled collection of data with high precision. A Gaussian process (GP), on the other hand, is a probabilistic model that defines a distribution over possible functions, and is updated in light of data via the rules of probabilistic inference.</description>
@@ -30,20 +30,20 @@ Abstract for Neural Processes:
     
     <item>
       <title>Adaptive approximation and estimation of deep neural network to intrinsic dimensionality</title>
-      <link>/adaptive-approximation-and-estimation-of-deep-neural-network-to-intrinsic-dimensionality/</link>
+      <link>https://neuralnetworksbristol.netlify.app/adaptive-approximation-and-estimation-of-deep-neural-network-to-intrinsic-dimensionality/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/adaptive-approximation-and-estimation-of-deep-neural-network-to-intrinsic-dimensionality/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/adaptive-approximation-and-estimation-of-deep-neural-network-to-intrinsic-dimensionality/</guid>
       <description>On Tuesday \(16^{\text{th}}\) of June Patrick Rubin-Delanchy presented Adaptive approximation and estimation of deep neural network to intrinsic dimensionality. The abstract is given below.
  We prove that the performance of deep neural networks (DNNs) is mainly determined by an intrinsic low-dimensionality of covariates. DNNs have been providing an outstanding performance empirically, hence, the theoretical properties of DNNs are actively investigated to understand their mechanism. In particular, the behavior of DNNs with respect to high-dimensional data is one of the most important concerns.</description>
     </item>
     
     <item>
       <title>Information Bottleneck</title>
-      <link>/information-bottleneck/</link>
+      <link>https://neuralnetworksbristol.netlify.app/information-bottleneck/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/information-bottleneck/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/information-bottleneck/</guid>
       <description>On Tuesday \(21^{\text{st}}\) of April Mingxuan Yi talked about the topic of information bottleneck. The main references used were Opening the black box of Deep Neural Networks via Information by Ravid Schwartz-Ziv and Deep Learning and the Information Bottleneck Principle. The abstracts are given below
 Opening the black box of Deep Neural Networks via Information
  Despite their great success, there is still no comprehensive theoretical understanding of learning with Deep Neural Networks (DNNs) or their inner organization.</description>

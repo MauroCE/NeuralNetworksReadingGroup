@@ -2,87 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deep-learning on Neural Networks Reading Group UoB</title>
-    <link>/tags/deep-learning/</link>
+    <link>https://neuralnetworksbristol.netlify.app/tags/deep-learning/</link>
     <description>Recent content in deep-learning on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Gaussian Processes</title>
+      <link>https://neuralnetworksbristol.netlify.app/deep-gaussian-processes/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/deep-gaussian-processes/</guid>
+      <description>On Wednesday the \(23^{rd}\) of June Sam presented Deep Gaussian Processes. The abstract is given below.
+ In this paper we introduce deep Gaussian process (GP) models. Deep GPs are a deep belief network based on Gaussian process mappings. The data is modeled as the output of a multivariate GP. The inputs to that Gaussian process are then governed by another GP. A single layer model is equivalent to a standard GP or the GP latent variable model (GP-LVM).</description>
+    </item>
+    
     <item>
       <title>A Shooting Formulation of Deep Learning</title>
-      <link>/a-shooting-formulation-of-deep-learning/</link>
+      <link>https://neuralnetworksbristol.netlify.app/a-shooting-formulation-of-deep-learning/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/a-shooting-formulation-of-deep-learning/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/a-shooting-formulation-of-deep-learning/</guid>
       <description>On Wednesday the \(7^{\text{th}}\) of April, Anthony presented A Shooting Formulation of Deep Learning. This is closely related to Neural ODEs and Augmented Neural ODEs. The abstract is given below:
  A residual network may be regarded as a discretization of an ordinary differential equation (ODE) which, in the limit of time discretization, defines a continuous-depth network. Although important steps have been taken to realize the advantages of such continuous formulations, most current techniques assume identical layers.</description>
     </item>
     
     <item>
       <title>Neural Word Embedding as Implicit Matrix Factorization</title>
-      <link>/neural-word-embedding-as-implicit-matrix-factorization/</link>
+      <link>https://neuralnetworksbristol.netlify.app/neural-word-embedding-as-implicit-matrix-factorization/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/neural-word-embedding-as-implicit-matrix-factorization/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/neural-word-embedding-as-implicit-matrix-factorization/</guid>
       <description>On Wednesday the \(10^{\text{th}}\) of February Patrick presented Neural Word Embedding as Implicit Matrix Factorization by Levy and Goldberg. You can find some hand-written notes here. The abstract is given below.
  We analyze skip-gram with negative-sampling (SGNS), a word embedding method introduced by Mikolov et al., and show that it is implicitly factorizing a word-context matrix, whose cells are the pointwise mutual information (PMI) of the respective word and context pairs, shifted by a global constant.</description>
     </item>
     
     <item>
       <title>Deep learning of contagion dynamics on complex networks</title>
-      <link>/deep-learning-of-contagion-dynamics-on-complex-networks/</link>
+      <link>https://neuralnetworksbristol.netlify.app/deep-learning-of-contagion-dynamics-on-complex-networks/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/deep-learning-of-contagion-dynamics-on-complex-networks/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/deep-learning-of-contagion-dynamics-on-complex-networks/</guid>
       <description>On Wednesday \(3^{\text{th}}\) of February Sam Tickle presented Deep learning of contagion dynamics on complex networks. The slides are available here and the abstract is given below.
  Forecasting the evolution of contagion dynamics is still an open problem to which mechanistic models only offer a partial answer. To remain mathematically or computationally tractable, these models must rely on simplifying assumptions, thereby limiting the quantitative accuracy of their predictions and the complexity of the dynamics they can model.</description>
     </item>
     
     <item>
       <title>Toward a theory of optimization for over-parameterized systems of non-linear equations: the lessons of deep learning</title>
-      <link>/toward-a-theory-of-optimization-for-over-parameterized-systems-of-non-linear-equations-the-lessons-of-deep-learning/</link>
+      <link>https://neuralnetworksbristol.netlify.app/toward-a-theory-of-optimization-for-over-parameterized-systems-of-non-linear-equations-the-lessons-of-deep-learning/</link>
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/toward-a-theory-of-optimization-for-over-parameterized-systems-of-non-linear-equations-the-lessons-of-deep-learning/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/toward-a-theory-of-optimization-for-over-parameterized-systems-of-non-linear-equations-the-lessons-of-deep-learning/</guid>
       <description>On Monday \(7^{\text{th}}\) of December Andi presented Toward a theory of optimization for over-parameterized systems of non-linear equations: the lessons of deep learning. The abstract is given below:
  The success of deep learning is due, to a great extent, to the remarkable effectiveness of gradient-based optimization methods applied to large neural networks. In this work we isolate some general mathematical structures allowing for efficient optimization in over-parameterized systems of non-linear equations, a setting that includes deep neural networks.</description>
     </item>
     
     <item>
       <title>Learning Latent Subspaces in Variational Autoencoders</title>
-      <link>/learning-latent-subspaces-in-variational-autoencoders/</link>
+      <link>https://neuralnetworksbristol.netlify.app/learning-latent-subspaces-in-variational-autoencoders/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/learning-latent-subspaces-in-variational-autoencoders/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/learning-latent-subspaces-in-variational-autoencoders/</guid>
       <description>On Monday \(9^{\text{th}}\) of November Pierre presented Learning Latent Subspaces in Variational Autoencoders by Klys et al. The slides are available here and the abstract is given below:
  Variational autoencoders (VAEs) [10, 20] are widely used deep generative models capable of learning unsupervised latent representations of data. Such representations are often difficult to interpret or control. We consider the problem of unsupervised learning of features correlated to specific labels in a dataset.</description>
     </item>
     
     <item>
       <title>From optimal transport to generative modeling: the VEGAN cookbook</title>
-      <link>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</link>
+      <link>https://neuralnetworksbristol.netlify.app/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/from-optimal-transport-to-generative-modeling-the-vegan-cookbook/</guid>
       <description>On Tuesday 9th of June Anthony Lee presented From optimal transport to generative modeling: the VEGAN cookbook. The abstract is given below:
  We study unsupervised generative modeling in terms of the optimal transport (OT) problem between true (but unknown) data distribution PX and the latent variable model distribution PG. We show that the OT problem can be equivalently written in terms of probabilistic encoders, which are constrained to match the posterior and prior distributions over the latent space.</description>
     </item>
     
     <item>
       <title>Deep Learning for Multi-Scale Changepoint Detection in Multivariate Time Series</title>
-      <link>/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</link>
+      <link>https://neuralnetworksbristol.netlify.app/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/deep-learning-for-multi-scale-changepoint-detection-in-multivariate-time-series/</guid>
       <description>On Tuesday’s 5th of May Sam Tickle has presented Deep Learning for Multi-Scale Changepoint Detection in Multivariate Time Series. The abstract is given below.
  Many real-world time series, such as in health, have changepoints where the system’s structure or parameters change. Since changepoints can indicate critical events such as onset of illness, it is highly important to detect them. However, existing methods for changepoint detection (CPD) often require user-specified models and cannot recognize changes that occur gradually or at multiple time-scales.</description>
     </item>
     
     <item>
       <title>Information Bottleneck</title>
-      <link>/information-bottleneck/</link>
+      <link>https://neuralnetworksbristol.netlify.app/information-bottleneck/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/information-bottleneck/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/information-bottleneck/</guid>
       <description>On Tuesday \(21^{\text{st}}\) of April Mingxuan Yi talked about the topic of information bottleneck. The main references used were Opening the black box of Deep Neural Networks via Information by Ravid Schwartz-Ziv and Deep Learning and the Information Bottleneck Principle. The abstracts are given below
 Opening the black box of Deep Neural Networks via Information
  Despite their great success, there is still no comprehensive theoretical understanding of learning with Deep Neural Networks (DNNs) or their inner organization.</description>
@@ -90,30 +100,30 @@ Opening the black box of Deep Neural Networks via Information
     
     <item>
       <title>Expectation Backpropagation: Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights</title>
-      <link>/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</link>
+      <link>https://neuralnetworksbristol.netlify.app/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/expectation-backpropagation-parameter-free-training-of-multilayer-neural-networks-with-continuous-or-discrete-weights/</guid>
       <description>On Tuesday \(14^{\text{th}}\) of April I presented Expectation Backpropagation:Parameter-Free Training of Multilayer Neural Networks with Continuous or Discrete Weights. The abstract is given below.
  Multilayer Neural Networks (MNNs) are commonly trained using gradient descent-based methods, such as BackPropagation (BP). Inference in probabilistic graphical models is often done using variational Bayes methods, such as Expectation Propagation (EP). We show how an EP based approach can also be used to train deterministic MNNs.</description>
     </item>
     
     <item>
       <title>Partially Exchangeable Networks and Architectures for Learning Summary Statistics in Approximate Bayesian Computation</title>
-      <link>/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</link>
+      <link>https://neuralnetworksbristol.netlify.app/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/partially-exchangeable-networks-and-architectures-for-learning-summary-statistics-in-approximate-bayesian-computation/</guid>
       <description>On Tuesday 7\(^{\text{th}}\) of April Mark Beaumont presented Partially Exchangeable Networks and Architectures for Learning Summary Statistics in Approximate Bayesian Computation. The abstract is given below.
  We present a novel family of deep neural architectures, named partially exchangeable networks (PENs) that leverage probabilistic symmetries. By design, PENs are invariant to block-switch transformations, which characterize the partial exchangeability properties of conditionally Markovian processes. Moreover, we show that any block-switch invariant function has a PEN-like representation.</description>
     </item>
     
     <item>
       <title>Uniform convergence may be unable to explain generalization in deep learning</title>
-      <link>/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</link>
+      <link>https://neuralnetworksbristol.netlify.app/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</link>
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/uniform-convergence-may-be-unable-to-explain-generalization-in-deep-learning/</guid>
       <description>On Tuesday 10\(^{\text{th}}\) of March Patrick Rubin-Delanchy presented the 2019 NeurIPS paper winner of the Outstanding New Directions Paper Award, titled “Uniform convergence may be unable to explain generalization in deep learning” by Vaishnavh Nagarajan and J. Zico Kolter.
 The abstract is given below.
  Aimed at explaining the surprisingly good generalization behavior of overparameterized deep networks, recent works have developed a variety of generalization bounds for deep learning, all based on the fundamental learning-theoretic technique of uniform convergence.</description>
@@ -121,20 +131,20 @@ The abstract is given below.
     
     <item>
       <title>Nonparametric regression using deep neural networks with ReLU activation function</title>
-      <link>/nonparametric-regression-using-deep-neural-networks-with-relu-activation-function/</link>
+      <link>https://neuralnetworksbristol.netlify.app/nonparametric-regression-using-deep-neural-networks-with-relu-activation-function/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/nonparametric-regression-using-deep-neural-networks-with-relu-activation-function/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/nonparametric-regression-using-deep-neural-networks-with-relu-activation-function/</guid>
       <description>On Tuesday 17th of December Anthony Lee presented the paper Nonparametric regression using deep neural networks with ReLU activation function by Johannes Schmidt-Hieber. The abstract is given below.
  Consider the multivariate nonparametric regression model. It is shown that estimators based on sparsely connected deep neural networks with ReLU activation function and properly chosen network architecture achieve the minimax rates of convergence (up to logn-factors) under a general composition assumption on the regression function.</description>
     </item>
     
     <item>
       <title>Deep Convolutional Networks</title>
-      <link>/deep-convolutional-networks/</link>
+      <link>https://neuralnetworksbristol.netlify.app/deep-convolutional-networks/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/deep-convolutional-networks/</guid>
+      <guid>https://neuralnetworksbristol.netlify.app/deep-convolutional-networks/</guid>
       <description>On Tuesday 10th of December we watched the video “Multiscale Models for Image Classification and Physics with Deep Networks” by Stéphane Mallat.</description>
     </item>
     

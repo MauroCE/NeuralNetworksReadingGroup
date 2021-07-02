@@ -45,7 +45,7 @@ names <- presenting_members[index]
 location <- rep("ZOOM", length(names))
 schedule <- data.frame(Date=dates,Name=names, Room=location)
 # upcoming WEEK
-monday = "2021-06-30"
+monday = "2021-06-30" 
 knitr::kable(schedule) %>% 
     kable_styling(bootstrap_options = c("hover", "responsive")) %>% 
     row_spec(which(schedule$Date == monday), bold=F, color="white", background="#0066ff")

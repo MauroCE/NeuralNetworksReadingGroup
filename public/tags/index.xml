@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>likelihood-free</title>
+      <link>https://neuralnetworksbristol.netlify.app/tags/likelihood-free/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/tags/likelihood-free/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>deep-learning</title>
       <link>https://neuralnetworksbristol.netlify.app/tags/deep-learning/</link>
@@ -193,15 +202,6 @@
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://neuralnetworksbristol.netlify.app/tags/generative-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>likelihood-free</title>
-      <link>https://neuralnetworksbristol.netlify.app/tags/likelihood-free/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://neuralnetworksbristol.netlify.app/tags/likelihood-free/</guid>
       <description></description>
     </item>
     

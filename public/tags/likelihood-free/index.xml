@@ -6,7 +6,17 @@
     <description>Recent content in likelihood-free on Neural Networks Reading Group UoB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/likelihood-free/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://neuralnetworksbristol.netlify.app/tags/likelihood-free/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks</title>
+      <link>https://neuralnetworksbristol.netlify.app/a-likelihood-free-inference-framework-for-population-genetic-data-using-exchangeable-neural-networks/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuralnetworksbristol.netlify.app/a-likelihood-free-inference-framework-for-population-genetic-data-using-exchangeable-neural-networks/</guid>
+      <description>On Wednesday the \(30^{\text{th}}\) of June, Dan presented A Likelihood-Free Inference Framework for Population Genetic Data using Exchangeable Neural Networks. The abstract is below.
+ An explosion of high-throughput DNA sequencing in the past decade has led to a surge of interest in population-scale inference with whole-genome data. Recent work in population genetics has centered on designing inference methods for relatively simple model classes, and few scalable general-purpose inference techniques exist for more realistic, complex models.</description>
+    </item>
+    
     <item>
       <title>Sequential Neural Posterior and Likelihood Approximation</title>
       <link>https://neuralnetworksbristol.netlify.app/sequential-neural-posterior-and-likelihood-approximation/</link>
